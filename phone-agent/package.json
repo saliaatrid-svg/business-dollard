@@ -1,0 +1,17 @@
+{
+  "name": "dms-phone-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Agent téléphonique de DMS (Charlie) : Twilio ConversationRelay + Claude",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/index.js",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.129.0",
+    "googleapis": "^182.0.0",
+    "ws": "^8.22.0"
+  }
+}
