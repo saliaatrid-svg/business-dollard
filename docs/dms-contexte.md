@@ -3,7 +3,7 @@
 Source : documents de l'entreprise (dossier préparatoire SAD, septembre 2026) et courriels professionnels envoyés. À faire relire et corriger par la présidente : toute information ci-dessous peut être périmée.
 
 ## Qui
-- SASU **De la Mémoire aux Soins (DMS)**, siège à Sézanne (51), RCS Reims. Site : www.dms-aideadomicile.com.
+- SASU **De la Mémoire aux Soins (DMS)**, siège à Sézanne (51), RCS Reims. Site officiel : www.dms-aideadomicile.fr (confirmé par la présidente ; l'ancienne adresse en .com apparaît encore dans certaines signatures de courriel à corriger).
 - Présidente : Salia Atrid, aide-soignante diplômée d'État. Structure sans accueil du public, à domicile.
 - Déclaration Service à la Personne (SAP) d'août 2024 ; agrément SAP en mode mandataire de juin 2025 (assistance aux personnes âgées et handicapées, accompagnement dans les déplacements).
 
@@ -41,5 +41,5 @@ Source : pitch de lancement (mai 2026) et script de spot publicitaire. À confir
 - Parcours de la présidente (à utiliser avec son accord) : gestion comptable, sept ans aide-soignante (hôpital de Montmirail, SSIAD de Sézanne, unité Alzheimer, oncologie), titre de Responsable de secteur services à la personne en 2022, expérience à Familles Rurales Marne.
 
 ## Points à vérifier
-- Le site apparaît sous plusieurs adresses (`.com` et `.fr`) dans les documents : confirmer l'adresse officielle.
+- Corriger l'adresse `.com` restée dans certaines signatures de courriel.
 - Les documents comptables ne sont pas à reproduire dans les échanges avec les agents.
