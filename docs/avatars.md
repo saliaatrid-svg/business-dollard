@@ -26,7 +26,7 @@ Générés avec Gemini (prompts dans `docs/avatars-gemini.md`) et rangés dans `
 | Maël | `docs/avatars/mael.jpg` | Fait |
 | Noa | `docs/avatars/noa.jpg` | Fait |
 | Sacha | `docs/avatars/sacha.jpg` | Fait |
-| Camille | (à générer) | Manquant |
-| Alix | (à générer) | Manquant |
+| Camille | `docs/avatars/camille.jpg` | Fait |
+| Alix | `docs/avatars/alix.jpg` | Fait |
 
 Mention obligatoire à tout usage public : « assistant virtuel (IA) ».
