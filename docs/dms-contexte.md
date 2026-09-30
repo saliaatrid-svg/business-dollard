@@ -29,3 +29,17 @@ Prescripteurs et partenaires contactés ou actifs : CARSAT Nord-Est, CLIC Brie C
 ## Règles communes
 - Ne jamais copier dans un document partagé un nom de client, un numéro de compte, un SIRET de tiers ou un détail de santé.
 - Toute information de ce fichier est une base de travail : en cas de doute, demander à la présidente.
+
+## YouGoo by DMS (mobilité accompagnée)
+Source : pitch de lancement (mai 2026) et script de spot publicitaire. À confirmer avant toute diffusion.
+- Accompagnement « bras-dessus, bras-dessous » du domicile au lieu de rendez-vous, présence humaine rassurante, attente sur place incluse, véhicules hybrides.
+- Publics : seniors en perte d'autonomie, personnes isolées, jeunes en insertion, parents (rendez-vous santé).
+- Secteurs : Sézanne, Montmirail, Esternay, Anglure, Fère-Champenoise.
+- Financement présenté : avance immédiate du crédit d'impôt (AICI) à 50 % ; exemple donné dans le pitch : une heure à 15 € revient à 7,50 €. **Tarif non autorisé pour Charlie** tant que la présidente ne l'a pas validé.
+- Partenaires visés : CCAS, mairies, structures d'insertion, prescripteurs locaux.
+- Signature : « La liberté pour eux, la paix pour vous. »
+- Parcours de la présidente (à utiliser avec son accord) : gestion comptable, sept ans aide-soignante (hôpital de Montmirail, SSIAD de Sézanne, unité Alzheimer, oncologie), titre de Responsable de secteur services à la personne en 2022, expérience à Familles Rurales Marne.
+
+## Points à vérifier
+- Le site apparaît sous plusieurs adresses (`.com` et `.fr`) dans les documents : confirmer l'adresse officielle.
+- Les documents comptables ne sont pas à reproduire dans les échanges avec les agents.

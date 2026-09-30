@@ -1,6 +1,6 @@
 # Avatars des agents DMS
 
-Style choisi : **photo réaliste** de personnages virtuels. Charte commune : portrait cadré aux épaules, lumière naturelle de fenêtre, fond blanc cassé chaleureux avec une légère teinte verte d'eau, regard vers la caméra, expression rassurante.
+Style choisi : **photo réaliste** de personnages virtuels. Charte commune : portrait cadré aux épaules, lumière naturelle de fenêtre, fond blanc cassé chaleureux avec une légère teinte lavande (violet de DMS), touches dorées discrètes, regard vers la caméra, expression rassurante.
 
 ## Règle d'honnêteté
 Ces portraits représentent des **assistants virtuels**, pas des personnes réelles. DMS n'a pas de salariés correspondant à ces visages : ne jamais les présenter comme l'équipe réelle, ni les utiliser sur le site ou les réseaux sans la mention « assistant virtuel (IA) ». Toute ressemblance avec une personne réelle est fortuite ; en cas de doute, changer l'image.
