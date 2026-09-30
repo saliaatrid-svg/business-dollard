@@ -16,5 +16,17 @@ Ces portraits représentent des **assistants virtuels**, pas des personnes réel
 | Lou | Juridique et RGPD | Femme d'une cinquantaine d'années, carré argenté, blazer bordeaux sur haut blanc, expression sérieuse et bienveillante |
 | Charlie | Accueil téléphonique | Femme d'une trentaine d'années, queue de cheval basse, chemisier vert clair, petit micro-casque, sourire très accueillant |
 
-## État
-Génération non faite : le quota de crédits Canva était épuisé (30 septembre 2026). À relancer quand le quota est rétabli, ou à produire avec un autre outil.
+## État (30 septembre 2026)
+Générés avec Gemini (prompts dans `docs/avatars-gemini.md`) et rangés dans `docs/avatars/` :
+
+| Agent | Fichier | État |
+| --- | --- | --- |
+| Charlie | `docs/avatars/charlie.jpg` | Fait |
+| Lou | `docs/avatars/lou.jpg` | Fait |
+| Maël | `docs/avatars/mael.jpg` | Fait |
+| Noa | `docs/avatars/noa.jpg` | Fait |
+| Sacha | `docs/avatars/sacha.jpg` | Fait |
+| Camille | (à générer) | Manquant |
+| Alix | (à générer) | Manquant |
+
+Mention obligatoire à tout usage public : « assistant virtuel (IA) ».
