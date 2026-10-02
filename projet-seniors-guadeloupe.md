@@ -189,6 +189,46 @@ Financement en Guadeloupe (à confirmer dans l'AMI 2026) :
 
 ---
 
+## 6. Mobiliser le relais local (proche de la famille, conditions à définir)
+
+Décision : mener en parallèle la coordination pour la diaspora et l'habitat inclusif. Le relais devient le point d'appui terrain des deux pistes.
+
+### Avant toute mission : cadrer la relation (semaine 1)
+Le relais est un proche et ses conditions ne sont pas définies. Clarifier par écrit :
+1. Temps disponible par semaine et jusqu'à quand.
+2. Statut visé : bénévole au départ, puis associé(e) ou salarié(e) si le projet se confirme.
+3. Rémunération ou défraiement des déplacements pendant la phase de test.
+4. Ce qu'il ou elle peut décider seul(e) et ce qui doit passer par toi.
+5. Rôle futur : animateur ou responsable local de l'habitat, ou simple apporteur d'affaires.
+
+Un message écrit récapitulatif suffit pour commencer. Quand le projet devient payant, prévoir un contrat ou un pacte d'associés : ne pas laisser un rôle central à un statut flou.
+
+### Missions du relais, par priorité
+| Priorité | Mission | Livrable attendu |
+|---|---|---|
+| 1 | Rencontrer le pôle autonomie du Département (et l'ARS si besoin) avec la liste de questions des sections 2 et 5 | Compte rendu écrit, documents de l'AMI habitat inclusif |
+| 2 | Interroger 10 seniors ou aidants et 5 à 8 prestataires avec le guide d'entretien | Fiches d'entretien |
+| 3 | Repérer 3 à 5 maisons de 3 à 4 chambres à louer dans 2 ou 3 communes | Fiches : adresse, loyer, état, accessibilité, avis du propriétaire |
+| 4 | Préparer son futur rôle d'animateur ou responsable local | Fiche de poste, formation éventuelle |
+
+### Rythme de pilotage à distance
+- Un point visio hebdomadaire de 30 min (bilan, blocages, priorités de la semaine).
+- Un tableau de suivi partagé : contacts, entretiens, maisons visitées, décisions.
+- Un compte rendu écrit après chaque rendez-vous officiel.
+
+### Les 30 premiers jours, avec le relais
+- Semaine 1 : cadrer la relation, partager le guide d'entretien, préparer le rendez-vous au Département.
+- Semaine 2 : premier rendez-vous au Département, début des entretiens, début de la recherche de maisons.
+- Semaine 3 : entretiens diaspora à distance (toi), visites de maisons (relais), synthèse intermédiaire.
+- Semaine 4 : décision de passage : AMI habitat inclusif prêt à déposer, pilote de coordination à lancer, ou ajustement.
+
+### Garde-fous
+- Ne rien signer (bail, convention) avant d'avoir les réponses écrites du Département.
+- Ne pas confier au relais de soins ni d'aide à la toilette : prestataires autorisés uniquement.
+- Prévoir un second relais ou un prestataire de secours si le premier se retire.
+
+---
+
 ## Sources
 - INSEE, dépendance des seniors en Guadeloupe à l'horizon 2030 : https://www.insee.fr/fr/statistiques/5359577
 - Département de la Guadeloupe, seniors : https://www.cg971.fr/solidarites/seniors/
