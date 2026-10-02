@@ -189,43 +189,46 @@ Financement en Guadeloupe (à confirmer dans l'AMI 2026) :
 
 ---
 
-## 6. Mobiliser le relais local (proche de la famille, conditions à définir)
+## 6. Gestion sans relais local : à distance, puis installation sur place
 
-Décision : mener en parallèle la coordination pour la diaspora et l'habitat inclusif. Le relais devient le point d'appui terrain des deux pistes.
+Décisions : pas de relais local ; séjour d'un mois ou plus ; installation sur place à terme ; date du premier séjour non fixée ; les deux pistes (coordination diaspora et habitat inclusif) restent menées en parallèle.
 
-### Avant toute mission : cadrer la relation (semaine 1)
-Le relais est un proche et ses conditions ne sont pas définies. Clarifier par écrit :
-1. Temps disponible par semaine et jusqu'à quand.
-2. Statut visé : bénévole au départ, puis associé(e) ou salarié(e) si le projet se confirme.
-3. Rémunération ou défraiement des déplacements pendant la phase de test.
-4. Ce qu'il ou elle peut décider seul(e) et ce qui doit passer par toi.
-5. Rôle futur : animateur ou responsable local de l'habitat, ou simple apporteur d'affaires.
+### Ce que tu fais toi-même à distance
+- Département et ARS : appels et e-mails, réponses par écrit, rendez-vous en visio, récupération de l'AMI habitat inclusif.
+- Entretiens : diaspora en visio ; seniors, aidants et prestataires par téléphone.
+- Société en ligne, assurance, dossier Initiative Guadeloupe et autres financements.
+- Recherche de maisons : annonces, agences locales, appels aux propriétaires, photos et vidéos demandées à distance.
 
-Un message écrit récapitulatif suffit pour commencer. Quand le projet devient payant, prévoir un contrat ou un pacte d'associés : ne pas laisser un rôle central à un statut flou.
+### Ce qu'on ne peut pas remplacer à distance
+- Visiter les maisons et rencontrer les propriétaires.
+- Rencontrer en personne les prestataires retenus avant de signer.
+- Superviser les travaux et le démarrage de l'habitat.
+- Gérer les urgences (habitant malade, problème dans la maison).
 
-### Missions du relais, par priorité
-| Priorité | Mission | Livrable attendu |
+### Comparaison des solutions locales de remplacement
+| Solution | Avantages | Limites | Quand la choisir |
+|---|---|---|---|
+| Animateur(trice) salarié(e) | Présence quotidienne, répond à l'exigence d'animation de l'AVP | Coût salarial fixe, recrutement à faire | À l'ouverture de l'habitat |
+| Prestataire d'aide à domicile partenaire | Déjà autorisé, intervient et rend compte | Qualité variable, dépendance à un tiers | Dès le pilote de coordination |
+| Agence de gestion locative | Visites, entretien, relation avec le propriétaire | Ne remplace pas l'animation ni le suivi des habitants | Pour la partie maison uniquement |
+| Installation sur place | Contrôle total, confiance des familles, exigence locale éventuelle du Département | Engage ta vie personnelle, coût de départ | Objectif à terme |
+
+Recommandation : combiner prestataire partenaire (pilote), agence de gestion locative (maison), puis animateur salarié à l'ouverture, en attendant ton installation.
+
+### Calendrier révisé
+| Période | Lieu | Objectif |
 |---|---|---|
-| 1 | Rencontrer le pôle autonomie du Département (et l'ARS si besoin) avec la liste de questions des sections 2 et 5 | Compte rendu écrit, documents de l'AMI habitat inclusif |
-| 2 | Interroger 10 seniors ou aidants et 5 à 8 prestataires avec le guide d'entretien | Fiches d'entretien |
-| 3 | Repérer 3 à 5 maisons de 3 à 4 chambres à louer dans 2 ou 3 communes | Fiches : adresse, loyer, état, accessibilité, avis du propriétaire |
-| 4 | Préparer son futur rôle d'animateur ou responsable local | Fiche de poste, formation éventuelle |
+| Mois 1 à 3 | À distance | Entretiens, réponses écrites du Département, société, dossier de financement |
+| Mois 4 à 5 | À distance | Dossier AMI, présélection de maisons via agences, partenaires identifiés par appel |
+| Mois 5 à 6 (ou dès que possible) | Séjour d'un mois ou plus | Visites, bail, partenariats, rencontres officielles, début des travaux |
+| Mois 7 à 12 | Sur place ou en alternance | Travaux, premiers habitants, exploitation |
+| Au-delà | Installation | Gestion directe |
 
-### Rythme de pilotage à distance
-- Un point visio hebdomadaire de 30 min (bilan, blocages, priorités de la semaine).
-- Un tableau de suivi partagé : contacts, entretiens, maisons visitées, décisions.
-- Un compte rendu écrit après chaque rendez-vous officiel.
-
-### Les 30 premiers jours, avec le relais
-- Semaine 1 : cadrer la relation, partager le guide d'entretien, préparer le rendez-vous au Département.
-- Semaine 2 : premier rendez-vous au Département, début des entretiens, début de la recherche de maisons.
-- Semaine 3 : entretiens diaspora à distance (toi), visites de maisons (relais), synthèse intermédiaire.
-- Semaine 4 : décision de passage : AMI habitat inclusif prêt à déposer, pilote de coordination à lancer, ou ajustement.
-
-### Garde-fous
-- Ne rien signer (bail, convention) avant d'avoir les réponses écrites du Département.
-- Ne pas confier au relais de soins ni d'aide à la toilette : prestataires autorisés uniquement.
-- Prévoir un second relais ou un prestataire de secours si le premier se retire.
+### Points de vigilance
+- Demander dès le premier appel au Département si un responsable local est exigé pour l'AMI habitat inclusif.
+- Ne rien signer (bail, convention) avant d'avoir les réponses écrites.
+- Pas de soins ni d'aide à la toilette fournis par toi : prestataires autorisés uniquement.
+- Prévoir un contact de secours (prestataire, association) pour les urgences pendant tes périodes à distance.
 
 ---
 
