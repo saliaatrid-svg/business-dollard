@@ -145,8 +145,54 @@ Questions à poser au Département et à l'ARS :
 
 ---
 
+## 5. Option : habitat inclusif (maison partagée de 3 à 4 chambres)
+
+Cadre : loi ELAN 2018. Pas d'autorisation médico-sociale. Le porteur doit être une personne morale. Les habitants ont un bail individuel, une charte de vie partagée et choisissent leurs prestataires de soins. Public visé : plus de 65 ans (ou handicap), autonomes ou peu dépendants.
+
+Financement en Guadeloupe (à confirmer dans l'AMI 2026) :
+- Aide à la vie partagée (AVP) du Département : enveloppe de 50 000 € en 2026 pour l'animation du projet social.
+- Travaux : jusqu'à 150 000 € par habitat.
+- Condition : convention avec le Département et respect du cahier des charges national (arrêté du 24 juin 2019).
+
+### Questions à poser au Département (pôle autonomie)
+1. Quel est le nombre minimum et maximum d'habitants pour un habitat inclusif ?
+2. Quel est le montant de l'AVP par habitant et par an ?
+3. Un porteur situé hors de Guadeloupe est-il accepté, avec un relais local ?
+4. Quelles sont les dates, critères et pièces de l'AMI 2026 ?
+5. Une maison louée est-elle acceptée, ou le porteur doit-il être propriétaire ?
+6. Quels profils sont exclus (niveau de dépendance maximum) ?
+7. Quelles normes de sécurité et d'accessibilité s'appliquent ?
+
+### Modèle économique à compléter
+| Poste | Montant mensuel |
+|---|---|
+| Loyer de la maison (___ chambres) | ___ |
+| Charges (eau, électricité, internet, assurance) | ___ |
+| Animateur(trice) de la vie partagée | ___ |
+| Entretien et petits travaux | ___ |
+| **Total charges** | ___ |
+| Loyer par habitant (___ habitants) | ___ |
+| AVP (selon montant par habitant) | ___ |
+| **Total recettes** | ___ |
+| **Résultat mensuel** | ___ |
+
+### Points de vigilance
+- Le bail avec le propriétaire doit autoriser plusieurs locataires et l'adaptation des lieux (pas de location touristique).
+- Pas de soins ni d'aide à la toilette fournis par toi : prestataires autorisés extérieurs.
+- Le projet de vie sociale et partagée est rédigé avec les habitants dans une charte.
+
+### Calendrier proposé (à partir du mois 6)
+- Mois 6 : obtenir l'AMI, appeler le Département, repérer 3 à 5 maisons à louer.
+- Mois 7 : tester l'intérêt auprès de 5 familles de la diaspora, chiffrer le modèle.
+- Mois 8 à 9 : déposer le dossier, négocier le bail, identifier l'animateur local.
+- Mois 10 à 12 : travaux, signature de la convention, premiers habitants.
+
+---
+
 ## Sources
 - INSEE, dépendance des seniors en Guadeloupe à l'horizon 2030 : https://www.insee.fr/fr/statistiques/5359577
 - Département de la Guadeloupe, seniors : https://www.cg971.fr/solidarites/seniors/
 - Annuaire officiel des services autonomie à domicile : https://www.pour-les-personnes-agees.gouv.fr/annuaire-service-aide-accompagnement-domicile/guadeloupe-971
 - Initiative Guadeloupe, prêt d'honneur : https://mesaidespubliques.infogreffe.fr/aides/initiative-guadeloupe-pret-honneur-creation
+- Habitat inclusif, Département de la Guadeloupe : https://www.cg971.fr/habitat-inclusif-guadeloupe-autonomie/
+- Habitat inclusif, portail officiel : https://www.pour-les-personnes-agees.gouv.fr/changer-de-logement/autres-solutions-de-logement/habitat-inclusif-un-chez-soi-et-une-vie-sociale-partagee
