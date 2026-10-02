@@ -8,7 +8,7 @@ Copie : Direction de l'autonomie / pôle autonomie (envoi simultané par e-mail,
 ---
 
 [Prénom NOM]
-Fondateur de [De la Mémoire aux Soins (DMS) : préciser le statut : association en cours de création / société / projet]
+Président(e) de De la Mémoire aux Soins (DMS), SAS, SIRET 981 382 948 00017, 232 rue Sternberg, 51120 Sézanne
 [Adresse], 51120 Sézanne
 [Téléphone] · delamemoireauxsoins@gmail.com
 
@@ -25,9 +25,9 @@ Lettre recommandée avec accusé de réception
 
 Monsieur le Président,
 
-Je me permets de vous écrire au nom de **De la Mémoire aux Soins (DMS)**, projet que je porte depuis Sézanne et dont l'ambition est d'accompagner les personnes âgées de notre territoire, de la préservation de leur mémoire et de leur autonomie jusqu'aux soins dont elles ont besoin.
+Je me permets de vous écrire en tant que dirigeant de **De la Mémoire aux Soins (DMS)**, société établie à Sézanne depuis novembre 2023, qui accompagne à domicile les personnes âgées, dépendantes ou en situation de handicap de notre territoire. [Compléter : nombre de personnes accompagnées, ancienneté, type d'autorisation ou de déclaration.] Au contact des familles, nous constatons un besoin que le domicile seul ne couvre pas toujours : de la préservation de la mémoire et de l'autonomie jusqu'aux soins, un lieu de vie adapté.
 
-**Le projet.** Dans les deux ans, DMS souhaite ouvrir à Sézanne un habitat inclusif de 3 à 4 logements privatifs, avec des espaces de vie partagés et un projet de vie sociale et partagée, à destination de personnes âgées autonomes ou peu dépendantes, qui ne souhaitent pas rester isolées chez elles, sans pour autant entrer en Ehpad. Les soins resteraient assurés par les services autorisés du territoire (SSIAD, services d'aide à domicile, professionnels de santé libéraux).
+**Le projet.** Dans les deux ans, DMS souhaite promouvoir et ouvrir à Sézanne [par une structure dédiée si nécessaire : voir note ci-dessous] un habitat inclusif de 3 à 4 logements privatifs, avec des espaces de vie partagés et un projet de vie sociale et partagée, à destination de personnes âgées autonomes ou peu dépendantes, qui ne souhaitent pas rester isolées chez elles, sans pour autant entrer en Ehpad. Les soins resteraient assurés par les services autorisés du territoire (SSIAD, services d'aide à domicile, professionnels de santé libéraux).
 
 **Pourquoi à Sézanne.** Les personnes de plus de 65 ans représentent environ 30 % des habitants de la commune (Insee 2023). Le schéma gérontologique départemental 2024-2029 rappelle qu'environ 50 000 Marnais ont plus de 75 ans et que ce nombre pourrait augmenter de près de 38 % entre 2020 et 2030.
 
@@ -52,7 +52,8 @@ Pièces jointes (facultatif) : note de présentation du projet DMS (2 pages), ex
 ---
 
 ## Avant l'envoi : à compléter ou vérifier
-- Statut de DMS : association, société ou projet sans structure. Cela change la manière de se présenter et le type de porteur reconnu pour la convention.
+- **Statut et autorisation de DMS** : DMS est une SAS créée le 7 novembre 2023 (activité d'aide à domicile, d'après l'annuaire public). Vérifier si DMS est autorisé par le Département en tant que SAAD ou simplement déclaré en services à la personne.
+- **Séparation possible des activités** : un habitat inclusif ne peut pas être développé directement par un établissement ou service social ou médico-social (ESSMS). Si DMS est autorisé en tant que SAAD, il faudra peut-être créer une structure distincte (association ou SAS dédiée) ou un partenariat pour porter l'habitat. À confirmer auprès du Département.
 - La phrase d'ouverture sur le sens du nom « De la Mémoire aux Soins » : à reformuler avec tes propres mots.
 - Adresse du Département et nom du Président.
 - Le délai de deux ans : à ajuster après la réponse sur la procédure de conventionnement.
