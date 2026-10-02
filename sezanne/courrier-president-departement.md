@@ -2,7 +2,7 @@
 
 Envoi : lettre recommandée avec accusé de réception (LRAR).
 Le courrier du 10 septembre 2026 (« État des lieux et contribution de DMS ») n'a pas été envoyé : ce courrier est donc autonome et porte uniquement sur l'habitat inclusif.
-Copie par e-mail : pôle autonomie / Direction de l'autonomie (voir `email-departement-marne.md`).
+Copie par e-mail : pôle autonomie / Direction de l'autonomie (voir `email-pole-autonomie.md`).
 
 ---
 

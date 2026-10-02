@@ -1,6 +1,6 @@
 # Étude 2 : habitat inclusif pour seniors à Sézanne (Marne)
 
-Étude distincte de celle de la Guadeloupe (`projet-seniors-guadeloupe.md`). Porteur basé sur place, à Sézanne.
+Étude distincte de celle de la Guadeloupe (`../guadeloupe/etude.md`). Porteur basé sur place, à Sézanne.
 
 Les informations marquées « à vérifier » n'ont pas été confirmées. Les chiffres du modèle économique sont des hypothèses, pas des données vérifiées.
 

@@ -1,6 +1,6 @@
 # Courrier recommandé à la Présidente du Département de la Guadeloupe (habitat inclusif)
 
-Envoi : lettre recommandée avec accusé de réception (LRAR), avec envoi parallèle de l'e-mail au pôle autonomie (voir `email-departement-guadeloupe.md`).
+Envoi : lettre recommandée avec accusé de réception (LRAR), avec envoi parallèle de l'e-mail au pôle autonomie (voir `email-pole-autonomie.md`).
 
 À vérifier avant l'envoi :
 - **Nom de la présidente** : mes recherches indiquent Mme Josette BOREL-LINCERTIN (élue le 2 avril 2026). Non confirmé sur le site officiel (cg971.fr était inaccessible depuis mon environnement).
@@ -61,7 +61,7 @@ Présidente – DMS DE LA MÉMOIRE AUX SOINS
 - **Commune cible** : à préciser. Une commune précise renforce le dossier (besoin repéré, loyers, proximité des services).
 - **Gestion du projet** : le Département voudra savoir qui assure la présence sur place. Ton choix (installation à terme, responsable local, animateur salarié) doit apparaître dans le courrier.
 - **Chiffre des douze familles** : celui de la Marne, tel que tu me l'as donné.
-- **Calendrier réaliste** : à distance au début (voir `projet-seniors-guadeloupe.md`, section 6), puis séjour d'un mois ou plus.
+- **Calendrier réaliste** : à distance au début (voir `etude.md`, section 6), puis séjour d'un mois ou plus.
 
 ## Précautions
 
