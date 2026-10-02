@@ -1,65 +1,73 @@
-# Courrier recommandé au Président du Département de la Marne
+# Courrier recommandé au Président du Département de la Marne (habitat inclusif)
 
 Envoi : lettre recommandée avec accusé de réception (LRAR).
-Destinataire : Monsieur le Président du Conseil départemental de la Marne (le schéma gérontologique 2024-2029 est signé de Jean-Marc Roze : confirmer qu'il est toujours en fonction).
-Adresse : Hôtel du Département, 2 bis rue de Jessaint, 51038 Châlons-en-Champagne Cedex (à vérifier sur marne.fr avant l'envoi).
-Copie : Direction de l'autonomie / pôle autonomie (envoi simultané par e-mail, voir `email-departement-marne.md`).
+Suite du courrier du 10 septembre 2026 (« État des lieux et contribution de DMS »), qui présentait l'aide à domicile, la mobilité et le répit des aidants.
+Copie par e-mail : pôle autonomie / Direction de l'autonomie (voir `email-departement-marne.md`).
 
 ---
 
-[Prénom NOM]
-Président(e) de De la Mémoire aux Soins (DMS), SAS, SIRET 981 382 948 00017, 232 rue Sternberg, 51120 Sézanne
-[Adresse], 51120 Sézanne
-[Téléphone] · delamemoireauxsoins@gmail.com
+Salia ATRID
+Présidente – SASU DMS DE LA MÉMOIRE AUX SOINS
+232 rue Sternberg
+51120 Sézanne
+Tél. : 09 54 94 21 31 / 07 49 55 14 85
+www.dms-aideadomicile.com
 
-Monsieur le Président du Conseil départemental de la Marne
+Monsieur Jean-Marc ROZE
+Président du Conseil départemental de la Marne
 Hôtel du Département
-2 bis rue de Jessaint
+40 rue Carnot
 51038 Châlons-en-Champagne Cedex
 
 Sézanne, le [date]
 
-**Objet : Projet d'habitat inclusif pour seniors à Sézanne, porté par De la Mémoire aux Soins : demande d'accompagnement et de rendez-vous**
+**Objet : Projet d'habitat inclusif pour personnes âgées à Sézanne : demande d'informations et d'accompagnement. Suite à mon courrier du 10 septembre 2026**
 
 Lettre recommandée avec accusé de réception
 
 Monsieur le Président,
 
-Je me permets de vous écrire en tant que dirigeant de **De la Mémoire aux Soins (DMS)**, société établie à Sézanne depuis novembre 2023, qui accompagne à domicile les personnes âgées, dépendantes ou en situation de handicap de notre territoire. DMS est déclarée et agréée en tant que service à la personne en mode mandataire. [Compléter : nombre de personnes accompagnées, ancienneté.] Au contact des familles, nous constatons un besoin que le domicile seul ne couvre pas toujours : de la préservation de la mémoire et de l'autonomie jusqu'aux soins, un lieu de vie adapté.
+Je me permets de vous écrire de nouveau, à la suite de mon courrier du 10 septembre 2026, pour vous présenter un projet que DMS DE LA MÉMOIRE AUX SOINS souhaite conduire à Sézanne dans les deux ans : un **habitat inclusif pour personnes âgées**.
 
-**Le projet.** Dans les deux ans, DMS souhaite promouvoir et ouvrir à Sézanne un habitat inclusif de 3 à 4 logements privatifs, avec des espaces de vie partagés et un projet de vie sociale et partagée, à destination de personnes âgées autonomes ou peu dépendantes, qui ne souhaitent pas rester isolées chez elles, sans pour autant entrer en Ehpad. Les soins resteraient assurés par les services autorisés du territoire (SSIAD, services d'aide à domicile, professionnels de santé libéraux).
+**D'où vient ce projet.** Aide-soignante diplômée d'État, j'ai travaillé plusieurs années en établissement, dont deux ans et demi en unité de vie protégée pour personnes atteintes de la maladie d'Alzheimer, avant de fonder DMS. Au quotidien, avec les familles du sud-ouest marnais que nous accompagnons à domicile (aide à domicile, présences de nuit non médicalisées depuis le 1er mai 2026, mobilité accompagnée), je constate un besoin que le seul domicile ne couvre pas toujours : des personnes âgées encore autonomes ou peu dépendantes, souvent seules, qui ne souhaitent pas entrer en Ehpad mais pour qui le domicile devient fragile. [Compléter avec un ou deux chiffres de ton activité : nombre de familles accompagnées, de nuits réalisées, de demandes reçues.]
 
-**Pourquoi à Sézanne.** Les personnes de plus de 65 ans représentent environ 30 % des habitants de la commune (Insee 2023). Le schéma gérontologique départemental 2024-2029 rappelle qu'environ 50 000 Marnais ont plus de 75 ans et que ce nombre pourrait augmenter de près de 38 % entre 2020 et 2030.
+**Le projet.** Il s'agirait d'une maison de 3 à 4 logements privatifs à Sézanne, avec des espaces de vie partagés et un projet de vie sociale et partagée construit avec les habitants. Les soins et l'aide resteraient assurés par des intervenants librement choisis par les habitants (SSIAD, services d'aide à domicile, professionnels de santé libéraux). [Option : préciser le public visé, par exemple des personnes avec des troubles cognitifs légers.]
 
-**Le lien avec la politique du Département.** Le projet répond à l'orientation n°4 du schéma, « Agir sur le logement », qui vise à promouvoir une offre d'habitat alternatif diversifiée, claire et lisible, et à l'orientation n°2, qui entend lutter contre l'isolement des personnes âgées. Il s'inscrit dans l'engagement pris par le Département en 2022 de reconnaître et de financer des habitats inclusifs sur son territoire, avec l'aide à la vie partagée.
+**Pourquoi à Sézanne.** Les personnes de plus de 65 ans représentent environ 30 % des habitants de la commune (Insee 2023). Le schéma gérontologique 2024-2029 rappelle qu'environ 50 000 Marnais ont plus de 75 ans et que ce nombre pourrait augmenter de près de 38 % entre 2020 et 2030.
 
-**Mon objectif.** Je souhaite que ce projet puisse être reconnu comme un projet **soutenu et conventionné par le Département dans un délai de deux ans**, et je vous demande pour cela votre accompagnement.
+**Le lien avec la politique du Département.** Ce projet répond à l'orientation n°4 du schéma, « Agir sur le logement », qui vise à promouvoir une offre d'habitat alternatif diversifiée, claire et lisible, et à l'orientation n°2, qui entend lutter contre l'isolement des personnes âgées. Il s'inscrit aussi dans l'engagement pris par le Département en 2022 de reconnaître et de financer des habitats inclusifs sur son territoire, avec l'aide à la vie partagée.
 
-**Mes demandes.**
-1. Un **rendez-vous** avec vous ou avec le service que vous désignerez, pour présenter DMS et le projet.
-2. Des informations précises sur : le **montant de l'AVP** par habitant dans la Marne, la **procédure et le calendrier de conventionnement**, le nombre d'habitats déjà ouverts parmi les 35 prévus, les **conditions** applicables au porteur de projet (statut, maison louée, nombre d'habitants, âge et niveau d'autonomie).
-3. L'indication d'un **interlocuteur référent** au sein du Département pour suivre mon dossier.
+**Mes demandes.** Je souhaite m'inscrire dans une démarche rigoureuse et à mon rythme, et je vous serais reconnaissante de bien vouloir me communiquer :
+1. le **montant de l'aide à la vie partagée** par habitant dans la Marne, ainsi que la **procédure et le calendrier de conventionnement** (appel à projets, appel à manifestation d'intérêt ou dépôt au fil de l'eau) ;
+2. le nombre d'habitats inclusifs déjà conventionnés et les **conditions** applicables au porteur de projet : mon organisme est déclaré et agréé en services à la personne en mode mandataire, sans autorisation de service d'aide à domicile, et je souhaite savoir s'il peut porter un habitat inclusif ;
+3. le nom d'un **interlocuteur référent** au sein de vos services pour suivre ce dossier, et, si vous l'estimez utile, un rendez-vous.
 
-Je reste à votre disposition pour toute information complémentaire et pour vous présenter le projet, en présentiel ou à distance.
+Je reste à votre disposition, par écrit ou en rendez-vous, pour toute précision.
 
-Dans l'attente de votre réponse, je vous prie d'agréer, Monsieur le Président, l'expression de mes salutations respectueuses.
+Je vous prie d'agréer, Monsieur le Président, l'expression de ma considération distinguée.
 
-[Signature]
-[Prénom NOM]
-
-Pièces jointes (facultatif) : note de présentation du projet DMS (2 pages), extrait des données Insee sur Sézanne.
+Salia ATRID
+Présidente – DMS DE LA MÉMOIRE AUX SOINS
 
 ---
 
-## Avant l'envoi : à compléter ou vérifier
-- **Statut de DMS** : SAS créée le 7 novembre 2023, déclarée et agréée en mode mandataire (services à la personne), sans autorisation du Département. DMS n'étant pas un service médico-social autorisé, rien n'indique qu'elle soit exclue du portage d'un habitat inclusif : à faire confirmer par écrit par le Département (question 5).
-- **Prestations dans l'habitat** : les habitants doivent rester libres de choisir leurs intervenants. Si DMS intervient aussi dans la maison, le prévoir dans la charte et les contrats.
-- La phrase d'ouverture sur le sens du nom « De la Mémoire aux Soins » : à reformuler avec tes propres mots.
-- Adresse du Département et nom du Président.
-- Le délai de deux ans : à ajuster après la réponse sur la procédure de conventionnement.
+## Avant l'envoi : à vérifier
 
-## Conseils pour le suivi
+- **Le courrier du 10 septembre a-t-il été envoyé ?** Le fichier sur le Drive est un brouillon. Si oui, ce courrier est la suite. Sinon, envoie-le d'abord, ou fusionne les deux.
+- **Adresse** : j'avais d'abord indiqué « 2 bis rue de Jessaint » à tort ; l'adresse de ton courrier du 10 septembre est **40 rue Carnot, 51038 Châlons-en-Champagne Cedex** (reprise ici).
+- **Statut** : DMS est une **SASU** (pas une SAS comme l'indiquait l'annuaire public), présidente Salia Atrid.
+- **Chiffres d'activité** : le Drive contient l'étude de marché sur les nuits ; insère-y 1 ou 2 chiffres réels (nuits réalisées, familles).
+- **La demande d'autorisation SAAD/SAD** (dossier préparatoire sur le Drive) n'est pas mentionnée ici volontairement : voir la note ci-dessous.
+
+## Point stratégique : habitat inclusif et autorisation SAD
+
+- Un habitat inclusif ne peut pas être développé directement par un établissement ou service médico-social (ESSMS). Aujourd'hui DMS n'est pas autorisée : rien n'empêche DMS de porter l'habitat.
+- Mais si DMS obtient un jour l'autorisation SAD (ton objectif, d'après le dossier préparatoire), elle deviendrait un service médico-social. Il faudra alors **séparer les deux** : une structure dédiée à l'habitat (association ou SASU distincte) ou un partenariat.
+- À poser au Département dès la première réponse : « Si DMS est autorisée SAD plus tard, peut-elle rester porteuse de l'habitat, ou faut-il une structure distincte ? »
+
+## Conseils de suivi
+
 - Garde l'accusé de réception et note la date de réception.
-- Envoie en parallèle l'e-mail au pôle autonomie : le courrier au Président est en général orienté vers le service compétent.
-- Relance par téléphone après 15 jours en citant la date d'accusé de réception.
-- Prévois une note de présentation de DMS de deux pages, utile pour le rendez-vous.
+- Envoie en parallèle l'e-mail au pôle autonomie.
+- Relance par téléphone après 15 jours.
+- Prépare une note de présentation de DMS de deux pages pour un éventuel rendez-vous.
