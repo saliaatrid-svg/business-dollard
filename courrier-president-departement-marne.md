@@ -1,7 +1,7 @@
 # Courrier recommandé au Président du Département de la Marne (habitat inclusif)
 
 Envoi : lettre recommandée avec accusé de réception (LRAR).
-Suite du courrier du 10 septembre 2026 (« État des lieux et contribution de DMS »), qui présentait l'aide à domicile, la mobilité et le répit des aidants.
+Le courrier du 10 septembre 2026 (« État des lieux et contribution de DMS ») n'a pas été envoyé : ce courrier est donc autonome et porte uniquement sur l'habitat inclusif.
 Copie par e-mail : pôle autonomie / Direction de l'autonomie (voir `email-departement-marne.md`).
 
 ---
@@ -21,15 +21,15 @@ Hôtel du Département
 
 Sézanne, le [date]
 
-**Objet : Projet d'habitat inclusif pour personnes âgées à Sézanne : demande d'informations et d'accompagnement. Suite à mon courrier du 10 septembre 2026**
+**Objet : Projet d'habitat inclusif pour personnes âgées à Sézanne : demande d'informations et d'accompagnement**
 
 Lettre recommandée avec accusé de réception
 
 Monsieur le Président,
 
-Je me permets de vous écrire de nouveau, à la suite de mon courrier du 10 septembre 2026, pour vous présenter un projet que DMS DE LA MÉMOIRE AUX SOINS souhaite conduire à Sézanne dans les deux ans : un **habitat inclusif pour personnes âgées**.
+Je me permets de vous écrire en tant que présidente de DMS DE LA MÉMOIRE AUX SOINS, organisme de services à la personne établi à Sézanne, déclaré et agréé en mode mandataire, pour vous présenter un projet que nous souhaitons conduire dans les deux ans : un **habitat inclusif pour personnes âgées**.
 
-**D'où vient ce projet.** Aide-soignante diplômée d'État, j'ai travaillé plusieurs années en établissement, dont deux ans et demi en unité de vie protégée pour personnes atteintes de la maladie d'Alzheimer, avant de fonder DMS. Au quotidien, avec les familles du sud-ouest marnais que nous accompagnons à domicile (aide à domicile, présences de nuit non médicalisées depuis le 1er mai 2026, mobilité accompagnée), je constate un besoin que le seul domicile ne couvre pas toujours : des personnes âgées encore autonomes ou peu dépendantes, souvent seules, qui ne souhaitent pas entrer en Ehpad mais pour qui le domicile devient fragile. [Compléter avec un ou deux chiffres de ton activité : nombre de familles accompagnées, de nuits réalisées, de demandes reçues.]
+**D'où vient ce projet.** Aide-soignante diplômée d'État, j'ai travaillé plusieurs années en établissement, dont deux ans et demi en unité de vie protégée pour personnes atteintes de la maladie d'Alzheimer, avant de fonder DMS. Au quotidien, avec les familles du sud-ouest marnais que nous accompagnons à domicile (aide à domicile, présences de nuit non médicalisées depuis le 1er mai 2026, mobilité accompagnée), je constate un besoin que le seul domicile ne couvre pas toujours : des personnes âgées encore autonomes ou peu dépendantes, souvent seules, qui ne souhaitent pas entrer en Ehpad mais pour qui le domicile devient fragile. À ce jour, DMS a accompagné douze familles, dont plusieurs personnes âgées isolées, et assuré des présences de nuit, notamment à la suite de l'hospitalisation d'un aidant.
 
 **Le projet.** Il s'agirait d'une maison de 3 à 4 logements privatifs à Sézanne, avec des espaces de vie partagés et un projet de vie sociale et partagée construit avec les habitants. Les soins et l'aide resteraient assurés par des intervenants librement choisis par les habitants (SSIAD, services d'aide à domicile, professionnels de santé libéraux). [Option : préciser le public visé, par exemple des personnes avec des troubles cognitifs légers.]
 
@@ -53,10 +53,10 @@ Présidente – DMS DE LA MÉMOIRE AUX SOINS
 
 ## Avant l'envoi : à vérifier
 
-- **Le courrier du 10 septembre a-t-il été envoyé ?** Le fichier sur le Drive est un brouillon. Si oui, ce courrier est la suite. Sinon, envoie-le d'abord, ou fusionne les deux.
+- **Courrier du 10 septembre** : non envoyé. Je te conseille de l'envoyer séparément et plus tard, ou pas du tout : il porte sur l'autorisation SAAD, un autre sujet. Mélanger les deux risque de brouiller ta demande d'habitat inclusif.
 - **Adresse** : j'avais d'abord indiqué « 2 bis rue de Jessaint » à tort ; l'adresse de ton courrier du 10 septembre est **40 rue Carnot, 51038 Châlons-en-Champagne Cedex** (reprise ici).
 - **Statut** : DMS est une **SASU** (pas une SAS comme l'indiquait l'annuaire public), présidente Salia Atrid.
-- **Chiffres d'activité** : le Drive contient l'étude de marché sur les nuits ; insère-y 1 ou 2 chiffres réels (nuits réalisées, familles).
+- **Chiffres d'activité** : douze familles accompagnées et quatre nuits réalisées (à la suite de l'hospitalisation d'un aidant), d'après toi. J'ai repris « douze familles » ; j'ai laissé de côté les quatre nuits, trop peu parlantes seules.
 - **La demande d'autorisation SAAD/SAD** (dossier préparatoire sur le Drive) n'est pas mentionnée ici volontairement : voir la note ci-dessous.
 
 ## Point stratégique : habitat inclusif et autorisation SAD

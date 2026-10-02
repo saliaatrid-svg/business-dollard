@@ -8,7 +8,7 @@ Objet : Projet d'habitat inclusif pour seniors à Sézanne : demande d'informati
 
 Madame, Monsieur,
 
-Je suis Salia Atrid, présidente de la SASU DMS De la Mémoire aux Soins (Sézanne), et je prépare un projet d'habitat inclusif pour personnes âgées dans le secteur de Sézanne, sous forme d'une maison partagée de 3 à 4 logements privatifs. Ce message fait suite à mon courrier du 10 septembre 2026 adressé à M. le Président.
+Je suis Salia Atrid, présidente de la SASU DMS De la Mémoire aux Soins (Sézanne), et je prépare un projet d'habitat inclusif pour personnes âgées dans le secteur de Sézanne, sous forme d'une maison partagée de 3 à 4 logements privatifs. Je vous écris parallèlement par courrier recommandé adressé à M. le Président.
 
 J'ai lu avec intérêt le schéma gérontologique départemental 2024-2029, et en particulier son orientation n°4 « Agir sur le logement », qui prévoit de promouvoir une offre d'habitat alternatif diversifiée, claire et lisible. Mon projet s'inscrit dans cette orientation. Il répond aussi aux constats de l'orientation n°2 sur la prévention de l'isolement : les plus de 75 ans représentent environ 9 % de la population marnaise, avec une hausse attendue de près de 38 % d'ici 2030, et Sézanne compte environ 30 % de plus de 65 ans.
 
