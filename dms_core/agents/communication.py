@@ -3,6 +3,8 @@ from .base import BaseAgent
 
 class CommunicationAgent(BaseAgent):
     key = "communication"
+    prenom = "Noa"
+    avatar = "docs/avatars/noa.jpg"
     title = "COMMUNICATION IA"
     subject = "la communication de DMS / YouGoo"
     empty_message = "Aucune demande de communication."

@@ -3,6 +3,8 @@ from .base import BaseAgent
 
 class AdministrationAgent(BaseAgent):
     key = "administration"
+    prenom = "Maël"
+    avatar = "docs/avatars/mael.jpg"
     title = "ADMINISTRATION IA"
     subject = "l'administration de DMS / YouGoo"
     empty_message = "Aucune demande administrative."

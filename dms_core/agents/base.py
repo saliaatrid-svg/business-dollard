@@ -43,6 +43,8 @@ def frame(title, body):
 
 class BaseAgent:
     key = ""
+    prenom = ""
+    avatar = ""
     title = ""
     subject = ""
     domains = []
@@ -56,12 +58,16 @@ class BaseAgent:
         self.client = client if client is not None else default_client()
         self.model = model or os.environ.get("DMS_MODEL", "claude-sonnet-5-5")
 
+    @property
+    def header(self):
+        return f"{self.title} ({self.prenom})" if self.prenom else self.title
+
     # --- consignes envoyées à Claude ---
     def system_prompt(self):
         domains = "\n".join(f"- {d}" for d in self.domains)
         plan = "\n".join(f"{i}. {p}" for i, p in enumerate(self.plan, 1))
         return (
-            f"Tu es l'agent « {self.title} » de DMS - De la Mémoire aux Soins (Sézanne, Marne), "
+            f"Tu t'appelles {self.prenom or self.title}. Tu es l'agent « {self.title} » de DMS - De la Mémoire aux Soins (Sézanne, Marne), "
             f"société de services à la personne. {self.role_prompt}\n\n"
             f"Domaines couverts :\n{domains}\n\nPlan de travail habituel :\n{plan}\n\n"
             "Règles :\n"
@@ -92,7 +98,7 @@ class BaseAgent:
             f"DEMANDE :\n{request}\n\nANALYSE :\n{analysis}\n\n"
             f"VALIDATION :\n{self.validation}\n\nSTATUT :\n{status}"
         )
-        return frame(self.title, body)
+        return frame(self.header, body)
 
     def local(self, request, note=""):
         domains = "\n".join(f"- {d}" for d in self.domains)
@@ -112,7 +118,7 @@ class BaseAgent:
         found = sensitive_identifier(request)
         if found:
             return frame(
-                self.title,
+                self.header,
                 f"Demande non traitée : elle contient {found}. Retirez cette donnée "
                 "puis reformulez avec des initiales ou un cas anonymisé.",
             )

@@ -3,6 +3,8 @@ from .base import BaseAgent
 
 class CommercialAgent(BaseAgent):
     key = "commercial"
+    prenom = "Sacha"
+    avatar = "docs/avatars/sacha.jpg"
     title = "COMMERCIAL IA"
     subject = "le développement commercial de DMS / YouGoo"
     empty_message = "Aucune demande commerciale."

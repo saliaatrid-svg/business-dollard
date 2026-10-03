@@ -7,7 +7,8 @@ KEYWORDS = {
     "juridique": ["rgpd", "cnil", "contrat", "cgv", "consentement", "juridique", "mention légale", "loi", "agrément"],
     "rh": ["recrut", "intervenant", "embauche", "formation", "salari", "planning équipe", "cdi", "cdd"],
     "communication": ["facebook", "instagram", "post", "flyer", "affiche", "publication", "vidéo", "campagne", "newsletter"],
-    "commercial": ["prospect", "client", "devis", "partenaire", "prescripteur", "yougoo", "tarif", "clic", "carsat"],
+    "commercial": ["prospect", "client", "devis", "prescripteur", "yougoo", "clic", "carsat", "relance"],
+    "strategie": ["stratégie", "offre", "tarif", "concurren", "positionnement", "territoire", "partenariat", "développer"],
     "administration": ["document", "courrier", "facture", "échéance", "dossier", "classement", "urssaf", "compta"],
 }
 
@@ -20,6 +21,8 @@ def keyword_route(request):
 
 
 class Orchestrator:
+    prenom = "Camille"
+    avatar = "docs/avatars/camille.jpg"
     """Choisit l'agent adapté à une demande puis la lui transmet."""
 
     def __init__(self, memory, client=None):

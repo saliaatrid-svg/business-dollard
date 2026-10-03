@@ -14,9 +14,10 @@ def main():
     memory = Memory()
     if args.note:
         memory.add_note(args.note, agent=args.agent or "")
-    key, output = Orchestrator(memory).handle(args.demande, agent=args.agent)
+    orchestrator = Orchestrator(memory)
+    key, output = orchestrator.handle(args.demande, agent=args.agent)
     if key:
-        print(f"[agent choisi : {key}]\n")
+        print(f"[{orchestrator.prenom} a confié la demande à : {orchestrator.agents[key].prenom} ({key})]\n")
     print(output)
 
 

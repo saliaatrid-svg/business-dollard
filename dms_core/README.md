@@ -1,6 +1,6 @@
 # dms_core : agents IA de DMS en Python
 
-Intègre vos classes `RHAgent`, `AdministrationAgent`, `CommercialAgent` et `CommunicationAgent` (même structure, mêmes domaines, mêmes plans, mêmes règles de validation), branchées sur Claude. Ajouts : `JuridiqueAgent`, une mémoire (`Memory`) et un chef d'orchestre (`Orchestrator`).
+Intègre vos classes `RHAgent`, `AdministrationAgent`, `CommercialAgent` et `CommunicationAgent` (même structure, mêmes domaines, mêmes plans, mêmes règles de validation), branchées sur Claude. Ajouts : `JuridiqueAgent` (Lou), `StrategieAgent` (Alix), une mémoire (`Memory`) et un chef d'orchestre (`Orchestrator`, Camille). Chaque agent porte le prénom de son pendant dans Claude Code : voir `docs/equipe.md`.
 
 ## Utiliser
 ```bash
@@ -9,7 +9,7 @@ export ANTHROPIC_API_KEY=...            # sans clé : modèle fixe, signalé com
 python -m dms_core "Écrire un post Facebook pour YouGoo"
 python -m dms_core "Quel consentement pour une photo ?" --agent juridique
 python -m dms_core "Recruter un intervenant de nuit" --note "Priorité : nuits du week-end"
-python -m unittest discover -s tests    # 13 tests, sans réseau
+python -m unittest discover -s tests    # 14 tests, sans réseau
 ```
 
 Dans le code :

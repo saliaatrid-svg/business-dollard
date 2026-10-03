@@ -62,8 +62,21 @@ class AgentTests(unittest.TestCase):
         self.assertEqual(sensitive_identifier("FR76 3000 6000 0112 3456 7890 189"), "un IBAN")
         self.assertIsNone(sensitive_identifier("Prévoir 3 nuits cette semaine"))
 
-    def test_cinq_agents(self):
-        self.assertEqual(set(AGENTS), {"rh", "administration", "commercial", "communication", "juridique"})
+    def test_six_agents_avec_prenoms_et_avatars(self):
+        self.assertEqual(
+            set(AGENTS), {"rh", "administration", "commercial", "communication", "juridique", "strategie"}
+        )
+        prenoms = {cls.prenom for cls in AGENTS.values()}
+        self.assertEqual(prenoms, {"Robin", "Maël", "Sacha", "Noa", "Lou", "Alix"})
+        root = Path(__file__).resolve().parents[1]
+        for cls in AGENTS.values():
+            if cls.key != "rh":  # l'avatar de Robin reste à générer
+                self.assertTrue((root / cls.avatar).exists(), cls.avatar)
+
+    def test_prenom_dans_entete_et_consignes(self):
+        agent = RHAgent(memory(), client=None)
+        self.assertIn("RH IA (Robin)", agent.analyze("Recruter"))
+        self.assertIn("Tu t'appelles Robin", agent.system_prompt())
 
 
 class OrchestratorTests(unittest.TestCase):
@@ -72,6 +85,7 @@ class OrchestratorTests(unittest.TestCase):
         self.assertEqual(keyword_route("Quel consentement RGPD pour une photo ?"), "juridique")
         self.assertEqual(keyword_route("Recruter un intervenant"), "rh")
         self.assertEqual(keyword_route("blabla"), "administration")
+        self.assertEqual(keyword_route("Analyser la concurrence et notre positionnement"), "strategie")
 
     def test_routage_ia_puis_agent(self):
         client = FakeClient("commercial")

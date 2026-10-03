@@ -3,6 +3,8 @@ from .base import BaseAgent
 
 class RHAgent(BaseAgent):
     key = "rh"
+    prenom = "Robin"
+    avatar = "docs/avatars/robin.jpg"
     title = "RH IA"
     subject = "les ressources humaines de DMS"
     empty_message = "Aucune demande RH."

@@ -3,6 +3,8 @@ from .base import BaseAgent
 
 class JuridiqueAgent(BaseAgent):
     key = "juridique"
+    prenom = "Lou"
+    avatar = "docs/avatars/lou.jpg"
     title = "JURIDIQUE IA"
     subject = "le juridique, le RGPD et la réglementation de DMS"
     empty_message = "Aucune demande juridique."
