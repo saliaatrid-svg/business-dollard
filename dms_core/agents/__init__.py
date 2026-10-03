@@ -2,6 +2,7 @@ from .administration import AdministrationAgent
 from .commercial import CommercialAgent
 from .communication import CommunicationAgent
 from .juridique import JuridiqueAgent
+from .operations import OperationsAgent
 from .rh import RHAgent
 from .strategie import StrategieAgent
 
@@ -14,7 +15,8 @@ AGENTS = {
         CommunicationAgent,
         JuridiqueAgent,
         StrategieAgent,
+        OperationsAgent,
     )
 }
 
-__all__ = ["AGENTS", "RHAgent", "AdministrationAgent", "CommercialAgent", "CommunicationAgent", "JuridiqueAgent", "StrategieAgent"]
+__all__ = ["AGENTS", "RHAgent", "AdministrationAgent", "CommercialAgent", "CommunicationAgent", "JuridiqueAgent", "StrategieAgent", "OperationsAgent"]

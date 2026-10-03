@@ -1,6 +1,6 @@
 # dms_core : agents IA de DMS en Python
 
-Intègre vos classes `RHAgent`, `AdministrationAgent`, `CommercialAgent` et `CommunicationAgent` (même structure, mêmes domaines, mêmes plans, mêmes règles de validation), branchées sur Claude. Ajouts : `JuridiqueAgent` (Lou), `StrategieAgent` (Alix), une mémoire (`Memory`) et un chef d'orchestre (`Orchestrator`, Camille). Chaque agent porte le prénom de son pendant dans Claude Code : voir `docs/equipe.md`.
+Intègre vos classes `RHAgent`, `AdministrationAgent`, `CommercialAgent` et `CommunicationAgent` (même structure, mêmes domaines, mêmes plans, mêmes règles de validation), branchées sur Claude. Ajouts : `JuridiqueAgent` (Lou), `StrategieAgent` (Alix), une mémoire (`Memory`) et un chef d'orchestre (`Orchestrator`, Camille) et `OperationsAgent` (Morgan, votre fichier `operations.py`). Chaque agent porte le prénom de son pendant dans Claude Code : voir `docs/equipe.md`.
 
 ## Utiliser
 ```bash

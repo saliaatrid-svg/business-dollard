@@ -11,6 +11,7 @@ Un seul jeu d'agents, avec les mêmes prénoms partout : dans Claude Code (`.cla
 | Maël | Administratif et comptabilité | `dms-admin-compta` | `AdministrationAgent` | `docs/avatars/mael.jpg` |
 | Lou | Juridique, RGPD, réglementation | `dms-juridique-rgpd` | `JuridiqueAgent` | `docs/avatars/lou.jpg` |
 | Robin | Ressources humaines | `dms-rh` | `RHAgent` | à générer (prompt n° 8, `docs/avatars-gemini.md`) |
+| Morgan | Opérations : planning, interventions, accompagnements | `dms-operations` | `OperationsAgent` | à générer (prompt n° 9, `docs/avatars-gemini.md`) |
 | Charlie | Accueil téléphonique | `dms-accueil-telephone` | service `phone-agent/` (Node) | `docs/avatars/charlie.jpg` |
 
 ## Qui fait quoi, selon l'outil
@@ -26,6 +27,6 @@ Un seul jeu d'agents, avec les mêmes prénoms partout : dans Claude Code (`.cla
 5. Contexte et style communs : `docs/dms-contexte.md`, `docs/guide-de-style.md`, `docs/charte-marque.md`.
 
 ## Ce qui reste à faire pour finir le rapprochement
-- Générer l'avatar de Robin (prompt n° 8).
+- Générer les avatars de Robin et de Morgan (prompts n° 8 et 9).
 - Brancher d'autres canaux sur le même `Orchestrator` si besoin (message Slack, courriel), après validation RGPD.
 - Fusionner le reste de vos fichiers Python (mémoire, fichier principal) si vous les récupérez depuis votre ordinateur.

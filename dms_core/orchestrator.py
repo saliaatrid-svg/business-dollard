@@ -8,6 +8,7 @@ KEYWORDS = {
     "rh": ["recrut", "intervenant", "embauche", "formation", "salari", "planning équipe", "cdi", "cdd"],
     "communication": ["facebook", "instagram", "post", "flyer", "affiche", "publication", "vidéo", "campagne", "newsletter"],
     "commercial": ["prospect", "client", "devis", "prescripteur", "yougoo", "clic", "carsat", "relance"],
+    "operations": ["planning", "intervention", "accompagnement", "déplacement", "trajet", "tournée", "garde de nuit", "prestation"],
     "strategie": ["stratégie", "offre", "tarif", "concurren", "positionnement", "territoire", "partenariat", "développer"],
     "administration": ["document", "courrier", "facture", "échéance", "dossier", "classement", "urssaf", "compta"],
 }
