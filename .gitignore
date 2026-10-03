@@ -1,3 +1,6 @@
 node_modules/
 .env
 phone-agent/data/
+dms_core/data/
+__pycache__/
+*.pyc
