@@ -20,6 +20,11 @@ sezanne/
   email-pole-autonomie.md          e-mail au pôle autonomie (brouillon)
   previsionnel.md / .xlsx          prévisionnel (hypothèses modifiables dans l'Excel)
   note-presentation-dms.md         note de présentation de DMS (2 pages), à joindre au courrier
+  business-plan.md                 business plan à présenter aux financeurs
+  plan-action-90-jours.md          plan semaine par semaine (5 oct. 2026 – 3 janv. 2027)
+  plan-commercial.md               trouver des clients DMS et des habitants
+  plan-redressement-dms.md         remettre DMS à l'équilibre (diagnostic, leviers, tableau de bord)
+  cadre-juridique.md               structure dédiée, mandataire/prestataire, questions à poser
 guadeloupe/
   etude.md                         étude, plan à distance, relais, financement
   courrier-presidente-departement.md  courrier recommandé (brouillon)

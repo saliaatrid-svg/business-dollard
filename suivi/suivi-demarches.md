@@ -8,6 +8,8 @@ Statuts : ☐ à faire · ◐ en cours · ☑ fait · ⏸ en attente
 
 ## Projet 1 : Sézanne (priorité)
 
+Documents de montage : `sezanne/business-plan.md`, `sezanne/plan-action-90-jours.md`, `sezanne/plan-commercial.md`, `sezanne/plan-redressement-dms.md`, `sezanne/cadre-juridique.md`.
+
 ### Phase 0 : préparation (jusqu'au 30 octobre 2026)
 
 | # | Démarche | Échéance cible | Statut | Notes |
