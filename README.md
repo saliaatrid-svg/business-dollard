@@ -19,6 +19,7 @@ sezanne/
   courrier-president-departement.md  courrier recommandé (brouillon)
   email-pole-autonomie.md          e-mail au pôle autonomie (brouillon)
   previsionnel.md / .xlsx          prévisionnel (hypothèses modifiables dans l'Excel)
+  note-presentation-dms.md         note de présentation de DMS (2 pages), à joindre au courrier
 guadeloupe/
   etude.md                         étude, plan à distance, relais, financement
   courrier-presidente-departement.md  courrier recommandé (brouillon)

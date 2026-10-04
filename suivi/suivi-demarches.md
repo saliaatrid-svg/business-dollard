@@ -16,7 +16,7 @@ Statuts : ☐ à faire · ◐ en cours · ☑ fait · ⏸ en attente
 | S2 | Vérifier l'adresse du Département (40 rue Carnot, 51038 Châlons-en-Champagne Cedex) et le nom du Président | 16/10 | ☐ | Marne.fr, standard |
 | S3 | Lire le règlement départemental des aides sociales (fiche II-16, AVP) et le schéma gérontologique complet | 16/10 | ☐ | Pour trouver le montant de l'AVP ; marne.fr était inaccessible depuis mon environnement |
 | S4 | Valider le prévisionnel avec l'expert-comptable (Dougs) ; faire le point sur les capitaux propres négatifs | 23/10 | ☐ | Obligation éventuelle de décision de l'associé unique |
-| S5 | Préparer la note de présentation de DMS (2 pages) à joindre au courrier | 23/10 | ☐ | Chiffres : 12 familles accompagnées |
+| S5 | Relire et compléter la note de présentation de DMS (2 pages) à joindre au courrier | 23/10 | ◐ | Rédigée : `sezanne/note-presentation-dms.md` ; compléter les crochets, retirer les notes de travail |
 | S6 | **Envoyer le courrier recommandé et l'e-mail** (même jour) | **26/10 au 30/10** | ☐ | Garder l'accusé de réception |
 
 ### Phase 1 : validation du besoin (novembre 2026 à janvier 2027)
