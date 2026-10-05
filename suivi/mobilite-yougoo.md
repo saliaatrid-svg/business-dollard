@@ -2,7 +2,9 @@
 
 ## Ce qui est signalé
 
-L'instance qui gère les obligations de service public (OSP) de transport a indiqué que les trajets proposés dans le cadre de YouGoo ne sont pas légaux. **Je n'ai pas le texte de cette position** (courrier, e-mail, nom de l'organisme, base juridique) : c'est la première chose à récupérer, par écrit.
+**Correction de ma part :** j'avais compris « OSP » comme « obligations de service public » (transport). Il s'agit en réalité des **organismes de services à la personne**, et l'instance concernée est la **DDETSPP** (direction départementale en charge de l'emploi, du travail, des solidarités et de la protection des populations), qui gère les déclarations et agréments SAP.
+
+Sa recommandation : les trajets proposés par YouGoo ne rentrent pas dans le cadre des services à la personne. **Tu choisis de suivre cette recommandation.** Je n'ai pas le texte exact : à joindre ici (courrier ou e-mail) pour préciser quels trajets et quelle activité sont visés.
 
 ## En attendant : prudence
 
