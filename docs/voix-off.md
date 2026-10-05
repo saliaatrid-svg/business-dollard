@@ -31,3 +31,6 @@ P2 (14 s) : D'abord, vous nous contactez. Nous évaluons votre besoin, gratuitem
 P3 (14 s) : Ensuite, nous vous remettons un devis gratuit et un contrat clair.
 P4 (14 s) : Nous facturons ce qui est réellement fait. Et une annulation faite plus de quarante-huit heures avant ne vous coûte rien.
 P5 (10 s) : DMS, à Sézanne. Posez-nous toutes vos questions.
+
+## Vidéo d'information : Prévention des chutes (≈ 120 mots, sans promesse de service)
+Un tapis qui dépasse, un câble au sol, une pièce mal éclairée : à la maison, certaines chutes peuvent être évitées. Trois gestes simples. Un : dégagez les passages. Retirez les tapis qui glissent, rangez les câbles et les objets au sol. Deux : éclairez la nuit. Une veilleuse entre la chambre et les toilettes fait la différence. Trois : choisissez des chaussons fermés et antidérapants. Ces gestes simples aident à garder son autonomie. En cas de doute sur la sécurité du domicile, parlez-en à un professionnel de santé. DMS, à Sézanne.
