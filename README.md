@@ -29,6 +29,7 @@ sezanne/
   cadre-juridique.md               structure dédiée, mandataire/prestataire, questions à poser
   etude-de-marche-secteur.md       étude de marché : territoire, demande, concurrence, positionnement
   etude-de-marche-mobilite.md      étude de marché de la mobilité (besoins, offre, écarts)
+  vtc-rural.md                     VTC rural : coûts, simulation, test avant de se lancer
   acces-apa-partenariat-reprise.md  partenariat ou reprise d'un service autorisé pour accéder à l'APA
 guadeloupe/
   etude.md                         étude, plan à distance, relais, financement
