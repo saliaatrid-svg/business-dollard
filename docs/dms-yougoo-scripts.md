@@ -39,27 +39,27 @@ Clôture (J+20) : Je ne vous relance plus. Si le sujet revient, mes coordonnées
 
 ---
 
-# Vidéo « Présence de nuit et relais pour les proches » (≈ 60 s)
+# Vidéo « Présence de nuit en cas d'imprévu » (≈ 60 s)
 
 Cadre repris du modèle de contrat de nuit de DMS (à vérifier avant diffusion) :
 - besoin d'aide **temporaire**, **3 nuits maximum** par contrat ;
 - personnes de moins de 60 ans, ou de 60 ans et plus en GIR 5 ou 6, sans handicap reconnu, sans pathologie chronique invalidante, sans APA ni PCH pour cette prestation ;
 - aucun soin médical ; paiement après la nuit, sans acompte ; devis gratuit.
 
-Ne pas cibler les proches aidants de personnes dépendantes, malades chroniques ou handicapées : ce public n'entre pas dans ce cadre. Parler d'un **relais ponctuel** (convalescence, retour d'hospitalisation, absence imprévue de l'aidant).
+Le motif « absence imprévue de l'aidant » entre dans le besoin temporaire du contrat, à condition que la personne aidée relève du cadre ci-dessus (déclaration sur l'honneur à chaque demande). Ne pas employer « répit des aidants » ni cibler des personnes dépendantes (GIR 1 à 4), handicapées ou malades chroniques.
 
 ## Script
 - 0:00-0:08 Accroche : « Après une opération ou une hospitalisation, les premières nuits à la maison sont parfois les plus difficiles. » Visuel : maison la nuit, fenêtre éclairée.
 - 0:08-0:24 Le service : « DMS peut mettre une personne de confiance à vos côtés pour la nuit, de 20 h à 8 h : présence de nuit ou garde éveillée selon votre besoin. » Visuel : intervenante assise près d'un lit, sans visage identifiable.
-- 0:24-0:38 Le relais pour les proches : « Un proche est épuisé, ou doit s'absenter à l'improviste ? Une nuit de relais lui permet de se reposer l'esprit tranquille. » Visuel : un proche qui s'endort sur un canapé.
+- 0:24-0:38 L'imprévu : « Un imprévu, comme l'hospitalisation d'un proche qui s'occupe de vous ? Pour une durée courte, DMS peut assurer une présence de nuit, selon votre situation. » Visuel : un téléphone qui sonne, une lumière qui s'allume dans la chambre.
 - 0:38-0:50 Les limites, dites clairement : « Un service temporaire, trois nuits au maximum, sans soins médicaux : pour les soins, vos infirmiers restent là. » Visuel : calendrier de 3 nuits, croix sur une icône de seringue.
 - 0:50-1:00 Appel : « Évaluation et devis gratuits. DMS, Sézanne. » Contact, mentions légales, logotype SAP.
 
 ## Garde-fous
 - Aucun prix, aucun avantage fiscal ni avance immédiate dans la vidéo (le contrat les traite séparément).
-- Ne pas affirmer que le service « soulage les aidants de personnes malades » : formulation « relais ponctuel » uniquement.
+- Toujours « selon votre situation » ; ne pas affirmer que le service soulage les aidants de personnes malades.
 - Aucun visage ni donnée de bénéficiaire.
 - À faire confirmer avec la réponse du Département sur la prise en charge des 60 ans et plus en GIR 5-6.
 
 ## Message de prospection (prescripteurs : sorties d'hospitalisation, kinés, infirmiers libéraux, pharmacies)
-Bonjour [prénom], je dirige DMS à Sézanne. Nous proposons des nuits de présence ou de garde à domicile, ponctuelles (3 nuits maximum), pour des personnes en convalescence ou lors d'une absence imprévue de l'aidant, sans soins médicaux. Cela pourrait-il aider vos patients au retour d'hospitalisation ? Je peux vous présenter le service en quelques minutes.
+Bonjour [prénom], je dirige DMS à Sézanne. Nous proposons des nuits de présence ou de garde à domicile, ponctuelles (3 nuits maximum), pour des personnes en convalescence ou lors d'une absence imprévue de l'aidant, sans soins médicaux. Cela pourrait-il aider vos patients au retour d'hospitalisation, ou lors d'un imprévu (hospitalisation d'un proche) ? Je peux vous présenter le service en quelques minutes.
