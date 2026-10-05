@@ -1,5 +1,7 @@
 # Suivi des démarches
 
+> **Démarches arrêtées le 5 octobre 2026.** Rien n'a été envoyé. Les échéances ci-dessous ne sont plus actives ; le document est conservé pour une éventuelle reprise.
+
 Mis en place le 2 octobre 2026. Fenêtre de démarrage choisie : **dans 2 à 4 semaines, soit du 16 au 30 octobre 2026**.
 
 Statuts : ☐ à faire · ◐ en cours · ☑ fait · ⏸ en attente

@@ -1,11 +1,13 @@
 # DMS De la Mémoire aux Soins : habitats inclusifs pour seniors
 
+> **Statut : démarches arrêtées le 5 octobre 2026, à la demande de Salia Atrid.** Aucun courrier ni e-mail n'a été envoyé. Tous les documents sont conservés ci-dessous et peuvent être repris à tout moment.
+
 Deux projets distincts d'habitat inclusif (maison partagée de 3 à 4 logements privatifs pour personnes âgées), portés par DMS (SASU, Sézanne, déclarée et agréée en services à la personne en mode mandataire).
 
 | Projet | Statut | Priorité | Dossier |
 |---|---|---|---|
-| **Sézanne (Marne)** | Préparation, envoi des courriers prévu dans 2 à 4 semaines | **1** | [`sezanne/`](sezanne/) |
-| **Guadeloupe** | En attente : à lancer après Sézanne | 2 | [`guadeloupe/`](guadeloupe/) |
+| **Sézanne (Marne)** | **Démarches arrêtées le 5 octobre 2026** (rien n'a été envoyé) | — | [`sezanne/`](sezanne/) |
+| **Guadeloupe** | **Démarches arrêtées le 5 octobre 2026** (rien n'a été envoyé) | — | [`guadeloupe/`](guadeloupe/) |
 
 Suivi des démarches, échéances et décisions : [`suivi/suivi-demarches.md`](suivi/suivi-demarches.md).
 
