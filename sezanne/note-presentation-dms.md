@@ -3,6 +3,8 @@
 
 *Document à joindre au courrier au Président du Conseil départemental de la Marne. Version de travail : les passages entre crochets sont à compléter ou à confirmer avant envoi.*
 
+> **Note de travail :** le service de mobilité accompagnée (YouGoo) est volontairement retiré de cette note tant que sa légalité n'est pas clarifiée (voir `../suivi/mobilite-yougoo.md`).
+
 ---
 
 ## 1. Qui sommes-nous
@@ -19,7 +21,6 @@ Notre nom dit notre mission : accompagner les personnes âgées **de la préserv
 |---|---|---|
 | **Aide à domicile** | Entretien du domicile, préparation et accompagnement des repas, courses, aide ponctuelle, accompagnement de personnes présentant une invalidité temporaire | 2025 |
 | **Présence de nuit non médicalisée** | De 20 h à 8 h : surveillance, aide au lever et au coucher, aide aux toilettes, écoute ; **sans acte médical**. Évaluation gratuite des besoins au domicile avant la prestation | 1er mai 2026 |
-| **YouGoo by DMS** | Mobilité accompagnée : trajets avec accompagnateur pour les personnes sans solution de déplacement (seniors isolés, étudiants, demandeurs d'emploi, personnes en convalescence) | 16 mars 2026 |
 
 Les prestations ouvrent droit au **crédit d'impôt services à la personne** avec **avance immédiate** via l'Urssaf : le reste à charge est réduit de moitié dès la facturation. À titre d'exemple, la nuit est facturée 215 € TTC pour un reste à charge d'environ 107 €.
 
