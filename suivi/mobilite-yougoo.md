@@ -1,44 +1,38 @@
-# Mobilité accompagnée (YouGoo) : point de vigilance
+# Mobilité accompagnée (YouGoo) : arrêt demandé par la DDETSPP
 
-## Ce qui est signalé
+## Décision (5 octobre 2026)
 
-**Correction de ma part :** j'avais compris « OSP » comme « obligations de service public » (transport). Il s'agit en réalité des **organismes de services à la personne**, et l'instance concernée est la **DDETSPP** (direction départementale en charge de l'emploi, du travail, des solidarités et de la protection des populations), qui gère les déclarations et agréments SAP.
+Une interlocutrice de la DDETSPP (service en charge des organismes de services à la personne) a **demandé l'arrêt de YouGoo**. DMS suit cette demande : **YouGoo est arrêté**.
 
-Sa recommandation : les trajets proposés par YouGoo ne rentrent pas dans le cadre des services à la personne. **Tu choisis de suivre cette recommandation.** Je n'ai pas le texte exact : à joindre ici (courrier ou e-mail) pour préciser quels trajets et quelle activité sont visés.
+Pour te protéger, il faut une **trace écrite** de cette demande (e-mail ou courrier). Sans trace, tu ne peux pas prouver que tu t'es mise en conformité.
 
-## En attendant : prudence
+## Checklist d'arrêt
 
-- **Suspendre ou limiter** les trajets qui relèvent d'un transport de personnes à titre onéreux avec le véhicule de DMS ou de l'intervenant, tant que la situation n'est pas clarifiée.
-- **Ne plus mettre YouGoo en avant** dans les courriers, les notes et la prospection (retiré de la note de présentation).
-- **Vérifier l'assurance** couvrant les trajets déjà réalisés.
-
-## Pourquoi c'est une question juridique réelle (hypothèses à confirmer)
-
-En France, le transport de personnes **à titre onéreux** est en principe réservé à des professions réglementées (taxis, VTC, transport léger de personnes, transport à la demande…). En services à la personne, l'**accompagnement dans les déplacements** est autorisé dans un cadre précis (par exemple, d'après les règles SAP, avec le véhicule de la personne accompagnée, ou en transports en commun, ou à pied), mais pas comme un service de transport avec le véhicule du prestataire.
-
-Les forfaits « kilomètres » facturés peuvent faire penser à du transport : c'est probablement ce qui est visé. **À confirmer** avec l'organisme concerné et un juriste.
-
-## Voies possibles
-
-| Voie | Principe | À vérifier |
+| # | Action | Statut |
 |---|---|---|
-| **Accompagnement avec le véhicule du client** | L'intervenant conduit le véhicule de la personne accompagnée | Assurance du client et de DMS, règles SAP |
-| **Accompagnement à pied ou en transports en commun** | Aide à la sortie, courses, rendez-vous | Périmètre exact des activités SAP |
-| **Partenariat avec un taxi ou un transporteur autorisé** | Le trajet est assuré par un professionnel ; DMS accompagne ou coordonne | Convention, responsabilité |
-| **Se faire enregistrer comme transporteur** | Selon l'activité (VMDTR, taxi…) | Conditions, capacité, coût |
-| **Abandonner ce service** | Se concentrer sur l'aide à domicile et les nuits | Impact sur le chiffre d'affaires |
+| 1 | Demander à la DDETSPP une **confirmation écrite** (e-mail) de sa demande d'arrêt et de ce qui est visé | ☐ |
+| 2 | **Cesser** toute nouvelle prestation de trajets | ☐ |
+| 3 | **Prévenir les clients** ayant un devis ou un forfait en cours (message court, voir ci-dessous) | ☐ |
+| 4 | **Retirer YouGoo** du site, de la maquette de refonte, de Google Business, des affiches et plaquettes | ☐ |
+| 5 | **Arrêter la facturation** de trajets ; régler les factures et avoirs en cours avec l'expert-comptable | ☐ |
+| 6 | **Vérifier l'assurance** pour les trajets déjà faits | ☐ |
+| 7 | **Informer les prescripteurs** contactés pour YouGoo (Mission locale, France Travail, intérim) | ☐ |
+| 8 | Demander à la DDETSPP si un **retour en arrière** est utile (déclaration à ajuster, activités à retirer) | ☐ |
 
-## Questions à poser (par écrit)
+## Message type aux clients concernés
 
-1. Quelle disposition légale rend ce service non conforme ?
-2. Quels trajets sont concernés (véhicule de l'intervenant, de DMS, du client) ?
-3. Quelle formulation du service serait acceptable ?
-4. Y a-t-il un risque de sanction pour les trajets déjà effectués, et que recommandent-ils ?
-5. Qui contacter pour une régularisation (organisme, service de l'État, DDETS ou DREETS pour les services à la personne) ?
+> Bonjour, je vous informe que DMS ne propose plus son service de mobilité accompagnée YouGoo à compter du [date], à la demande de l'administration en charge des services à la personne. [Pour les trajets déjà prévus : proposition de solution ou d'annulation.] Je reste à votre disposition pour vos autres besoins. Cordialement, Salia Atrid
 
-## Prochaines étapes
+## Impact financier (à chiffrer avec l'expert-comptable)
 
-1. Retrouver la position de l'instance par écrit.
-2. Demander un avis écrit à l'organisme et, si besoin, une consultation juridique ponctuelle.
-3. Décider : modifier le service, s'associer à un transporteur ou l'arrêter.
-4. Mettre à jour les documents de DMS (site, plaquettes, note) une fois la décision prise.
+- YouGoo représente une petite part du chiffre d'affaires 2026 (quelques forfaits de 45 à 135 €).
+- À retirer des prévisions : le plan de redressement et le plan commercial indiquent désormais YouGoo comme arrêté.
+- À mesurer : devis déjà émis et sommes à rembourser, s'il y en a.
+
+## Pour mémoire : pourquoi cette question se pose (hypothèses non confirmées)
+
+En services à la personne, l'accompagnement dans les déplacements est encadré (par exemple, avec le véhicule de la personne accompagnée, ou en transports en commun), mais pas comme un service de transport avec le véhicule du prestataire. Le texte exact de la DDETSPP serait utile pour le confirmer.
+
+## Ce que cela ne change pas
+
+Ton agrément en mode mandataire, tes services d'aide à domicile, de repas, d'entretien et de présence de nuit continuent normalement.

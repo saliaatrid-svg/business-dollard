@@ -38,7 +38,7 @@ Atteindre l'**équilibre mensuel d'exploitation** avant l'ouverture de l'habitat
 |---|---|---|
 | Présence de nuit non médicalisée | Plus de familles et de prescripteurs (voir `plan-commercial.md`) | Forfait de 215 € TTC par nuit |
 | Aide à domicile récurrente | Contrats mensuels avec des familles du secteur | Revenus réguliers |
-| YouGoo mobilité accompagnée | Prescripteurs (Mission locale, France Travail, intérim) | Forfaits de 45 à 135 € | **[SUSPENDU : légalité à clarifier, voir `../suivi/mobilite-yougoo.md`]**
+| YouGoo mobilité accompagnée | Prescripteurs (Mission locale, France Travail, intérim) | Forfaits de 45 à 135 € | **[ARRÊTÉ le 5 octobre 2026 à la demande de la DDETSPP : voir `../suivi/mobilite-yougoo.md`]**
 | Packs combinés | Repas + entretien + présence de nuit | Panier moyen plus élevé |
 
 ### B. Vérifier la rentabilité de chaque service

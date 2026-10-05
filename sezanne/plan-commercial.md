@@ -33,7 +33,7 @@ D'après ton dossier, tu as déjà contacté plusieurs acteurs. Il s'agit mainte
 | Plateforme de répit (CHU de Reims) | Spécialisée dans le répit des aidants | Présenter la présence de nuit |
 | Mairie de Sézanne et mairies voisines | Relais d'information | Bulletin municipal, permanence |
 | Associations (Familles Rurales, ADMR) | Contact avec les familles | Partenariat ou orientation croisée |
-| Mission locale, France Travail, agences d'intérim | Pour YouGoo (déplacements) | Relance déjà engagée | **[SUSPENDU : légalité à clarifier, voir `../suivi/mobilite-yougoo.md`]**
+| Mission locale, France Travail, agences d'intérim | Pour YouGoo (déplacements) | Relance déjà engagée | **[ARRÊTÉ le 5 octobre 2026 à la demande de la DDETSPP : voir `../suivi/mobilite-yougoo.md`]**
 
 **Objectif :** 3 à 5 prescripteurs actifs (qui t'orientent des familles) d'ici fin janvier 2027.
 
