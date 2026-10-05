@@ -8,6 +8,8 @@ Statuts : ☐ à faire · ◐ en cours · ☑ fait · ⏸ en attente
 
 ## Projet 1 : Sézanne (priorité)
 
+**Priorité du moment : trouver des clients pour DMS (5 au 16 octobre).** Voir `priorite-semaine.md`. Le reste peut être décalé.
+
 Documents de montage : `sezanne/business-plan.md`, `sezanne/plan-action-90-jours.md`, `sezanne/plan-commercial.md`, `sezanne/plan-redressement-dms.md`, `sezanne/cadre-juridique.md`.
 
 ### Phase 0 : préparation (jusqu'au 30 octobre 2026)
