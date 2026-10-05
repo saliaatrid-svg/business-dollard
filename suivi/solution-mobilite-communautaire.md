@@ -60,3 +60,70 @@ Ce projet aide ton public sans rapporter de revenu. Il doit s'ajouter à ce qui 
 - Transport d'utilité sociale, cadre légal (Cerema) : https://capamob.cerema.fr/services/transport-solidaire
 - Fiche transport solidaire (DREAL Pays de la Loire) : https://www.pays-de-la-loire.developpement-durable.gouv.fr/IMG/pdf/fichetransportsolidairevdef.pdf
 - Mobicoop, transport d'utilité sociale pour les associations : https://pro.mobicoop.fr/transports-dutilite-sociale-associations/
+
+---
+
+# Plan de mise en place légal (association de transport d'utilité sociale)
+
+Cadre : articles R3133-1 à R3133-5 du code des transports, décret n° 2019-850 du 20 août 2019, arrêté du 17 octobre 2019. **Pas un avis juridique** : à valider avec la préfecture, un assureur et un expert-comptable.
+
+## Ce que dit le cadre (d'après mes sources)
+
+| Point | Règle |
+|---|---|
+| Qui organise | Une **association** |
+| Qui peut en bénéficier | Des personnes dont l'accès aux transports est limité par leurs **ressources** ou leur **lieu de vie** (communes rurales) ; un critère de ressources passe par la complémentaire santé ou certaines prestations listées dans le décret |
+| Distance | Trajets de **100 km maximum** |
+| Véhicules | Ceux de l'association ou mis à sa disposition **à titre non lucratif** ; 9 places maximum |
+| Conducteurs | **Bénévoles** ; leur participation aux frais est plafonnée à **0,32 € par kilomètre** (arrêté du 17 octobre 2019) |
+| Déclaration | Information annuelle au préfet, **avant le 1er mars** : identité de l'association, salariés et bénévoles, adhérents, statuts, conducteurs, bénéficiaires, véhicules, participations |
+
+## Étapes, dans l'ordre
+
+| # | Étape | Précision légale | Statut |
+|---|---|---|---|
+| 1 | **Trouver au moins un deuxième fondateur** de confiance | Une association exige au moins deux personnes | ☐ |
+| 2 | **Rédiger les statuts** : but non lucratif, gestion désintéressée, objet « mobilité solidaire » | Statuts type disponibles auprès des services de la vie associative | ☐ |
+| 3 | **Déclarer l'association** en préfecture et obtenir un SIRET | Publication au Journal officiel des associations | ☐ |
+| 4 | **Définir les bénéficiaires** : fiche d'inscription avec justificatif (commune, ressources) | À conserver pour la déclaration au préfet | ☐ |
+| 5 | **Recruter des conducteurs bénévoles adhérents** : permis, charte, assurance vérifiée | Les bénévoles adhèrent à l'association pour être couverts par sa responsabilité civile | ☐ |
+| 6 | **Assurance** : responsabilité civile de l'association, **assurance mission** pour les trajets réguliers, extension de l'assurance auto du bénévole | Demander un devis à un assureur spécialisé associations | ☐ |
+| 7 | **Fixer la participation** : au plus 0,32 €/km pour le bénévole, remboursée par l'usager | Registre des trajets obligatoire en pratique | ☐ |
+| 8 | **Ouvrir un compte bancaire** de l'association, tenir une comptabilité simple | Expert-comptable ou gestionnaire associatif | ☐ |
+| 9 | **Demander un rescrit « mécénat »** à l'administration fiscale pour confirmer que l'association peut délivrer des reçus fiscaux | Dons de particuliers : réduction de 66 % dans une limite ; entreprises : réduction spécifique (à vérifier) | ☐ |
+| 10 | **Déclarer l'activité au préfet** chaque année avant le 1er mars | Modèle fourni par la préfecture | ☐ |
+
+## Ce qui se transpose du modèle américain, et sous quelles conditions
+
+| Idée | Faisable en France ? | Condition |
+|---|---|---|
+| **Compte prépayé** de l'usager | Probablement oui, comme paiement de la participation aux frais à l'association | Rester dans la participation aux frais ; ne pas détenir des fonds de tiers ; valider avec l'expert-comptable |
+| **Financement par entreprises et fondations** | Oui | Mécénat, reçus fiscaux après rescrit |
+| **Crédits de temps pour les bénévoles** | **À éviter sans avis juridique** | Risque d'être assimilé à une rémunération au-delà du plafond de 0,32 €/km |
+| **Chèques de transport pour taxis** | Hors transport d'utilité sociale | Les taxis sont autorisés à part ; ce serait un autre montage, entre financeurs et taxis |
+| **Conducteurs salariés** | **Non** dans le cadre du transport d'utilité sociale | Ce serait du transport réglementé (taxi, VTC, sanitaire) |
+| **Coordinateur salarié** | Oui | Il organise sans conduire ; financé par la participation, le mécénat, les cotisations |
+
+## Ce qu'il ne faut pas faire
+
+- **Faire payer un trajet plus que la participation aux frais** : cela devient du transport à titre onéreux.
+- **Employer des conducteurs** dans ce cadre.
+- **Mélanger l'association avec DMS** (DMS est agréée en services à la personne).
+- **Rouler avant l'assurance et la déclaration** : c'est le point le plus risqué.
+
+## À qui s'adresser
+
+| Question | Interlocuteur |
+|---|---|
+| Statuts, déclaration, vie associative | Préfecture, service de la vie associative (DDETSPP) |
+| Cadre du transport d'utilité sociale, déclaration annuelle | Préfecture, DDT ou direction des transports |
+| Assurances | Assureur spécialisé associations et assurance mission |
+| Comptabilité, compte prépayé | Expert-comptable des associations |
+| Mécénat et reçus fiscaux | Service des impôts, rescrit mécénat |
+| Mobilité solidaire locale | Région Grand Est, intercommunalité, Mission locale, France Travail |
+
+## Sources
+- Articles R3133-1 à R3133-5, code des transports : https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038943893
+- Transports d'utilité sociale : les règles de fonctionnement se précisent : https://www.banquedesterritoires.fr/transports-dutilite-sociale-les-regles-de-fonctionnement-se-precisent
+- Question parlementaire sur les indemnités kilométriques des bénévoles : https://questions.assemblee-nationale.fr/q17/17-14068QE.htm
+- Rescrit mécénat (impots.gouv.fr) : https://www.impots.gouv.fr/media1metier2professionnelev4difficultes440situationdifficileficherescritsmecenatpdf
