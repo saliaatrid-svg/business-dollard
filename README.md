@@ -27,6 +27,7 @@ sezanne/
   plan-commercial.md               trouver des clients DMS et des habitants
   plan-redressement-dms.md         remettre DMS à l'équilibre (diagnostic, leviers, tableau de bord)
   cadre-juridique.md               structure dédiée, mandataire/prestataire, questions à poser
+  etude-de-marche-secteur.md       étude de marché : territoire, demande, concurrence, positionnement
   acces-apa-partenariat-reprise.md  partenariat ou reprise d'un service autorisé pour accéder à l'APA
 guadeloupe/
   etude.md                         étude, plan à distance, relais, financement
