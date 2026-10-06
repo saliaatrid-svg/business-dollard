@@ -6,6 +6,23 @@ Définition de travail : un service qui aide des personnes en difficulté de dé
 
 ---
 
+## Le public cible : celui de YouGoo (6 publics)
+
+D'après tes documents, YouGoo s'adressait à six publics. Voici le cadre légal qui s'applique à chacun (hypothèses à confirmer avec la DDETSPP, la préfecture et un juriste) :
+
+| Public | Cadre possible | Remarque |
+|---|---|---|
+| **Seniors isolés** | SAP (agrément mandataire) pour l'accompagnement ; taxi ou transport d'utilité sociale pour le trajet | Dans ton agrément pour l'accompagnement |
+| **Personnes ponctuellement dépendantes** (convalescence, invalidité temporaire) | SAP si la personne relève des publics fragiles ; sinon taxi | À faire confirmer : la limite entre « invalidité temporaire » et « handicap » est à préciser avec la DDETSPP |
+| **Étudiants et apprentis** | Taxi (entreprise autorisée) ou transport d'utilité sociale (association) | **Hors SAP** pour le transport |
+| **Demandeurs d'emploi** | Idem | Hors SAP ; prescripteurs possibles : France Travail, Mission locale |
+| **Personnes en réinsertion professionnelle** | Idem | Hors SAP ; prescripteurs possibles : Mission locale, structures d'insertion |
+| **Personnes sans solution de mobilité autonome** | Idem | Hors SAP |
+
+**Lecture :** quatre des six publics sont **hors SAP**. C'est la raison la plus probable de la demande d'arrêt de la DDETSPP. Pour les servir légalement avec des conducteurs payés, il faut une **entreprise de taxi** (ou, avec des bénévoles, une association de transport d'utilité sociale). Les deux publics restants (seniors isolés et personnes ponctuellement dépendantes) peuvent être accompagnés par DMS dans son cadre SAP.
+
+**Les payeurs naturels** de ces publics : employeurs (apprentis, saisonniers), France Travail et Mission locale (demandeurs d'emploi, réinsertion), familles et caisses de retraite (seniors), usagers.
+
 ## Étape 1 : cadrer le besoin et le public
 
 | Question | Où trouver la réponse |
