@@ -19,6 +19,8 @@ D'après tes documents, YouGoo s'adressait à six publics. Voici le cadre légal
 | **Personnes en réinsertion professionnelle** | Idem | Hors SAP ; prescripteurs possibles : Mission locale, structures d'insertion |
 | **Personnes sans solution de mobilité autonome** | Idem | Hors SAP |
 
+**Condition SAP à retenir :** l'accompagnement dans les déplacements n'est un service à la personne que s'il est **compris dans une offre incluant un socle d'activités à domicile**. Il ne peut pas être vendu seul.
+
 **Lecture :** quatre des six publics sont **hors SAP**. C'est la raison la plus probable de la demande d'arrêt de la DDETSPP. Pour les servir légalement avec des conducteurs payés, il faut une **entreprise de taxi** (ou, avec des bénévoles, une association de transport d'utilité sociale). Les deux publics restants (seniors isolés et personnes ponctuellement dépendantes) peuvent être accompagnés par DMS dans son cadre SAP.
 
 **Les payeurs naturels** de ces publics : employeurs (apprentis, saisonniers), France Travail et Mission locale (demandeurs d'emploi, réinsertion), familles et caisses de retraite (seniors), usagers.

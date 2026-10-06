@@ -29,9 +29,21 @@ Pour te protéger, il faut une **trace écrite** de cette demande (e-mail ou cou
 - À retirer des prévisions : le plan de redressement et le plan commercial indiquent désormais YouGoo comme arrêté.
 - À mesurer : devis déjà émis et sommes à rembourser, s'il y en a.
 
-## Pour mémoire : pourquoi cette question se pose (hypothèses non confirmées)
+## Pourquoi YouGoo ne rentrait pas dans le cadre SAP
 
-En services à la personne, l'accompagnement dans les déplacements est encadré (par exemple, avec le véhicule de la personne accompagnée, ou en transports en commun), mais pas comme un service de transport avec le véhicule du prestataire. Le texte exact de la DDETSPP serait utile pour le confirmer.
+**Condition clé (article D7231-1 du code du travail, d'après mes sources et ton rappel) :** l'accompagnement des enfants de plus de 3 ans, des personnes âgées ou handicapées dans leurs déplacements (promenades, transport, actes de la vie courante) n'est un service à la personne que s'il est **compris dans une offre de services incluant un socle d'activités effectuées à domicile**. Un service de mobilité seul, sans services à domicile, ne remplit pas cette condition.
+
+Autres raisons possibles :
+- **Publics** : l'accompagnement SAP concerne les personnes âgées, handicapées ou atteintes de pathologies chroniques, et les enfants de plus de 3 ans. Étudiants, apprentis, demandeurs d'emploi, personnes en réinsertion et personnes sans solution de mobilité sont hors périmètre.
+- **Trajets facturés au forfait kilométrique**, qui ressemblent à du transport.
+
+## Comment remettre une mobilité accompagnée dans le cadre SAP
+
+Pour les seniors et les personnes handicapées (et les enfants de plus de 3 ans) :
+1. **Proposer une offre globale** : services à domicile (repas, entretien, présence, aide ponctuelle) **plus** accompagnement dans les déplacements.
+2. **Un contrat unique** avec le client, qui décrit l'ensemble.
+3. **Ne pas vendre le déplacement seul.**
+4. **Faire valider la formulation par la DDETSPP** par écrit.
 
 ## Ce que cela ne change pas
 
