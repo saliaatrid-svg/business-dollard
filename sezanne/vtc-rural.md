@@ -107,3 +107,61 @@ Une source indique des revenus bruts ruraux de **80 à 120 € pour 8 heures** d
 - Devenir auto-entrepreneur VTC : https://www.legalplace.fr/guides/auto-entrepreneur-vtc/
 - Tarif VTC au kilomètre : https://droovi.com/fr/blog/tarif-vtc-au-km-comment-fixer-un-prix-rentable/
 - Taxi ou VTC en zone rurale : https://taxismoto.com/2024/11/27/taxi-ou-vtc-en-zone-rurale-les-solutions-pour-pallier-le-manque-de-transport/
+
+---
+
+# Variante : VTC sociale
+
+## Ce que c'est (et ce que ça n'est pas)
+Il n'existe pas de statut juridique « VTC social ». Une **VTC sociale** est une entreprise de VTC ordinaire (carte professionnelle, registre VTC, réservation préalable) qui pratique un **tarif solidaire pour certains publics**, dont la différence avec le prix normal est payée par un **tiers** : employeur, commune ou CCAS (bons de transport), prescripteur (Mission locale, France Travail), famille, caisse de retraite, mécène.
+
+Cadre utile : le transport d'utilité sociale est réservé aux associations ; la VTC sociale est donc le pendant **commercial** pour des conducteurs payés. Elle ne peut pas être conventionnée par l'Assurance maladie.
+
+## Un exemple repéré en France
+**Mobil'Emploi (Finistère)** : une entreprise d'insertion qui exploite un service de transport solidaire avec des véhicules électriques, pour les trajets domicile-travail de salariés et pour des personnes modestes, âgées ou handicapées. C'est une autre forme juridique (entreprise d'insertion, avec agrément), mais le principe est le même : un transport payant, à vocation sociale.
+
+## Le mécanisme économique
+
+| Élément | Exemple (hypothèse) |
+|---|---|
+| Prix normal d'un trajet de 8 km (aller) | environ 20 € |
+| Part payée par l'usager (tarif solidaire) | 3 à 6 €, proche du TAD (3 €) |
+| Part payée par le tiers | 14 à 17 € |
+| Qui est le tiers | Employeur de l'apprenti ou du saisonnier ; commune ou CCAS via des bons ; Mission locale ; mécénat local |
+
+**Sans tiers payeur, la VTC sociale perd de l'argent** : l'usager seul ne peut pas payer. Le tiers payeur est la condition de viabilité.
+
+## Les publics et les payeurs
+
+| Public | Payeur le plus probable |
+|---|---|
+| Apprentis, jeunes en formation | Employeur, famille, Mission locale |
+| Saisonniers | Employeur |
+| Demandeurs d'emploi, personnes en réinsertion | France Travail, Mission locale |
+| Seniors isolés | Famille, CCAS, caisse de retraite |
+| Personnes en invalidité temporaire | Famille ; l'accompagnement peut relever de DMS (SAP) |
+
+## Étapes
+
+1. Obtenir des **engagements de payeurs** : 5 employeurs, 1 ou 2 communes, la Mission locale.
+2. Passer l'examen VTC et la carte (environ 830 € minimum).
+3. Créer une **entreprise VTC distincte de DMS**, avec véhicule conforme et assurance.
+4. Écrire des **conventions** : tarif solidaire, bénéficiaires, justificatifs, facturation au tiers.
+5. Lancer un **pilote** de 3 mois : 20 usagers, 2 ou 3 payeurs.
+6. Mesurer : coût par trajet, part payée par chaque payeur, impact (emploi, formation).
+
+## Risques
+
+| Risque | Parade |
+|---|---|
+| Aucun tiers payeur ne s'engage | Ne pas passer l'examen avant d'avoir des engagements |
+| Dépendance à une commune ou à un employeur | Diversifier les payeurs |
+| Marge négative sur les trajets solidaires | Fixer un prix minimum couvrant les coûts réels |
+| Confusion avec un service associatif ou de transport public | Communiquer clairement : service privé, réservation préalable |
+| Concurrence des taxis locaux | Partenariat, positionnement sur le tarif solidaire et l'accompagnement |
+
+## Sources
+- La mobilité solidaire : quel cadre juridique et quelles pratiques ? (Cerema) : https://www.cerema.fr/fr/actualites/mobilite-solidaire-quel-cadre-juridique-quelles-pratiques
+- La mobilité solidaire à l'œuvre dans les territoires (Fondation Macif) : https://www.fondation-macif.org/storage/Publications/Guide_Mobilite_Solidaire_dans_les_territoires.pdf
+- Les mobilités solidaires (Observatoire normand ONDE) : https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/onde-mobilites-solidaires-v4.pdf
+- Consolidation nécessaire pour la mobilité solidaire (Banque des Territoires) : https://www.banquedesterritoires.fr/consolidation-necessaire-pour-la-mobilite-solidaire
