@@ -45,6 +45,20 @@ Pour les seniors et les personnes handicapées (et les enfants de plus de 3 ans)
 3. **Ne pas vendre le déplacement seul.**
 4. **Faire valider la formulation par la DDETSPP** par écrit.
 
+## Les personnes en invalidité temporaire (ni âgées, ni handicapées)
+
+D'après le site officiel des services à la personne, deux activités **distinctes**, soumises à **déclaration seulement** (pas d'agrément), concernent les personnes **non fragiles temporairement dépendantes** (exemple donné : un homme de 50 ans dont le bras est immobilisé après un accident domestique) :
+1. **Accompagnement des personnes présentant une invalidité temporaire** : accompagnement dans les transports et aide à la mobilité dans les actes de la vie courante.
+2. **Conduite du véhicule personnel en cas d'invalidité temporaire** : la personne ne peut pas conduire son propre véhicule ; l'intervenant le conduit (domicile, travail, démarches).
+
+**Conditions à respecter :**
+- l'activité doit être comprise dans une **offre globale** de services à la personne (avec un socle d'activités à domicile) ;
+- elle est réalisée **à partir ou à destination du domicile** ;
+- les **transports de groupe** sont exclus ;
+- garder une **trace de la situation d'invalidité** (certificat médical, arrêt) : précaution, à confirmer avec la DDETSPP.
+
+**Pour les autres personnes** (ni âgées, ni handicapées, ni en invalidité temporaire, par exemple étudiants, demandeurs d'emploi, personnes en réinsertion, sans solution de mobilité) : aucune activité SAP de mobilité. Il reste le taxi (entreprise autorisée), l'association de transport d'utilité sociale, ou le conseil en mobilité.
+
 ## Ce que cela ne change pas
 
 Ton agrément en mode mandataire, tes services d'aide à domicile, de repas, d'entretien et de présence de nuit continuent normalement.
