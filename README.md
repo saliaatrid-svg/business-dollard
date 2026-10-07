@@ -32,6 +32,7 @@ sezanne/
   vtc-rural.md                     VTC rural : coûts, simulation, test avant de se lancer
   projet-taxi-rural-sap.md         projet à 2-3 ans : taxi rural + SAP, conditions et structures
   tad-partenariat-mairies.md       transport à la demande en partenariat avec la communauté de communes et les mairies
+  tad-proposition-comcom.md        proposition concrète à la CCSSOM : formules, budget de pilote, calendrier
   acces-apa-partenariat-reprise.md  partenariat ou reprise d'un service autorisé pour accéder à l'APA
 guadeloupe/
   etude.md                         étude, plan à distance, relais, financement
