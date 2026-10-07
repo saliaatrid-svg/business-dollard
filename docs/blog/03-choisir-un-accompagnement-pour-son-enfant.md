@@ -34,4 +34,4 @@ Lisez-le en entier : prestations, horaires, tarifs, conditions d'annulation, dro
 ## Notre conseil
 Prenez le temps d'échanger avec l'organisme et de poser toutes vos questions. Un bon accompagnement repose sur la confiance et sur des règles claires, comprises par les parents comme par l'enfant.
 
-*DMS propose YouGoo, un service d'accompagnement véhiculé, à Sézanne et alentours [zone à confirmer]. Pour en savoir plus : [Contact]. [Mentions légales, déclaration SAP, logotype SAP]*
+*DMS, organisme de services à la personne à Sézanne. Une question ? [Contact]. [Mentions légales, déclaration SAP, logotype SAP]*

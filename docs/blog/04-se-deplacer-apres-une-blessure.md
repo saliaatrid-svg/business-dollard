@@ -27,4 +27,4 @@ Quand vos proches ne sont pas disponibles, ou que vous préférez ne pas les sol
 
 *Cet article donne des conseils généraux. En cas de doute sur ce que vous pouvez faire, demandez l'avis de votre médecin.*
 
-*DMS propose YouGoo, un service d'accompagnement véhiculé, à Sézanne et alentours [zone à confirmer]. [Contact, mentions légales, logotype SAP]*
+*DMS, organisme de services à la personne à Sézanne. Une question ? [Contact, mentions légales, logotype SAP]*
