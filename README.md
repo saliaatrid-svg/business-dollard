@@ -34,6 +34,7 @@ sezanne/
   tad-partenariat-mairies.md       transport à la demande en partenariat avec la communauté de communes et les mairies
   tad-proposition-comcom.md        proposition concrète à la CCSSOM : formules, budget de pilote, calendrier
   offre-coordination-ingenierie.md vendre des services de coordination et d'ingénierie (diagnostic, pilote, formation)
+  association-a-creer.md           quelle association créer à Sézanne : existant, options, règles
   acces-apa-partenariat-reprise.md  partenariat ou reprise d'un service autorisé pour accéder à l'APA
 guadeloupe/
   etude.md                         étude, plan à distance, relais, financement
