@@ -46,8 +46,16 @@ Délai d'instruction : une source parle de 3 mois avec silence valant accord, **
 - Préparer le renouvellement un an avant la fin.
 - Communication : « Entreprise solidaire d'utilité sociale – agrément n° … » seulement après la décision.
 
-## Attention à la réforme du 1er janvier 2027
-Une source indique que la procédure sera simplifiée (présomption pour certaines activités) par décret à venir. Vérifiez sur Légifrance ou auprès de la DREETS avant de déposer : si vous déposez après le 1er janvier 2027, les règles pourraient changer.
+## La réforme du 1er janvier 2027 (vérifiée)
+Sources : [Seban Avocats](https://www.seban-associes.avocat.fr/agrement-esus-la-liste-de-plein-droit-cede-la-place-a-une-presomption/) · [Plexus Avocats](https://www.plexus-law.com/agrement-esus-ce-que-change-la-loi-de-simplification-du-26-mai-2026/) · [Economie.gouv.fr](https://www.economie.gouv.fr/entreprises/trouver-des-aides-et-des-financements/les-aides-et-financements-pour-developper-son-entreprise/economie-sociale-et-solidaire-quest-ce-que). Texte officiel non consulté sur Légifrance.
+- **Loi** : n° 2026-403 du 26 mai 2026 de simplification de la vie économique (article 5, X, 7°), qui réécrit le II de l'article L.3332-17-1 du Code du travail. Application différée au **1er janvier 2027**.
+- **Avant** : une liste légale de structures agréées « de plein droit » (insertion, entreprises adaptées, certaines associations…).
+- **Après** : une **présomption** pour les entreprises de l'ESS qui poursuivent une utilité sociale et appartiennent à des **catégories fixées par décret** : elles sont présumées remplir l'utilité sociale à titre principal (1°) et l'impact sur le compte de résultat (2°). Elles doivent toujours justifier la rémunération (3°) et les titres non cotés (4°), être ESS au sens de la loi de 2014, et déposer un dossier.
+- **Décret** : pas encore publié (à la date des articles consultés). La liste des catégories n'est pas connue.
+- **Agréments existants** : valables jusqu'à leur terme ; le nouveau cadre s'applique au renouvellement.
+- **Demandes déposées avant 2027** : le sort n'est pas précisé.
+- **Effet sur DMS** : DMS relève de la **voie de droit commun** (société commerciale, sur demande). Cette voie **n'est pas modifiée**. La réforme ne vous aide que si le décret crée une catégorie qui vous couvre (inconnu aujourd'hui). Inutile donc d'attendre : si vos statuts et votre dossier sont prêts, déposer avant ou après le 1er janvier 2027 change peu pour vous.
+- **À surveiller** : la parution du décret sur Légifrance ; demander à la DREETS si une catégorie « services à la personne / aide à domicile » est prévue.
 
 ## Calendrier indicatif
 | Semaine | Action |
@@ -62,4 +70,4 @@ Une source indique que la procédure sera simplifiée (présomption pour certain
 1. DMS est-elle classée « B2 » ? Quelle liste de pièces exacte pour une société de moins de 3 ans ?
 2. Les aides à domicile en invalidité temporaire relèvent-elles des publics fragilisés visés par la loi ?
 3. Quel est le délai réel d'instruction ?
-4. La réforme de 2027 change-t-elle quelque chose pour mon dossier ?
+4. Le décret de la réforme 2027 prévoit-il une catégorie qui couvre une société d'aide à domicile ?
