@@ -1,37 +1,34 @@
-# Marketing & communication
+# Marketing – VTC dans l'écosystème YouGoo by DMS
 
 ## Positionnement
-« Un chauffeur de confiance, au pas de votre porte. » Ponctualité, douceur, discrétion, sécurité.
-Différenciation : aide à la mobilité, attente pendant le RDV, SMS de suivi à la famille, conductrice/conducteur identifié.
+YouGoo = l'accompagnement du quotidien (SAP). **VTC DMS = la liberté de voyager plus loin**, avec le même soin.
+Baseline : « Voyage plus loin, vis plus grand » (déjà utilisée) ; déclinaison : « Aller plus loin, en toute confiance ».
 
-## Cibles et canaux
-| Cible | Où les toucher |
+## Charte
+Reprendre les couleurs du flyer : rose, violet, vert anis, bleu marine ; logo YouGoo by DMS ; ton tutoyant côté jeunes, vouvoyant côté seniors/aidants.
+
+## Parcours
+Besoin quotidien et récurrent → YouGoo (forfaits, crédit d'impôt) · Besoin ponctuel ou lointain → VTC (prix au trajet). Un client peut utiliser les deux.
+
+## Canaux
+| Cible | Canaux |
 |---|---|
-| Seniors | Mairies, CCAS, pharmacies, cabinets médicaux, EHPAD, clubs des aînés, journal local (L'Union), radio |
-| Aidants (enfants des seniors) | Facebook, Google Maps/Business, bouche-à-oreille, groupes de communes |
-| Femmes / soirées | Instagram/Facebook, bars, associations, entreprises, étudiants, gare de Sézanne/Épernay |
-| Autre public (à préciser) | — |
+| Étudiants / apprentis | Instagram, TikTok, CFA, lycées, missions locales |
+| Demandeurs d'emploi / réinsertion | France Travail, Mission locale, PMSMP, forums emploi |
+| Seniors / aidants | CCAS, mairies, EHPAD, pharmacies, médecins, kinés, presse locale |
+| Public large | Google Business, Facebook, site DMS |
 
 ## Plan 90 jours
-1. J-30 : nom, logo, fiche Google Business, numéro dédié, page WhatsApp/SMS.
-2. J-15 : site en ligne (`site/index.html`), flyers dans 20 lieux (pharmacies, mairies).
-3. J0 : lancement + offre « 1er trajet −20 % ».
-4. J+30 : partenariats (EHPAD, kinés, infirmières libérales, cabinets), avis Google.
-5. J+60 : abonnements mensuels, parrainage (« offrez un trajet »).
+1. Avant lancement : page VTC sur le site DMS, mise à jour Google Business, nouveau flyer (recto VTC / verso tarifs).
+2. Lancement : offre « 1er trajet −20 % », annonce à la base clients YouGoo.
+3. J+30 : partenariats (CFA, structures d'insertion, EHPAD, cabinets).
+4. J+60 : abonnements mensuels, parrainage, avis Google.
 
-## Messages types
-- **Senior** : « Un rendez-vous ? Je viens vous chercher et je vous ramène, tranquillement. »
-- **Aidant** : « Vous n'êtes pas disponible ? Je m'occupe du trajet et je vous préviens à l'arrivée. »
-- **Soirée** : « Rentrez en sécurité, réservez votre retour à l'avance. »
+## Textes
+- « Un train à 6 h, un entretien à Reims, un retour de soirée : réserve ton trajet à l'avance. »
+- « Un rendez-vous loin de chez vous ? On vous conduit et on vous ramène. »
 
-## Posts réseaux sociaux (5 idées)
-1. Présentation du service + visage du chauffeur.
-2. Zone couverte (carte des communes).
-3. Témoignage / avis client.
-4. Astuce sécurité : réserver à l'avance, vérifier la vignette VTC.
-5. Offre de lancement.
-
-## Flyer (texte)
-**[Nom] – Transport de personnes sur réservation**
-Sézanne · Esternay · Montmirail · Épernay — RDV médicaux, courses, gares, soirées
-☎ [téléphone] · [site] · Tarifs annoncés à l'avance
+## Flyer VTC (texte)
+**YouGoo by DMS – Trajets VTC** · Gares · Hôpitaux · Entretiens · Soirées
+Prix annoncé à l'avance · Sézanne et alentours · 07 49 55 14 85 · www.dms-aideadomicile.fr
+*Les trajets VTC ne donnent pas droit au crédit d'impôt services à la personne.*

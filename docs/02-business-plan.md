@@ -1,54 +1,53 @@
-# Business plan simplifié (hypothèses à ajuster)
+# Business plan – Activité VTC de DMS (complément à YouGoo)
 
-Toutes les valeurs sont des **hypothèses** pour zone rurale ; remplacez-les par vos devis réels.
+Hypothèses à remplacer par vos chiffres réels (activité SAP actuelle, devis, assurance).
 
-## Offre
-1. **Accompagnement senior** : porte-à-porte, aide à la montée, attente sur place (RDV médecin, courses, coiffeur, visites, gare).
-2. **Trajets sécurisés** : soirées, gare, retours de sortie, enfants accompagnés (selon réglementation), suivi par SMS.
-3. **Forfaits** : abonnement mensuel (ex. 4 trajets), forfait aller-retour avec attente.
+## Lecture de la grille YouGoo
+Tarif TTC initial : 15 €/h pour jusqu'à 30 km/h, soit ≈ 0,50 €/km ; 0,50 €/km supplémentaire hors forfait.
+Net client après avance immédiate : 7,50 €/h. Ce niveau de prix ne peut pas financer un VTC (véhicule plus cher, assurance transport).
 
-## Tarification (exemple)
-- Prise en charge : 5 €  |  Kilomètre : 1,50 €  |  Attente : 0,60 €/min après 10 min
-- Forfaits locaux : trajet < 10 km ≈ 20 €, 10–25 km ≈ 40 €, hôpital Reims/Épernay A/R ≈ 90–120 €
-- Prix annoncé à la réservation (obligatoire en VTC).
+## Offre VTC (public du flyer)
+| Public | Besoins VTC |
+|---|---|
+| Étudiants / apprentis | Gares, retours de sortie, trajets longue distance ponctuels |
+| Demandeurs d'emploi / réinsertion | Entretiens, forums emploi, centres de formation éloignés |
+| Dépendance ponctuelle / seniors | RDV hôpital Reims/Épernay, retours de soins (hors remboursement CPAM) |
+| Sans solution de mobilité | Trajets hors forfait SAP, urgences, week-ends |
 
-## Investissement de départ (estimé)
+Offre dérivée de YouGoo : « Trajet à la demande » avec le même accompagnement, mais prix au trajet.
+
+## Tarification
+- Prise en charge 5 € · 1,50 €/km · attente 0,60 €/min après 10 min
+- Forfaits : < 10 km ≈ 20 € · 10–25 km ≈ 40 € · A/R Reims ≈ 110 €
+- Tarif étudiant / demandeur d'emploi : −10 % sur justificatif (à valider, ne pas confondre avec le crédit d'impôt SAP)
+
+## Investissement (estimé)
 | Poste | € |
 |---|---|
-| Formation + examen + visite + carte | 1 000 – 3 500 |
-| Véhicule hybride/électrique d'occasion | 15 000 – 25 000 (ou LLD ~400 €/mois) |
-| Capacité financière REVTC (à justifier) + frais | 1 500 + 170 |
-| Site, signalétique, cartes de visite | 300 – 600 |
-| Trésorerie de sécurité (3 mois) | 3 000 |
-| **Total (hors véhicule)** | **≈ 6 000 – 9 000** |
+| Formation + examen + visite + carte (×2 conducteurs) | 2 000 – 6 000 |
+| Capacité financière REVTC + frais | 1 500 + 170 |
+| Modification statuts / Kbis | 100 – 300 |
+| Véhicule | LLD ~400 €/mois (ou achat 15–25 k€) |
+| Signalétique, page web | 300 |
+| **Hors véhicule** | **≈ 4 000 – 8 500** |
 
-## Charges mensuelles (voiture en LLD, ~1 800 km/sem. pro)
-| Poste | €/mois |
-|---|---|
-| Location/crédit véhicule | 400 |
-| Assurance transport de personnes | 200 – 350 |
-| Carburant/recharge | 250 – 400 |
-| Entretien/pneus/CT | 100 |
-| Téléphone, logiciel, comptable | 80 |
-| Cotisations (≈ 22 % du CA en micro) | variable |
-| **Total hors cotisations** | **≈ 1 050 – 1 350** |
+## Charges mensuelles VTC
+LLD 400 · assurance 200–350 · carburant/recharge 250–400 · entretien/CT 100 · logiciel 50 · charge conducteur (salaire + cotisations) selon heures.
 
-## Scénarios de chiffre d'affaires
-| Scénario | Courses/jour | Panier moyen | Jours/mois | CA/mois | Résultat avant impôt (≈) |
+## Scénarios (CA VTC mensuel)
+| Scénario | Courses/jour | Panier | Jours | CA | Marge avant salaire |
 |---|---|---|---|---|---|
-| Prudent | 3 | 28 € | 20 | 1 680 € | ≈ 150 € |
-| Réaliste (an 1) | 5 | 30 € | 22 | 3 300 € | ≈ 1 400 € |
-| Objectif (an 2) | 7 | 32 € | 22 | 4 900 € | ≈ 2 600 € |
+| Prudent | 3 | 28 € | 20 | 1 680 € | ≈ 0 € |
+| Réaliste | 5 | 30 € | 22 | 3 300 € | ≈ 1 700 € |
+| Objectif | 7 | 32 € | 22 | 4 900 € | ≈ 3 300 € |
 
-Lecture : en zone rurale la clé est la **récurrence** (abonnements, partenariats) et la maîtrise des km à vide.
-Seuil de rentabilité ≈ 4 courses/jour.
+Seuil de rentabilité ≈ 4 courses/jour avant rémunération. La marge doit couvrir la rémunération du conducteur.
 
-## Statut
-- **Micro-entreprise** : démarrage simple, mais plafond de CA et TVA (franchise possible sous le seuil — à valider avec un conseiller/comptable).
-- **SASU/EURL** : à envisager si les charges (véhicule) deviennent importantes.
+## Synergies avec YouGoo
+Clients SAP existants = premier réservoir ; chauffeurs mutualisables ; gestion/planning commun ; fidélisation (le client choisit forfait SAP ou trajet VTC).
 
 ## Financement
-CPF / France Travail (formation), prêt d'honneur Initiative Marne, NACRE/ACRE, banque (microcrédit ADIE), aides régionales Grand Est pour la mobilité rurale. Plusieurs sont soumises à conditions : à étudier avec un conseiller.
+CPF/France Travail (formation), prêt d'honneur Initiative Marne, ADIE, aides régionales mobilité rurale, banque pour la LLD.
 
 ## Risques
-Faible densité (km à vide) ▸ zones de prise en charge + tarifs forfaitaires · Saisonnalité ▸ contrats entreprises/maisons de retraite · Transport médical non remboursé ▸ partenariat taxi conventionné · Dépendance au véhicule ▸ assurance perte d'exploitation.
+Confusion SAP/VTC (juridique et fiscale) · faible densité rurale ▸ zones et forfaits · dépendance à 1 véhicule ▸ assurance perte d'exploitation · temps de gestion ▸ planning commun.

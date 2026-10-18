@@ -1,4 +1,4 @@
-# business-dollard – Projet VTC Sud-Ouest Marnais
+# business-dollard – Activité VTC de DMS (YouGoo by DMS), Sézanne
 
 - `docs/01-plan-action.md` : démarches pas à pas
 - `docs/02-business-plan.md` : budget, tarifs, scénarios
