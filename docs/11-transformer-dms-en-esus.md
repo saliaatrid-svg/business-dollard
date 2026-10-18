@@ -46,7 +46,9 @@ Délai d'instruction : une source parle de 3 mois avec silence valant accord, **
 - Préparer le renouvellement un an avant la fin.
 - Communication : « Entreprise solidaire d'utilité sociale – agrément n° … » seulement après la décision.
 
-## La réforme du 1er janvier 2027 (vérifiée)
+## La réforme du 1er janvier 2027 (texte officiel vérifié)
+**Texte officiel lu** : Journal officiel n° 122 du 27 mai 2026, loi n° 2026-403 du 26 mai 2026 (fichier `JOE_TEXTE.pdf` de votre Drive, 144 textes). Article 5, X, 7° : « Le II de l'article L. 3332-17-1 est ainsi rédigé : II. – Pour l'obtention de l'agrément mentionné au I, est présumée satisfaire aux conditions énoncées aux 1° et 2° du même I l'entreprise de l'économie sociale et solidaire qui exerce des activités poursuivant une utilité sociale, au sens de l'article 2 de la loi n° 2014-856 du 31 juillet 2014 précitée, et qui appartient à l'une des catégories fixées par décret. » Entrée en vigueur : « Le 7° du X entre en vigueur le 1er janvier 2027. » Le texte ne modifie pas le I de l'article (les cinq conditions) : seul le II (liste de plein droit) est remplacé par la présomption.
+Les analyses ci-dessous de cabinets d'avocats concordent avec ce texte.
 Sources : [Seban Avocats](https://www.seban-associes.avocat.fr/agrement-esus-la-liste-de-plein-droit-cede-la-place-a-une-presomption/) · [Plexus Avocats](https://www.plexus-law.com/agrement-esus-ce-que-change-la-loi-de-simplification-du-26-mai-2026/) · [Economie.gouv.fr](https://www.economie.gouv.fr/entreprises/trouver-des-aides-et-des-financements/les-aides-et-financements-pour-developper-son-entreprise/economie-sociale-et-solidaire-quest-ce-que). Texte officiel non consulté sur Légifrance.
 - **Loi** : n° 2026-403 du 26 mai 2026 de simplification de la vie économique (article 5, X, 7°), qui réécrit le II de l'article L.3332-17-1 du Code du travail. Application différée au **1er janvier 2027**.
 - **Avant** : une liste légale de structures agréées « de plein droit » (insertion, entreprises adaptées, certaines associations…).
