@@ -12,4 +12,5 @@
 - `docs/10-courrier-conseil-departemental.md` : projet de courrier au Conseil départemental (abandonné)
 - `docs/11-transformer-dms-en-esus.md` : étapes pour obtenir l'agrément ESUS
 - `docs/12-checklist-carte-vtc.md` : checklist pour obtenir la carte professionnelle VTC
+- `docs/13-reouverture-yougoo-vtc.md` : séquence de réouverture de YouGoo en VTC
 - `site/index.html` : site vitrine (placeholders à compléter)
