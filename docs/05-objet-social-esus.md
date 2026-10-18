@@ -2,7 +2,7 @@
 
 Choix retenus : activité VTC **dans DMS**, **vous seul** conduisez et êtes rémunéré(e) au départ.
 Avec une seule personne rémunérée, les plafonds ESUS (moyenne ≤ 7 SMIC, maximum ≤ 10 SMIC annuels) ne posent pas de difficulté.
-Modèle à faire relire par votre expert-comptable ou un juriste avant tout dépôt : ce n'est pas un acte juridique.
+Modèle à faire valider par la CRESS Grand Est ou la DREETS avant tout dépôt (vous n'avez ni expert-comptable ni avocat, voir `06-situation-dms-et-verifications-officielles.md`).
 
 ## 1. Modèle de clause d'objet social (à adapter à la forme de DMS)
 > La société a pour objet, à titre principal, de favoriser la mobilité des personnes en situation de fragilité ou d'isolement,

@@ -18,13 +18,13 @@ Dernière vérification : oct. 2026. Montants indicatifs, à confirmer (préfect
 |---|---|---|---|
 | 1 | Conditions du conducteur | Permis B > 3 ans (2 si conduite accompagnée), pas de probatoire, casier B2 compatible | 0 € |
 | 2 | Visite médicale | Médecin agréé préfecture | ~40 € |
-| 3 | Formation + examen CMA | Théorie + pratique ; un salarié peut passer l'examen en plus du dirigeant | 500–3 000 € + ~200–240 € |
+| 3 | Formation (non obligatoire) + examen CMA | Théorie + pratique ; un salarié peut passer l'examen en plus du dirigeant | 500–3 000 € + ~200–240 € |
 | 4 | Carte professionnelle | Personnelle à chaque conducteur, valable 5 ans | ~60 € |
 | 5 | Modifier DMS | Objet social + Kbis : « transport de personnes à titre onéreux » (greffe/CFE, expert-comptable) | ~100–300 € |
-| 6 | Véhicule | ≥ 4,50 × 1,70 m, 4 portes, ≥ 84 kW, < 6 ans (hybride/électrique : critères allégés) ; contrôle technique annuel | LLD ~400 €/mois |
+| 6 | Véhicule | ≥ 4,50 × 1,70 m, 4 portes, ≥ 84 kW, ≤ 7 ans (hybride/électrique : critères allégés) ; contrôle technique annuel | LLD ~400 €/mois |
 | 7 | Assurance | RC transport de personnes à titre onéreux | 200–350 €/mois |
 | 8 | Registre REVTC | Au nom de DMS, capacité financière 1 500 €/véhicule | ~170 € |
-| 9 | Vignette VTC | Sur le véhicule | ~20 € |
+| 9 | Vignette VTC | Sur le véhicule | ~35 € |
 | 10 | Supports | Nouveau flyer, site, CGV (voir `03-marketing.md`) | — |
 | 11 | Salariés chauffeurs | Contrat dédié VTC, carte pro de chaque conducteur | — |
 
@@ -35,3 +35,7 @@ Dernière vérification : oct. 2026. Montants indicatifs, à confirmer (préfect
 
 ## Sources
 [Justice.fr](https://www.justice.fr/fiche/devenir-chauffeur-vtc) · [Hayot Expertise](https://hayot-expertise.fr/blog/devenir-chauffeur-vtc-carte-registre-capacite-2026) · [L'Argus](https://www.largus.fr/actualite-automobile/reglementation-lexperience-professionnelle-ne-permet-plus-de-devenir-chauffeur-vtc-40003812.html) · [Service-public.fr](https://www.service-public.fr/professionnels-entreprises/vosdroits/F22127)
+
+## Mise à jour (voir `06-situation-dms-et-verifications-officielles.md`)
+- Véhicule : **≤ 7 ans** ; vignette ~35 € ; formation non obligatoire ; voie « expérience » supprimée depuis le 12/08/2026.
+- Le CA VTC sera limité à **30 % du CA total** de DMS (dispense de la condition d'activité exclusive), avec comptabilité séparée.

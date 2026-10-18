@@ -5,4 +5,5 @@
 - `docs/03-marketing.md` : positionnement et communication
 - `docs/04-vtc-esus.md` : agrément ESUS
 - `docs/05-objet-social-esus.md` : modèle d'objet social, indicateurs, calendrier
+- `docs/06-situation-dms-et-verifications-officielles.md` : situation DMS, plafond 30 %, vérifications officielles
 - `site/index.html` : site vitrine (placeholders à compléter)
