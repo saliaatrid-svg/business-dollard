@@ -44,3 +44,21 @@ Les charges mensuelles de 1 000 à 1 300 € dépassent largement ce plafond : l
 - retarder l'achat du véhicule et d'abord passer la carte ;
 - éviter la location : utiliser un véhicule déjà possédé, s'il est conforme (≤ 7 ans, critères de taille ou hybride/électrique), pour supprimer la LLD (400 €) ;
 - n'ouvrir que lorsque le CA SAP permet de monter le plafond de 30 %.
+
+## F. Avec votre véhicule hybride (mise à jour)
+D'après la page officielle, les limites d'âge du véhicule, de portes, de dimensions et de puissance ne s'appliquent **pas aux hybrides et électriques**. Le nombre de places (4 à 9 conducteur compris), le contrôle technique annuel et la vignette restent exigés.
+| Poste | Sans véhicule | Avec votre hybride |
+|---|---|---|
+| Location (LLD) | 400 €/mois | **0 €** |
+| Garantie financière REVTC | 0 à 1 500 € | 0 € si le véhicule est possédé ou loué > 6 mois (justificatif) |
+| Charges mensuelles | 1 000 à 1 300 € | **≈ 600 à 900 €** (assurance 200–350, énergie 250–400, entretien 100, divers 50) |
+| Démarrage (A + B) | 1 000 à 5 300 € | **≈ 1 000 à 3 800 €** |
+| Démarrage + 3 mois de charges | 4 000 à 9 200 € | **≈ 2 800 à 6 500 €** |
+Avec le plafond de 400 à 571 € de CA VTC par mois : résultat ≈ **−500 € à −30 €** par mois (hors usure du véhicule). Le seuil devient presque atteignable si votre assurance et votre énergie sont dans le bas des fourchettes.
+
+### Points à vérifier pour utiliser votre véhicule
+1. **Titulaire de la carte grise** : le registre VTC est au nom de DMS (exploitant). Si le véhicule est à votre nom personnel, demandez à l'équipe du registre (ministère des Transports) s'il faut une mise à disposition écrite, une location à DMS ou une carte grise au nom de DMS.
+2. **Nombre de places** : au moins 4 conducteur compris.
+3. **Assurance** : le contrat doit couvrir le transport de personnes à titre onéreux (usage professionnel), pas seulement l'usage privé.
+4. **Contrôle technique annuel** pour le véhicule VTC.
+5. **Vignette rouge** avant et arrière, aucun dispositif lumineux extérieur.
