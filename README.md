@@ -13,4 +13,5 @@
 - `docs/11-transformer-dms-en-esus.md` : étapes pour obtenir l'agrément ESUS
 - `docs/12-checklist-carte-vtc.md` : checklist pour obtenir la carte professionnelle VTC
 - `docs/13-reouverture-yougoo-vtc.md` : séquence de réouverture de YouGoo en VTC
+- `docs/14-cout-demarche-vtc-avec-formation.md` : coût de la démarche avec formation
 - `site/index.html` : site vitrine (placeholders à compléter)
