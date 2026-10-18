@@ -54,3 +54,15 @@ Statuts à jour · Kbis · derniers comptes (ou prévisionnel) · budget et indi
 - ESUS ne remplace pas l'inscription REVTC ni la carte pro VTC.
 - Une réforme au 1er janvier 2027 doit simplifier la procédure : vérifier les règles en vigueur au moment du dépôt.
 - Seul à conduire : prévoir un plan de continuité (maladie, panne) pour ne pas laisser les bénéficiaires sans solution.
+
+## 8. Précisions : DMS est une SASU qui garde l'aide à domicile
+- **SASU = société commerciale (SAS)** : éligible à l'ESUS si elle applique les principes ESS dans ses statuts (utilité sociale, affectation des bénéfices au développement, réserves impartageables). Avec un associé unique, la « gouvernance démocratique » s'exprime surtout par des règles écrites (information, participation des bénéficiaires/partenaires) : à faire rédiger par l'expert.
+- **Aide à domicile + VTC dans la même SASU** : les deux activités visent des publics fragiles, ce qui peut aider à démontrer l'utilité sociale « à titre principal » sur l'ensemble. Il faudra toutefois vérifier :
+  - si l'autorisation/déclaration de l'aide à domicile (Département, DDETS) impose une activité exclusive ou limite le cumul avec le transport VTC ;
+  - la comptabilité séparée de chaque activité (analytique), indispensable pour prouver l'impact de YouGoo.
+- **Rémunération** : vous seul, président de SASU : respecter les plafonds ESUS (déjà sans difficulté).
+- **Sécurité juridique** : faire valider auprès de la DREETS et du Département avant de modifier l'objet social.
+
+## 9. Statut du projet : en attente
+Décision : **on attend**. Aucun flyer ni publication pour l'instant. Les fichiers `site/index.html` et `docs/03-marketing.md` restent des brouillons non diffusés.
+Prochaine étape quand vous voudrez reprendre : rendez-vous avec l'expert-comptable (statuts ESS + objet social) et appel à la DREETS/Département (cumul aide à domicile + VTC).
