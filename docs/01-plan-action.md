@@ -8,7 +8,7 @@ Dernière vérification : oct. 2026. Montants indicatifs, à confirmer (préfect
 
 ## Conséquences du choix « hors SAP »
 - Les flyers actuels (grille « reste à charge après avance Urssaf », mention « Services à la personne », logo S!) doivent être **refaits** : ils seraient trompeurs.
-- Le client paie le **tarif plein** : il faut un prix accessible et des financeurs tiers (voir business plan).
+- Le client paie le **prix TTC de la grille actuelle** (45 € les 3 h, 15 €/h…) : voir la rentabilité dans le business plan.
 - « Mobilité accompagnée » reste possible comme argument commercial (porte-à-porte, aide à la montée), mais ce n'est pas une prestation d'aide à la personne : ne pas promettre d'aide aux gestes, aux démarches ou une surveillance.
 - Le VTC est du **transport sur réservation préalable**, prix annoncé à l'avance, et non remboursé par l'Assurance Maladie.
 - Garder DMS (aide à domicile) et YouGoo (VTC) bien distincts sur le site, les devis et les factures.

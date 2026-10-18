@@ -8,7 +8,7 @@ Le terme **« mobilité accompagnée »** peut rester pour le porte-à-porte, ma
 - Mention « Services à la personne » et logo S!
 - « Tarification client après avance immédiate Urssaf », « reste à charge », « avant crédit d'impôt »
 - « Mode prestataire : DMS est l'employeur »
-- Grille de forfaits actuelle, remplacée par celle du business plan
+- Colonne « reste à charge » (prix net après avance) : à supprimer. Conserver les prix TTC de la grille : 45 / 65 / 135 / 270 / 405 € et 15 €/h, 0,50 €/km au-delà
 
 ## Mentions à ajouter
 Transport de personnes sur réservation préalable · Tarif annoncé avant le départ · Non pris en charge par l'Assurance Maladie · Inscrit au registre VTC n° [à compléter]

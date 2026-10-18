@@ -1,23 +1,27 @@
 # Business plan – YouGoo VTC (hors SAP)
 
-Hypothèses à remplacer par vos devis réels.
+Hypothèses à remplacer par vos devis réels. La grille tarifaire est celle de vos flyers actuels.
 
-## Le problème de prix
-La grille actuelle (45 € pour 90 km, ≈ 0,50 €/km, ou 7,50 € net après crédit d'impôt) **ne peut pas** être reprise en VTC :
-le coût réel (véhicule, assurance, carburant, conducteur) est d'environ 0,70 à 1,00 €/km avant rémunération.
-Sans crédit d'impôt, le client paie le tarif plein. Il faut donc des tarifs plus élevés **et** des financeurs tiers.
-
-## Grille proposée (à tester)
-| Forfait mensuel | Km inclus | Prix TTC | €/km |
+## Grille tarifaire (conservée, prix TTC)
+| Forfait mensuel | Heures | Km inclus | Prix TTC |
 |---|---|---|---|
-| Essentiel | 90 km | 108 € | 1,20 |
-| Confort | 150 km | 172 € | 1,15 |
-| Régulier | 300 km | 330 € | 1,10 |
-| Intensif | 600 km | 630 € | 1,05 |
-| Premium | 900 km | 900 € | 1,00 |
-| À la course | — | 5 € + 1,50 €/km | — |
+| Forfait 3h | 3 h | jusqu'à 90 km | 45,00 € |
+| Forfait 5h | 5 h | jusqu'à 150 km | 65,00 € |
+| Forfait 10h | 10 h | jusqu'à 300 km | 135,00 € |
+| Forfait 20h | 20 h | jusqu'à 600 km | 270,00 € |
+| Forfait 30h | 30 h | jusqu'à 900 km | 405,00 € |
+| À l'unité | 1 h | jusqu'à 30 km | 15,00 €/h |
 
-Km supplémentaire : 1,00 €. Prix toujours annoncé à la réservation. Réservation préalable obligatoire.
+Au-delà du forfait : 0,50 €/km supplémentaire. Ce sont les prix « TTC initial » du flyer : sans SAP, le client paie ce montant
+(plus de « reste à charge » à 22,50 €, 32,50 €… : ces colonnes sont à supprimer).
+Prix annoncé à la réservation ; réservation préalable.
+
+## ⚠️ Rentabilité de cette grille
+Revenu ≈ 15 €/h (0,43 à 0,50 €/km). Coûts d'un VTC : véhicule + assurance + énergie + entretien ≈ 1 050–1 350 €/mois, hors conducteur.
+- Seuil de rentabilité ≈ **70 à 90 heures facturées par mois**, avant toute rémunération du conducteur.
+- Pour rémunérer un conducteur (≈ 12–15 €/h chargé), il faut ≈ 30 € de revenu par heure : **la grille ne couvre pas un salarié**.
+- Elle fonctionne si : un seul véhicule très rempli, conducteur = dirigeant, peu de km à vide, et/ou financeurs tiers qui paient en plus.
+Vous gardez la grille : je l'ai appliquée telle quelle. Je vous conseille de la revoir après 2–3 mois de données réelles.
 
 ## Financeurs et publics (à étudier, aucune aide n'est acquise)
 - Étudiants / apprentis : Région Grand Est, CFA, aides à la mobilité des apprentis.
@@ -40,14 +44,14 @@ Conventionner avec ces financeurs peut remplacer le crédit d'impôt que vous ne
 ## Charges mensuelles
 LLD 400 · assurance 200–350 · carburant/recharge 250–400 · entretien/CT 100 · logiciel 50 · rémunération conducteur selon heures.
 
-## Scénarios (CA mensuel)
-| Scénario | Courses/jour | Panier | Jours | CA | Marge avant salaire |
-|---|---|---|---|---|---|
-| Prudent | 3 | 28 € | 20 | 1 680 € | ≈ 0 € |
-| Réaliste | 5 | 30 € | 22 | 3 300 € | ≈ 1 700 € |
-| Objectif | 7 | 32 € | 22 | 4 900 € | ≈ 3 300 € |
+## Scénarios (CA mensuel avec la grille, 15 €/h)
+| Scénario | Heures facturées/mois | CA | Marge avant rémunération (charges ≈ 1 200 €) |
+|---|---|---|---|
+| Prudent | 60 h | 900 € | ≈ −300 € |
+| Réaliste | 120 h | 1 800 € | ≈ 600 € |
+| Objectif | 180 h | 2 700 € | ≈ 1 500 € |
 
-Seuil de rentabilité ≈ 4 courses/jour avant rémunération.
+Rappel : les forfaits mensuels sont encaissés même si les heures ne sont pas toutes utilisées (avantage de trésorerie).
 
 ## Risques
 Prix perçu comme élevé par les publics cibles · dépendance aux financeurs · faible densité rurale ▸ zones + forfaits · confusion avec DMS SAP ▸ communication séparée · un seul véhicule ▸ assurance perte d'exploitation.
