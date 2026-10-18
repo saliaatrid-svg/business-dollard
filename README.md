@@ -7,4 +7,5 @@
 - `docs/05-objet-social-esus.md` : modèle d'objet social, indicateurs, calendrier
 - `docs/06-situation-dms-et-verifications-officielles.md` : situation DMS, plafond 30 %, vérifications officielles
 - `docs/07-plafond-30-pourcent-et-faisabilite.md` : calcul du plafond avec CA 16 000 €, options
+- `docs/08-projet-association-yougoo.md` : projet d'association de mobilité solidaire (TUS)
 - `site/index.html` : site vitrine (placeholders à compléter)
