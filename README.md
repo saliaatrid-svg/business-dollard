@@ -9,5 +9,6 @@
 - `docs/07-plafond-30-pourcent-et-faisabilite.md` : calcul du plafond avec CA 16 000 €, options
 - `docs/08-projet-association-yougoo.md` : projet d'association de mobilité solidaire (TUS)
 - `docs/09-publics-et-habilitations-dms.md` : publics de DMS, habilitations, marché des nuits
-- `docs/10-courrier-conseil-departemental.md` : projet de courrier au Conseil départemental
+- `docs/10-courrier-conseil-departemental.md` : projet de courrier au Conseil départemental (abandonné)
+- `docs/11-transformer-dms-en-esus.md` : étapes pour obtenir l'agrément ESUS
 - `site/index.html` : site vitrine (placeholders à compléter)
