@@ -23,6 +23,21 @@ Revenu ≈ 15 €/h (0,43 à 0,50 €/km). Coûts d'un VTC : véhicule + assuran
 - Elle fonctionne si : un seul véhicule très rempli, conducteur = dirigeant, peu de km à vide, et/ou financeurs tiers qui paient en plus.
 Vous gardez la grille : je l'ai appliquée telle quelle. Je vous conseille de la revoir après 2–3 mois de données réelles.
 
+## Objectif : la mobilité du public cible, pas la marge
+La grille est volontairement basse pour rendre le service accessible (étudiants, demandeurs d'emploi, réinsertion,
+dépendance ponctuelle, personnes sans solution de mobilité, seniors). Le projet se pilote donc sur l'**impact**
+avec un équilibre financier minimal, pas sur le profit.
+
+Indicateurs à suivre : nombre de bénéficiaires, heures et km de mobilité, trajets vers emploi/formation/soins,
+part de bénéficiaires sans autre solution, et **coût réel par heure** (à comparer à 15 €/h pour mesurer l'écart à financer).
+
+Pour couvrir l'écart entre 15 €/h et le coût réel (≈ 25–30 €/h avec conducteur) :
+- Partenariats payeurs : CFA, structures d'insertion, France Travail/missions locales, CCAS, Département, Région.
+- Mécénat local et fondations, entreprises du territoire (mobilité des salariés).
+- Un statut d'économie sociale et solidaire (agrément ESUS, association ou SCIC) peut ouvrir des financements :
+  à étudier avec un expert, car cela change la gouvernance de DMS ou impose une entité dédiée.
+- Un bénéficiaire = un justificatif (statut étudiant, France Travail…) pour sécuriser les financements.
+
 ## Financeurs et publics (à étudier, aucune aide n'est acquise)
 - Étudiants / apprentis : Région Grand Est, CFA, aides à la mobilité des apprentis.
 - Demandeurs d'emploi : aides à la mobilité de France Travail, missions locales.

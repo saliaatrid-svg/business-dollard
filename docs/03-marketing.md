@@ -4,6 +4,10 @@
 « Voyage plus loin, vis plus grand. » Un service de mobilité sur réservation, porte-à-porte, prix annoncé à l'avance.
 Le terme **« mobilité accompagnée »** peut rester pour le porte-à-porte, mais ne pas laisser croire à une aide à la personne.
 
+## Message de mission
+YouGoo existe pour que personne ne renonce à une formation, un emploi, un soin ou une sortie faute de transport.
+Mettre en avant l'impact (trajets réalisés, personnes aidées) plus que le prix.
+
 ## À retirer / modifier sur les flyers actuels
 - Mention « Services à la personne » et logo S!
 - « Tarification client après avance immédiate Urssaf », « reste à charge », « avant crédit d'impôt »
