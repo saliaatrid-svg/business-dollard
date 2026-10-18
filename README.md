@@ -4,4 +4,5 @@
 - `docs/02-business-plan.md` : budget, tarifs, scénarios
 - `docs/03-marketing.md` : positionnement et communication
 - `docs/04-vtc-esus.md` : agrément ESUS
+- `docs/05-objet-social-esus.md` : modèle d'objet social, indicateurs, calendrier
 - `site/index.html` : site vitrine (placeholders à compléter)

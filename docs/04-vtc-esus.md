@@ -39,3 +39,6 @@ Pour une société commerciale ESS, la loi ESS de 2014 ajoute en pratique : gouv
 
 ## Sources
 [Hayot Expertise – Agrément ESUS 2026](https://hayot-expertise.fr/blog/agrement-esus-conditions-avantages-procedure-2026) · [Economie.gouv.fr – Agrément ESUS](https://www.economie.gouv.fr/entreprises/agrement-entreprise-solidaire-utilite-sociale-ess) · [ESS France – exemple TOTEM mobi (SAS ESUS)](https://ess-france.org/sites/default/files/Mobilit%C3%A9_TOTEM%20Mobi_PACA.pdf)
+
+## Décision retenue
+Montage A (DMS agréée ESUS, VTC dedans), vous seul conducteur et rémunéré. Voir `05-objet-social-esus.md`.
