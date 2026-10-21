@@ -3,38 +3,44 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>YouGoo VTC by DMS – Trajets à la demande, Sézanne</title>
-<meta name="description" content="YouGoo VTC by DMS : transport de personnes sur réservation depuis Sézanne. Gares, hôpitaux, entretiens, soirées. Prix annoncé à l'avance.">
+<title>YouGoo VTC by DMS – Transport de personnes, Sézanne</title>
+<meta name="description" content="YouGoo by DMS : transport de personnes sur réservation (VTC) depuis Sézanne. Gares, rendez-vous, formations, entretiens. Prix annoncé à l'avance.">
+<meta name="robots" content="noindex">
 <style>
-:root{--bg:#fff;--fg:#14213d;--pink:#d6207f;--purple:#5b2a86;--lime:#a8c62a;--card:#faf7fc;--line:#e6dcef;--muted:#59627a}
-@media (prefers-color-scheme:dark){:root{--bg:#15101c;--fg:#f0ecf5;--pink:#ff5aa5;--purple:#b48be0;--lime:#c6e04a;--card:#201a2b;--line:#33293f;--muted:#b3abc2}}
+:root{--bg:#fff;--fg:#14213d;--pink:#d6207f;--purple:#5b2a86;--lime:#a8c62a;--card:#faf7fc;--line:#e6dcef;--muted:#59627a;--btn-fg:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15101c;--fg:#f0ecf5;--pink:#ff5aa5;--purple:#b48be0;--lime:#c6e04a;--card:#201a2b;--line:#33293f;--muted:#b3abc2;--btn-fg:#15101c}}
 *{box-sizing:border-box}
 body{margin:0;font:18px/1.6 system-ui,sans-serif;background:var(--bg);color:var(--fg)}
 .wrap{max-width:980px;margin:0 auto;padding:0 16px}
-header{padding:56px 0 32px}
+.draft{background:var(--lime);color:#14213d;padding:10px 16px;text-align:center;font-weight:700;font-size:.95rem}
+header{padding:48px 0 28px}
 .tag{color:var(--purple);font-weight:700;letter-spacing:.04em;text-transform:uppercase;font-size:.85rem}
-h1{font-size:2.4rem;line-height:1.15;margin:8px 0 12px}
+h1{font-size:2.3rem;line-height:1.15;margin:8px 0 12px}
 h1 em{color:var(--pink);font-style:normal}
-h2{margin-top:48px;color:var(--purple)}
-.btn{display:inline-block;background:var(--pink);color:#fff;padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:700;border:0;font:inherit;font-weight:700;cursor:pointer;margin:4px 6px 4px 0}
+h2{margin-top:44px;color:var(--purple)}
+.btn{display:inline-block;background:var(--pink);color:var(--btn-fg);padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:700;border:0;font:inherit;font-weight:700;cursor:pointer;margin:4px 6px 4px 0}
 .btn.alt{background:var(--purple)}
-.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
 .card h3{margin:0 0 6px;color:var(--pink)}
 .muted{color:var(--muted)}
+table{width:100%;border-collapse:collapse}
+th,td{padding:10px 8px;border-bottom:1px solid var(--line);text-align:left}
+th:last-child,td:last-child{text-align:right}
 .notice{border-left:6px solid var(--lime);padding:12px 16px;background:var(--card);border-radius:8px}
-form{display:grid;gap:12px;max-width:540px}
+form{display:grid;gap:12px;max-width:560px}
 label{font-weight:600}
-input,textarea{font:inherit;padding:12px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--fg);width:100%}
+input,textarea,select{font:inherit;padding:12px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--fg);width:100%}
 footer{margin:64px 0 32px;color:var(--muted);font-size:.9rem}
 </style>
 </head>
 <body>
+<div class="draft">Brouillon non publié – ouverture après inscription au registre VTC</div>
 <div class="wrap">
 <header>
-  <div class="tag">YouGoo by DMS · VTC</div>
+  <div class="tag">YouGoo by DMS · Transport de personnes (VTC)</div>
   <h1>Voyage plus loin, <em>vis plus grand.</em></h1>
-  <p class="muted">Transport de personnes sur réservation depuis Sézanne : gares, hôpitaux, entretiens, soirées.</p>
+  <p class="muted">Transport de personnes sur réservation depuis Sézanne : gares, rendez-vous, formations, entretiens, sorties. Prix annoncé à l'avance.</p>
   <a class="btn" href="tel:+33749551485">07 49 55 14 85</a>
   <a class="btn alt" href="#reserver">Réserver un trajet</a>
 </header>
@@ -43,45 +49,49 @@ footer{margin:64px 0 32px;color:var(--muted);font-size:.9rem}
 <div class="grid">
   <div class="card"><h3>Étudiants &amp; apprentis</h3><p>Gare, centre de formation, retours de sortie.</p></div>
   <div class="card"><h3>Demandeurs d'emploi</h3><p>Entretiens, forums emploi, lieux de stage ou de reprise d'activité.</p></div>
-  <div class="card"><h3>Convalescence &amp; seniors</h3><p>Rendez-vous éloignés, retours de soins, visites, porte-à-porte.</p></div>
-  <div class="card"><h3>Sans solution de mobilité</h3><p>Trajets ponctuels hors forfait mensuel.</p></div>
+  <div class="card"><h3>Sans solution de mobilité</h3><p>Rendez-vous, démarches, courses, visites.</p></div>
+  <div class="card"><h3>Seniors valides</h3><p>Trajets en porte-à-porte, sans souci de stationnement.</p></div>
 </div>
 
 <h2>Comment ça marche</h2>
 <div class="grid">
-  <div class="card"><h3>1. Réservez</h3><p>Par téléphone ou formulaire, à l'avance.</p></div>
-  <div class="card"><h3>2. Prix annoncé</h3><p>Le tarif est confirmé avant le départ.</p></div>
-  <div class="card"><h3>3. On vous accompagne</h3><p>Porte-à-porte et suivi par SMS si vous le souhaitez.</p></div>
+  <div class="card"><h3>1. Réservez</h3><p>Par téléphone, courriel ou formulaire, à l'avance. Aucune prise en charge sans réservation.</p></div>
+  <div class="card"><h3>2. Prix annoncé</h3><p>Le tarif vous est confirmé par écrit avant le départ.</p></div>
+  <div class="card"><h3>3. Voyagez</h3><p>Porte-à-porte avec une conductrice titulaire de la carte professionnelle VTC.</p></div>
 </div>
 
-<h2>Nos forfaits mensuels</h2>
+<h2>Tarifs (TTC)</h2>
 <div class="card">
-  <table style="width:100%;border-collapse:collapse">
-    <tr><th align="left">Forfait</th><th align="left">Km inclus</th><th align="right">Prix TTC</th></tr>
-    <tr><td>Forfait 3h</td><td>jusqu'à 90 km</td><td align="right">45 €</td></tr>
-    <tr><td>Forfait 5h</td><td>jusqu'à 150 km</td><td align="right">65 €</td></tr>
-    <tr><td>Forfait 10h</td><td>jusqu'à 300 km</td><td align="right">135 €</td></tr>
-    <tr><td>Forfait 20h</td><td>jusqu'à 600 km</td><td align="right">270 €</td></tr>
-    <tr><td>Forfait 30h</td><td>jusqu'à 900 km</td><td align="right">405 €</td></tr>
-    <tr><td>À l'unité</td><td>jusqu'à 30 km/h</td><td align="right">15 € / heure</td></tr>
+  <table>
+    <tr><th>Forfait mensuel</th><th>Km inclus</th><th>Prix</th></tr>
+    <tr><td>3 h</td><td>jusqu'à 90 km</td><td>45 €</td></tr>
+    <tr><td>5 h</td><td>jusqu'à 150 km</td><td>65 €</td></tr>
+    <tr><td>10 h</td><td>jusqu'à 300 km</td><td>135 €</td></tr>
+    <tr><td>20 h</td><td>jusqu'à 600 km</td><td>270 €</td></tr>
+    <tr><td>30 h</td><td>jusqu'à 900 km</td><td>405 €</td></tr>
+    <tr><td>À l'unité</td><td>jusqu'à 30 km par heure</td><td>15 € / heure</td></tr>
   </table>
-  <p class="muted">Au-delà du forfait : 0,50 € / km supplémentaire. Prix annoncé avant le départ. Non pris en charge par l'Assurance Maladie.</p>
+  <p class="muted">Au-delà du forfait : 0,50 € le km supplémentaire. Course ponctuelle : prise en charge 5 € + 1,50 € le km. Forfaits valables dans le mois, sans report.</p>
 </div>
+<p class="notice"><strong>Bon à savoir.</strong> Transport sur réservation préalable uniquement. Ce service n'est pas pris en charge par l'Assurance Maladie et n'ouvre pas droit au crédit d'impôt ni à l'avance immédiate des services à la personne.</p>
 
 <h2 id="reserver">Réserver</h2>
 <form action="mailto:contact@dms-aideadomicile.com" method="post" enctype="text/plain">
-  <label>Nom<input name="nom" required></label>
-  <label>Téléphone<input name="tel" type="tel" required></label>
+  <label>Nom<input name="nom" required autocomplete="name"></label>
+  <label>Téléphone<input name="tel" type="tel" required autocomplete="tel"></label>
   <label>Départ<input name="depart" required></label>
   <label>Arrivée<input name="arrivee" required></label>
   <label>Date et heure<input name="quand" type="datetime-local" required></label>
-  <label>Besoins particuliers<textarea name="besoins" rows="3"></textarea></label>
+  <label>Nombre de passagers<input name="passagers" type="number" min="1" max="4" value="1"></label>
+  <label>Besoins particuliers<textarea name="besoins" rows="3" placeholder="Bagages, aide à la montée, siège enfant fourni par vos soins…"></textarea></label>
   <button class="btn" type="submit">Envoyer ma demande</button>
+  <p class="muted">Votre demande n'est confirmée qu'après réception du prix annoncé par écrit.</p>
 </form>
 
 <footer>
-  DMS – De la Mémoire aux Soins · 232 Rue de Sternberg, 51120 Sézanne · 07 49 55 14 85 / 09 54 94 21 31 · contact@dms-aideadomicile.com<br>
-  Transport sur réservation préalable uniquement · Registre des exploitants VTC n° [à compléter]
+  <strong>YouGoo by DMS</strong> – SASU De la Mémoire aux Soins (DMS) · 232 rue de Sternberg, 51120 Sézanne · RCS Reims 981 382 948 · SIRET 981 382 948 00017<br>
+  Registre des exploitants VTC n° [à compléter] · 07 49 55 14 85 / 09 54 94 21 31 · contact@dms-aideadomicile.com<br>
+  Médiateur de la consommation : [à compléter] · Conditions générales de vente : [lien à ajouter]
 </footer>
 </div>
 </body>
