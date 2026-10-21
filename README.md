@@ -14,5 +14,6 @@
 - `docs/12-checklist-carte-vtc.md` : checklist pour obtenir la carte professionnelle VTC
 - `docs/13-reouverture-yougoo-vtc.md` : séquence de réouverture de YouGoo en VTC
 - `docs/14-cout-demarche-vtc-avec-formation.md` : coût de la démarche avec formation
+- `docs/15-fiche-examen-vtc.md` : fiche de préparation à l'examen VTC
 - `docs/vtc-documents/` : devis, contrat, facture, CGV et textes YouGoo VTC (modèles à valider), versions Word dans `docs/vtc-documents/word/`
 - `site/index.html` : site vitrine (placeholders à compléter)
