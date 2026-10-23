@@ -35,8 +35,12 @@ Il évite de reposer des questions déjà traitées. Le mettre à jour dès qu'u
 - Objectif : acheter une maison pour un habitat inclusif avec des personnes pas forcément âgées.
 - Lieu : Marne et Guadeloupe, à comparer.
 - Public : mixte intergénérationnel.
-- Montage juridique : pas encore choisi (propriétaire-bailleur via DMS/SCI, association ou partenaire à comparer).
+- Montage juridique retenu : **SCI solidaire propriétaire + association porteuse du projet de vie sociale et partagée (PVSP)**, DMS séparée (service d'aide au libre choix des habitants). Bail direct de la SCI à chaque habitant.
 - Financement : aucun apport, tout est à trouver.
+- Taille : 5 à 7 habitants.
+- Investisseurs de la SCI : pas encore identifiés (à rechercher).
+- Rôle personnel : fondatrice, puis retrait de la direction (gouvernance autonome à terme).
+- Territoire : veut un comparatif Marne / Guadeloupe avant de choisir.
 
 ## Conversations passées (sessions Claude Code)
 
