@@ -42,6 +42,15 @@ Il évite de reposer des questions déjà traitées. Le mettre à jour dès qu'u
 - Rôle personnel : fondatrice, puis retrait de la direction (gouvernance autonome à terme).
 - Territoire : veut un comparatif Marne / Guadeloupe avant de choisir.
 
+### Résultats de recherche habitat inclusif (23/10/2026)
+
+- AVP : fourchette citée 3 000 à 10 000 € par habitant et par an (socle CNSA indicatif 5 000 €), fixée par le règlement d'aide sociale du département. À confirmer.
+- AVP réservée aux habitants éligibles (personnes âgées de 65 ans et plus, personnes handicapées) : un habitat mixte est possible, mais le modèle économique dépend de la part d'habitants éligibles.
+- Marne : convention CNSA depuis 2022 d'après un document du Département (2023 : 35 habitats financés, 387 habitants). Non vérifié pour 2026.
+- Guadeloupe : AMI départemental clos (23/09/2026), candidature CNSA transmise avant le 15/10/2026. AVP 2026 financée par le Département à hauteur de 50 000 € au total. Contact : veronique.nebor@cg971.fr. Plafond CNSA investissement : 150 000 € par habitat, réservé aux habitats déjà dans la programmation AVP.
+- Fiscalité : « Louer abordable » est clos ; le dispositif actuel est Loc'Avantages (réduction d'impôt) jusqu'au 31/12/2027. Lien Anah / APL non confirmé.
+- Drive : business plan YouGoo Guadeloupe (09/2026) et dossiers d'implantation déjà présents ; une antenne DMS en Guadeloupe est en préparation.
+
 ## Conversations passées (sessions Claude Code)
 
 | Session | Sujet | Branche / dépôt |
