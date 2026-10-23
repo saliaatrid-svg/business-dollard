@@ -30,6 +30,14 @@ Il évite de reposer des questions déjà traitées. Le mettre à jour dès qu'u
 - Date d'envoi de l'attestation fiscale aux clients : formulation neutre « au début de l'année suivante » ; la date réelle reste à confirmer auprès de l'administration fiscale (l'article D. 7233-4 du Code du travail n'en fixe pas).
 - Examen VTC : demandé une fiche d'examen (faite, dans `docs/` de la branche `claude/focused-pasteur-bqjmxe`) ; l'autre livrable proposé a été refusé.
 
+## Projet d'habitat inclusif (23/10/2026)
+
+- Objectif : acheter une maison pour un habitat inclusif avec des personnes pas forcément âgées.
+- Lieu : Marne et Guadeloupe, à comparer.
+- Public : mixte intergénérationnel.
+- Montage juridique : pas encore choisi (propriétaire-bailleur via DMS/SCI, association ou partenaire à comparer).
+- Financement : aucun apport, tout est à trouver.
+
 ## Conversations passées (sessions Claude Code)
 
 | Session | Sujet | Branche / dépôt |
