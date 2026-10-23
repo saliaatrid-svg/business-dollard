@@ -55,6 +55,8 @@ Il évite de reposer des questions déjà traitées. Le mettre à jour dès qu'u
 
 Dans `docs/habitat-inclusif/` : script d'appel au Département de la Marne, fiche projet de 2 pages, modèle économique (xlsx, hypothèses illustratives en jaune), trame du projet de vie sociale et partagée. L'utilisateur a demandé les quatre.
 
+- L'association porteuse n'existe pas encore (23/10/2026). Fondateurs : pas encore identifiés. Présidence : Salia au départ, puis cède la place (disposition transitoire de 12 mois dans les statuts type). Statuts type et procès-verbal préparés (`docs/habitat-inclusif/5_` et `6_`).
+
 ## Conversations passées (sessions Claude Code)
 
 | Session | Sujet | Branche / dépôt |
