@@ -51,6 +51,10 @@ Il évite de reposer des questions déjà traitées. Le mettre à jour dès qu'u
 - Fiscalité : « Louer abordable » est clos ; le dispositif actuel est Loc'Avantages (réduction d'impôt) jusqu'au 31/12/2027. Lien Anah / APL non confirmé.
 - Drive : business plan YouGoo Guadeloupe (09/2026) et dossiers d'implantation déjà présents ; une antenne DMS en Guadeloupe est en préparation.
 
+### Livrables préparés (23/10/2026)
+
+Dans `docs/habitat-inclusif/` : script d'appel au Département de la Marne, fiche projet de 2 pages, modèle économique (xlsx, hypothèses illustratives en jaune), trame du projet de vie sociale et partagée. L'utilisateur a demandé les quatre.
+
 ## Conversations passées (sessions Claude Code)
 
 | Session | Sujet | Branche / dépôt |
