@@ -35,3 +35,12 @@ Détenir une carte non valide est puni d'une amende de 1 500 €.
 
 ## Rappel de prudence
 Avec 16 000 € de CA SAP, le VTC reste limité à environ 400–571 € par mois, sous le seuil de rentabilité : la carte est un investissement d'attente (voir `07-...`). L'association (transport d'utilité sociale) n'en a pas besoin.
+
+## Démarrer cette semaine (contacts vérifiés)
+Sources : [CMA Grand Est – formation VTC](https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-03/04ENR_FIP_FormationVTCFC_260130_V12.pdf) · [Guide d'inscription EXAMENT3P (CMA Grand Est)](https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-03/Guide_Inscription_candidats_EXAMENT3P_CMA_GE_0326_V2.pptx.pdf) · [Préfecture de la Marne – visite médicale](https://www.marne.gouv.fr/contenu/telechargement/39189/290996/file/Dossier%2B%C3%A0%2Bremplir%2Bvisite%2Bm%C3%A9dicale%2Bhors%2Bcommission%2Bm%C3%A9dicale.pdf).
+1. **Casier judiciaire (bulletin n° 2)** : demande en ligne, gratuite.
+2. **Visite médicale** : médecin agréé par le préfet (pas votre médecin traitant). La préfecture de la Marne indique un coût d'environ **36 €** pour la visite, à apporter : pièce d'identité, **cerfa 14880*02** complété, permis de conduire. La liste des médecins agréés est sur marne.gouv.fr ou à demander à la préfecture.
+3. **CMA Grand Est – établissement de la Marne (Reims)** : 68 boulevard Lundy, 51100 Reims – **03 26 40 64 94** – formation51@cma-grandest.fr. Demandez : prochaines sessions de formation VTC (elles ouvrent quand il y a assez d'inscrits), tarif, financement.
+4. **Inscription à l'examen** : plateforme **EXAMENT3P** (voir le guide d'inscription). Choisir VTC et le département d'examen. Vous êtes convoquée à la prochaine session écrite disponible : choisir une date plus tardive fait perdre la garantie réglementaire de 4 mois pour l'ensemble de la procédure.
+5. **Après l'examen** : demande de la carte en ligne (environ 60 €).
+Je n'ai pas trouvé de dates de sessions 2026 publiées pour la Marne : elles sont affichées au moment de l'inscription.
