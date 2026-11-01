@@ -5,6 +5,7 @@ from PIL import Image
 SRC = sys.argv[1]; OUT = sys.argv[2]
 import os
 ILLUS_DIR = sys.argv[4] if len(sys.argv) > 4 else None
+SAP_LOGO = sys.argv[5] if len(sys.argv) > 5 else None   # logotype officiel « Services à la personne » (NOVA)
 PHOTO_DIR = sys.argv[3] if len(sys.argv) > 3 else None   # dossier contenant 01.jpg ... 12.jpg et credits.txt
 PHOTOS = {}; CREDITS = {}
 if PHOTO_DIR and os.path.isdir(PHOTO_DIR):
@@ -39,6 +40,13 @@ im = im.resize((w, h), Image.LANCZOS)
 buf = io.BytesIO(); im.save(buf, "PNG", optimize=True)
 LOGO = base64.b64encode(buf.getvalue()).decode()
 LOGO_RATIO = im.width / im.height
+
+def sap_zone():
+    if SAP_LOGO and os.path.exists(SAP_LOGO):
+        im = Image.open(SAP_LOGO).convert("RGBA"); im.thumbnail((900, 500))
+        bf = io.BytesIO(); im.save(bf, "PNG", optimize=True)
+        return '<div class="sap"><img src="data:image/png;base64,' + base64.b64encode(bf.getvalue()).decode() + '"></div>'
+    return '<div class="sap empty">Emplacement du logotype officiel<br>« Services à la personne »<br><small>à télécharger sur NOVA</small></div>'
 
 MONTHS = ["Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre"]
 DAYS = ["Lun","Mar","Mer","Jeu","Ven","Sam","Dim"]
@@ -117,6 +125,7 @@ cover = f'''<section class="page cover">
     <div class="bigyear">{YEAR}</div>
     <p class="dedic">À toutes les aides à domicile de DMS</p>
     <p class="cphrase">« Merci d'être là, chaque jour. »</p>
+    {sap_zone()}
     <div class="brand light">DMS – De la Mémoire aux Soins · Sézanne</div>
   </div>
 </section>'''
@@ -140,6 +149,8 @@ back = f'''<section class="page back">
       09 54 94 21 31 · 07 49 55 14 85<br>
       contact@dms-aideadomicile.com · www.dms-aideadomicile.com
     </div>
+    {sap_zone()}
+    <p class="legal">SASU DE LA MÉMOIRE AUX SOINS (DMS), au capital de 100 € – 232 rue Sternberg, 51120 Sézanne – SIRET 981 382 948 00017 – RCS Reims. Organisme de services à la personne déclaré sous le n° SAP981382948 (récépissé de déclaration du préfet de la Marne du 16/06/2025). Les activités illustrées sont réalisées dans le cadre de la déclaration de l'organisme, selon les modalités et les publics prévus par la loi.</p>
   </div>
 </section>'''
 
@@ -204,6 +215,13 @@ body { font-family: "Inter", "Liberation Sans", sans-serif; color: #2b1d3d }
 .nums b { font-size: 26pt; color: var(--v); line-height: 1 }
 .nums span { font-size: 8.5pt; line-height: 1.25 }
 .note { margin: 8mm 0; font-size: 11pt; font-style: italic }
+.sap { width: 52mm; height: 24mm; background: #fff; border-radius: 3mm; display: flex; align-items: center; justify-content: center; margin: 5mm auto 0; padding: 2mm; overflow: hidden }
+.sap img { max-width: 100%; max-height: 100% }
+.sap.empty { border: .5mm dashed #9a7fc0; color: #5b2a91; font-size: 7.5pt; line-height: 1.3; text-align: center; background: transparent }
+.sap.empty small { font-size: 6.5pt; opacity: .8 }
+.cover-right .sap { margin: 14mm 0 0; width: 56mm; align-self: flex-start }
+.cover-right .sap.empty { color: #fff; border-color: #cbb6e8 }
+.legal { font-size: 7pt; line-height: 1.4; color: #4a3566; margin: 5mm auto 0; max-width: 200mm }
 .contact { font-size: 10pt; line-height: 1.6; color: var(--v) }
 '''
 CSS = CSS.replace("__LOGO__", LOGO).replace("__RATIO__", f"{LOGO_RATIO:.4f}")

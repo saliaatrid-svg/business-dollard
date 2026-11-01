@@ -11,9 +11,13 @@
 
 Chaque mois montre une activité de services à la personne en dessin animé (garde d'enfants, ménage,
 repassage, jardinage, repas, courses, accompagnement en voiture, trajets des enfants, veille sur la maison,
-présence de nuit, sorties accompagnées, équipe). Elles sont générées par `outil/illus2.py`
-(`python3 illus2.py dossier_svg`, à lancer depuis le dossier `outil`, qui utilise `illus.py`).
-Commande complète : `python3 build_calendrier.py logo.png sortie.html dossier_photos dossier_svg`.
+présence de nuit, sorties accompagnées, équipe). Version manga (celle du PDF) : `outil/illus3.py` (`python3 illus3.py dossier_svg`, à lancer depuis le dossier `outil`).
+Version dessin animé plat : `outil/illus2.py`.
+Commande complète : `python3 build_calendrier.py logo.png sortie.html dossier_photos dossier_svg logo_sap.png`.
+
+## Logotype « Services à la personne » et mentions légales
+
+Le logotype officiel est obligatoire sur les supports commerciaux (circulaire du 03/01/2025, § II-1.3.3). Il se télécharge sur NOVA après acceptation de la licence : il n'est donc pas dans ce dépôt. Un emplacement est réservé sur la couverture et au dos ; déposez le fichier (`logo_sap.png`) et relancez la commande ci-dessus avec ce 5e argument. Les mentions légales sont au dos.
 Une photo `NN.jpg` du dossier photos remplace l'illustration du mois correspondant.
 
 ## Ajouter des photos (une par mois)
