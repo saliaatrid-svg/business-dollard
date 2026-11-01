@@ -68,18 +68,18 @@ specials[d + dt.timedelta(days=14)] = "Fête des pères"
 specials[dt.date(YEAR,10,6)] = "Journée nationale des aidants"
 
 PHRASES = [
- "Votre présence est un cadeau, offert chaque jour à ceux qui comptent sur vous.",
- "Un sourire, une main tendue : vous changez des journées entières.",
- "Prendre soin commence par l'attention. Et l'attention, c'est vous.",
- "Prendre le temps d'écouter, c'est déjà prendre soin.",
- "Ce que vous faites ne se voit pas toujours, mais se ressent toujours.",
- "Chez vous, chaque geste porte du respect.",
- "Même en été, vous tenez la maison des autres avec cœur. Pensez aussi à vous reposer.",
- "Prendre soin des autres, c'est aussi prendre soin de soi.",
- "Ensemble, on va plus loin. Merci à toute l'équipe.",
- "La mémoire s'efface parfois, la bienveillance jamais.",
- "Aider, c'est un métier de cœur et de courage.",
- "Merci pour cette année. Que 2028 vous rende un peu de tout ce que vous donnez.",
+ "Vous faites grandir la confiance, un jeu après l'autre.",
+ "Une maison bien tenue, c'est du bien-être que vous offrez.",
+ "Chaque pli soigneusement repassé redonne du temps à ceux que vous aidez.",
+ "Vous prenez soin du jardin, et de la joie de ceux qui le regardent.",
+ "Un repas partagé, c'est du lien avant d'être une assiette.",
+ "Vos courses du jour préservent l'autonomie de chacun.",
+ "Chaque trajet accompagné, c'est un peu de liberté en plus.",
+ "Un enfant accompagné, des parents rassurés : merci.",
+ "Veiller sur une maison, c'est veiller sur la sérénité de ceux qui l'habitent.",
+ "Une présence rassurante la nuit, c'est un sommeil plus serein.",
+ "Marcher ensemble, c'est retrouver le plaisir du dehors.",
+ "Merci à toute l'équipe : ensemble, on prend soin.",
 ]
 
 def month_page(m):
@@ -153,7 +153,7 @@ body { font-family: "Inter", "Liberation Sans", sans-serif; color: #2b1d3d }
 .logo { background-image: url(data:image/png;base64,__LOGO__); background-repeat: no-repeat; background-position: center; background-size: contain; aspect-ratio: __RATIO__ }
 /* mois */
 .month { display: flex }
-.side { width: 92mm; height: 210mm; background: linear-gradient(170deg, var(--v) 0%, var(--v2) 100%); color: #fff; padding: 14mm 10mm 12mm; display: flex; flex-direction: column; align-items: center; text-align: center }
+.side { width: 92mm; height: 210mm; background: linear-gradient(170deg, var(--v) 0%, var(--v2) 100%); color: #fff; padding: 14mm 7mm 12mm; display: flex; flex-direction: column; align-items: center; text-align: center }
 .logo-card { background: #fff; border-radius: 6mm; width: 46mm; height: 56mm; padding: 4mm; display: flex; align-items: center; justify-content: center; box-shadow: 0 1mm 3mm rgba(0,0,0,.25) }
 .logo-card .logo { height: 100%; width: auto }
 .mname { font-family: "Caladea", "Liberation Serif", serif; font-weight: 700; font-size: 34pt; line-height: 1; margin-top: 10mm }
@@ -162,7 +162,7 @@ body { font-family: "Inter", "Liberation Sans", sans-serif; color: #2b1d3d }
 .side.has-photo .logo-card { width: 34mm; height: 42mm; padding: 3mm }
 .side.has-photo .mname { font-size: 28pt; margin-top: 6mm }
 .side.has-photo .phrase { font-size: 13.5pt; margin-top: 6mm }
-.photo { width: 72mm; height: 52mm; border-radius: 4mm; background-size: cover; background-position: center; margin-top: 7mm; box-shadow: 0 1mm 3mm rgba(0,0,0,.3) }
+.photo { width: 78mm; height: 56mm; border-radius: 4mm; background-size: cover; background-position: center; margin-top: 7mm; box-shadow: 0 1mm 3mm rgba(0,0,0,.3) }
 .credits { font-size: 6.5pt; line-height: 1.4; color: #4a3566; margin: 0 0 6mm }
 .brand { margin-top: auto; font-size: 8.5pt; letter-spacing: .5px; opacity: .85 }
 .brand.light { color: #fff }
@@ -191,7 +191,7 @@ body { font-family: "Inter", "Liberation Sans", sans-serif; color: #2b1d3d }
 .cover-right .side.has-photo .logo-card { width: 34mm; height: 42mm; padding: 3mm }
 .side.has-photo .mname { font-size: 28pt; margin-top: 6mm }
 .side.has-photo .phrase { font-size: 13.5pt; margin-top: 6mm }
-.photo { width: 72mm; height: 52mm; border-radius: 4mm; background-size: cover; background-position: center; margin-top: 7mm; box-shadow: 0 1mm 3mm rgba(0,0,0,.3) }
+.photo { width: 78mm; height: 56mm; border-radius: 4mm; background-size: cover; background-position: center; margin-top: 7mm; box-shadow: 0 1mm 3mm rgba(0,0,0,.3) }
 .credits { font-size: 6.5pt; line-height: 1.4; color: #4a3566; margin: 0 0 6mm }
 .brand { margin-top: auto; font-size: 11pt }
 /* dos */

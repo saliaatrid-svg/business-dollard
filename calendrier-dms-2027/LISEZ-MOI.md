@@ -9,8 +9,10 @@
 
 ## Illustrations
 
-Sans photo, chaque mois porte une illustration de saison (aide à domicile stylisée, aux couleurs du logo),
-générée par `outil/illustrations.py` (`python3 illustrations.py dossier_svg`).
+Chaque mois montre une activité de services à la personne en dessin animé (garde d'enfants, ménage,
+repassage, jardinage, repas, courses, accompagnement en voiture, trajets des enfants, veille sur la maison,
+présence de nuit, sorties accompagnées, équipe). Elles sont générées par `outil/illus2.py`
+(`python3 illus2.py dossier_svg`, à lancer depuis le dossier `outil`, qui utilise `illus.py`).
 Commande complète : `python3 build_calendrier.py logo.png sortie.html dossier_photos dossier_svg`.
 Une photo `NN.jpg` du dossier photos remplace l'illustration du mois correspondant.
 
