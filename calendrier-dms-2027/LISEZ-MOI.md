@@ -7,6 +7,13 @@
   puis impression PDF avec Chromium (`--headless --print-to-pdf`).
   Le logo (`logo simple entreprise.png.png`) est dans le Drive DMS.
 
+## Illustrations
+
+Sans photo, chaque mois porte une illustration de saison (aide à domicile stylisée, aux couleurs du logo),
+générée par `outil/illustrations.py` (`python3 illustrations.py dossier_svg`).
+Commande complète : `python3 build_calendrier.py logo.png sortie.html dossier_photos dossier_svg`.
+Une photo `NN.jpg` du dossier photos remplace l'illustration du mois correspondant.
+
 ## Ajouter des photos (une par mois)
 
 Dossier de photos : `01.jpg` (janvier) à `12.jpg` (décembre), format paysage, au moins 1500 px de large,

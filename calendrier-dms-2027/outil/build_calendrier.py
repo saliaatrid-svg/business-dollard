@@ -4,6 +4,7 @@ from PIL import Image
 
 SRC = sys.argv[1]; OUT = sys.argv[2]
 import os
+ILLUS_DIR = sys.argv[4] if len(sys.argv) > 4 else None
 PHOTO_DIR = sys.argv[3] if len(sys.argv) > 3 else None   # dossier contenant 01.jpg ... 12.jpg et credits.txt
 PHOTOS = {}; CREDITS = {}
 if PHOTO_DIR and os.path.isdir(PHOTO_DIR):
@@ -14,7 +15,7 @@ if PHOTO_DIR and os.path.isdir(PHOTO_DIR):
                 ph = Image.open(p).convert("RGB")
                 ph.thumbnail((1500, 1500))
                 b = io.BytesIO(); ph.save(b, "JPEG", quality=84, optimize=True)
-                PHOTOS[m] = base64.b64encode(b.getvalue()).decode()
+                PHOTOS[m] = "data:image/jpeg;base64," + base64.b64encode(b.getvalue()).decode()
                 break
     cp = os.path.join(PHOTO_DIR, "credits.txt")
     if os.path.exists(cp):
@@ -23,6 +24,12 @@ if PHOTO_DIR and os.path.isdir(PHOTO_DIR):
             if len(parts) >= 3 and parts[0].isdigit():
                 CREDITS[int(parts[0])] = " – ".join(x for x in parts[1:] if x)
 YEAR = 2027
+
+if ILLUS_DIR and os.path.isdir(ILLUS_DIR):
+    for m in range(1, 13):
+        p = os.path.join(ILLUS_DIR, f"{m:02d}.svg")
+        if m not in PHOTOS and os.path.exists(p):
+            PHOTOS[m] = "data:image/svg+xml;base64," + base64.b64encode(open(p, "rb").read()).decode()
 
 # --- logo: crop transparent margins, resize ---
 im = Image.open(SRC).convert("RGBA")
@@ -97,7 +104,7 @@ def month_page(m):
     <div class="mname">{MONTHS[m-1]}</div>
     <div class="year">{YEAR}</div>
     <p class="phrase">« {PHRASES[m-1]} »</p>
-    {('<div class="photo" style="background-image:url(data:image/jpeg;base64,' + PHOTOS[m] + ')"></div>') if m in PHOTOS else ''}
+    {('<div class="photo" style="background-image:url(' + PHOTOS[m] + ')"></div>') if m in PHOTOS else ''}
     <div class="brand">DMS – De la Mémoire aux Soins</div>
   </aside>
   <main class="grid rows{rows}">{''.join(cells)}</main>
