@@ -8,7 +8,12 @@ Sud-ouest marnais (Marne)
 ## Le besoin
 Vos équipes manquent de temps pour aller voir chaque bénéficiaire et recueillir son avis, sa satisfaction et ses remarques. Un regard extérieur rassure les familles et vous donne des retours fiables pour améliorer vos services.
 
+Les questionnaires envoyés par courrier ou remis par les intervenants atteignent mal les personnes isolées, fragiles ou qui ont du mal à écrire. Une visite à domicile leur permet de s’exprimer librement, auprès d’une personne extérieure au service.
+
 ## Ma prestation
+
+Ma prestation **complète votre enquête de satisfaction** : elle cible en priorité les bénéficiaires qui répondent peu aux questionnaires.
+
 Je réalise, pour le compte de votre structure, des **visites à domicile qualité et satisfaction** chez vos bénéficiaires, secteur par secteur :
 - une visite de 30 à 45 minutes, avec l'accord préalable du bénéficiaire ;
 - un **questionnaire détaillé** (ponctualité, qualité des tâches, relation avec l'intervenant et avec la structure, sécurité et bientraitance, satisfaction globale) ;
