@@ -11,7 +11,7 @@ Le Prestataire réalise à titre de test, pour le compte de la Structure, des vi
 
 ## Article 2. Durée et volume
 - Durée du test : [5] semaines, du ____ / ____ / ______ au ____ / ____ / ______.
-- Nombre de visites : [___] au total, soit environ [___] par semaine.
+- Nombre de visites : environ 5 par semaine, soit [25] au total sur la durée du test.
 - Les bénéficiaires sont choisis par la Structure, de préférence parmi ceux qui répondent peu aux questionnaires.
 
 ## Article 3. Déroulement
