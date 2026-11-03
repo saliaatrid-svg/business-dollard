@@ -10,8 +10,8 @@ La structure : [Nom du service, ex. CIAS / SAD de Sézanne], représentée par [
 Le Prestataire réalise à titre de test, pour le compte de la Structure, des visites à domicile qualité et satisfaction chez des bénéficiaires. Cette prestation complète la démarche qualité de la Structure. Elle ne constitue pas l'évaluation externe obligatoire (HAS/COFRAC).
 
 ## Article 2. Durée et volume
-- Durée du test : [5] semaines, du ____ / ____ / ______ au ____ / ____ / ______.
-- Nombre de visites : environ 5 par semaine, soit [25] au total sur la durée du test.
+- Durée du test : 2 semaines, du ____ / ____ / ______ au ____ / ____ / ______.
+- Nombre de visites : 6 au total, réparties sur 2 semaines (environ 3 par semaine).
 - Les bénéficiaires sont choisis par la Structure, de préférence parmi ceux qui répondent peu aux questionnaires.
 
 ## Article 3. Déroulement
