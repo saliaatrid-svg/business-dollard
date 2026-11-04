@@ -32,7 +32,7 @@ Le Prestataire recueille des constats factuels. Il ne donne aucune instruction a
 En cas de situation préoccupante (maltraitance, danger, urgence), le Prestataire prévient sans délai [nom et téléphone de l'interlocuteur désigné] et confirme par écrit sous [24 h].
 
 ## Article 7. Conditions financières
-- Honoraires : le test est **[gratuit / facturé ___ € HT par visite]**.
+- Honoraires : le test est facturé **40 € HT par visite** (6 visites : 240 € HT). Tarif habituel après le test : **55 € HT par visite**, dégressif au-delà de 10 visites par mois.
 - **Frais de déplacement (carburant) : à la charge de la Structure**, remboursés sur la base de **[___ € du km / frais réels sur justificatifs]**, selon le trajet aller-retour réellement parcouru, de la commune de départ du Prestataire au domicile du bénéficiaire. Un état des déplacements (date, trajet, kilomètres) est joint à la facture.
 - Frais soumis à **accord préalable écrit** de la Structure au-delà de [___ €] par mission.
 - Paiement : [30] jours après réception de la facture.

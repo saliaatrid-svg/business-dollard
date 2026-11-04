@@ -36,17 +36,17 @@ En cas de situation préoccupante (maltraitance, danger, urgence), le Prestatair
 
 ## Article 7. Conditions financières
 ### 7.1 Honoraires
-Le test est **[gratuit / facturé ___ € HT par visite / forfait de mission ___ € HT]**.
+Le test est facturé **40 € HT par visite** (6 visites : 240 € HT par Structure). Tarif habituel après le test : **55 € HT par visite**, dégressif au-delà de 10 visites par mois.
 
 ### 7.2 Frais de mission, à la charge de la Structure
 Les frais suivants sont **pris en charge par la Structure**, en plus des honoraires, sur justificatifs :
 | Poste | Modalité |
 |---|---|
-| Billet (aller-retour depuis [ville de départ] vers [territoire]) | Frais réels, classe économique, billet réservé après accord écrit de la Structure |
+| Billet (aller-retour depuis [ville de départ] vers [territoire]) | **Réservé et payé directement par la Structure** (recommandé), ou frais réels refacturés, classe économique, après accord écrit |
 | Véhicule sur place | Location d'un véhicule de catégorie [économique], pour la durée de la mission, frais réels |
 | Carburant | Frais réels sur justificatifs, ou [___ € du km] sur état des déplacements |
 | Repas | Frais réels sur justificatifs, plafonnés à [___ €] par jour, ou forfait de [___ €] par jour de mission |
-| Hébergement | Frais réels sur justificatifs, plafonnés à [___ €] par nuit, réservation après accord écrit de la Structure |
+| Hébergement | **Réservé et payé directement par la Structure** (recommandé), ou frais réels sur justificatifs, plafonnés à [___ €] par nuit, après accord écrit |
 | Autres frais (parking, péages, assurance voyage) | Sur justificatifs, après accord écrit |
 
 ### 7.3 Budget et validation
