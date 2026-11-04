@@ -1,51 +1,49 @@
-# Post LinkedIn : sonder le point de vue des structures
+# Post LinkedIn : sonder l'intérêt pour un consultant
 
-*Image jointe : `post-linkedin.png` (1200 × 630 px, format paysage pour LinkedIn). Vérifiez le texte avant de publier.*
+*Image jointe : `post-linkedin.png` (1200 × 630 px). Le post ne nomme ni votre poste, ni votre offre : il sonde seulement l'intérêt de faire appel à un consultant. Relisez avant de publier.*
 
 ## Version recommandée (à copier)
 
-Et si on allait écouter ceux qui ne répondent pas ?
+Les enquêtes de satisfaction des services d'aide à domicile obtiennent souvent peu de réponses : dans celles que j'ai consultées, environ un tiers des personnes répondent, parfois moins.
 
-Dans les enquêtes de satisfaction que j'ai consultées auprès de services d'aide à domicile, environ un tiers des personnes répondent, parfois moins. Ce sont souvent les personnes isolées ou en difficulté d'écriture qui restent silencieuses.
+Qui parle pour les autres ?
 
-Je réfléchis à une façon de compléter ces enquêtes : rencontrer à domicile, avec leur accord, les bénéficiaires qui ne répondent pas, puis remettre à la structure un compte rendu et des pistes d'amélioration. Cela ne remplace pas l'évaluation externe : c'est un regard extérieur en plus.
+Je me pose une question simple : dans vos structures, **qui aurait intérêt à faire appel à un consultant** pour recueillir l'avis des personnes qui ne répondent pas, et mieux comprendre leur ressenti ?
 
-Je ne sais pas encore si cela répond à un vrai besoin, et c'est pour cela que je vous écris.
-
-Vous dirigez ou travaillez dans un service d'aide à domicile (CIAS, CCAS, association, service privé) ?
+Je ne vends rien, je cherche à comprendre :
 → Comment recueillez-vous aujourd'hui l'avis de vos bénéficiaires ?
 → Quel est votre taux de réponse ?
-→ Une visite faite par une personne extérieure vous serait-elle utile ?
+→ Un regard extérieur vous serait-il utile ?
 
 Vos retours, même critiques, m'aideront beaucoup. Écrivez-moi en commentaire ou en message privé.
 
-Salia Atrid, consultante qualité et satisfaction en services à domicile
+Salia Atrid
 **Crée ton opportunité.**
 
-#AideÀDomicile #Qualité #SatisfactionUsagers #ServicesÀDomicile #Autonomie #PersonnesÂgées
+#AideÀDomicile #Qualité #SatisfactionUsagers #ServicesÀDomicile #Autonomie
 
 ## Version courte
 
-Les enquêtes de satisfaction des services d'aide à domicile obtiennent souvent un tiers de réponses ou moins. Que disent ceux qui ne répondent pas ?
+Les enquêtes de satisfaction des services d'aide à domicile obtiennent souvent un tiers de réponses ou moins.
 
-Je réfléchis à des visites à domicile, en complément de vos enquêtes. Je voudrais connaître votre point de vue : comment recueillez-vous l'avis de vos bénéficiaires, et qu'est-ce qui vous manque ?
+Question aux structures : **qui aurait intérêt à faire appel à un consultant** pour recueillir l'avis de ceux qui ne répondent pas ?
 
-Écrivez-moi, j'ai besoin de vos retours.
+Je cherche votre point de vue, pas à vendre quoi que ce soit. Écrivez-moi.
 
-Crée ton opportunité.
+Salia Atrid
+**Crée ton opportunité.**
 
 #AideÀDomicile #Qualité #SatisfactionUsagers
 
 ## Précautions avant de publier
 - **Rien de faux ni d'exagéré** : je cite « environ un tiers, parfois moins », d'après deux exemples (CCAS de Cachan, ADMR des Côtes-d'Armor). Ne dites pas que le besoin est prouvé ni que personne ne le fait.
-- **Pas de nom de bénéficiaire ni de photo de personne** : vous ne pouvez pas utiliser des images de personnes aidées sans autorisation écrite.
-- **Votre lien avec DMS** : votre profil LinkedIn le montre peut-être. Si c'est le cas, c'est cohérent avec la déclaration que vous ferez dans les conventions.
-- **Pas d'offre commerciale ni de prix** dans ce post : vous sondez, vous ne vendez pas encore.
-- **Statut** : si vous n'avez pas encore de SIRET, restez sur « je réfléchis, je sonde » et ne vendez pas.
-- **Familles Rurales** : si vous préférez la discrétion, ne les mentionnez pas, et ne citez aucune donnée de votre ancien poste.
+- **Pas de photo de personnes aidées** sans autorisation écrite.
+- **Votre lien avec DMS** : votre profil le montre peut-être. À déclarer aux structures avec lesquelles vous contractez.
+- **Pas d'offre ni de prix** dans le post.
+- **Familles Rurales** : ne les mentionnez pas et n'utilisez aucune donnée de votre ancien poste.
 
 ## Conseils de publication
 - Publiez un **mardi, mercredi ou jeudi matin**.
 - Répondez à **chaque commentaire** dans la journée.
-- Contactez en message privé les personnes de structures qui réagissent, pour proposer un échange de 15 minutes.
+- Aux personnes de structures qui réagissent, proposez un échange de 15 minutes en message privé.
 - Notez les réponses dans un tableau : structure, taille, taux de réponse, besoin, budget.
