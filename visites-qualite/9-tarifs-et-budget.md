@@ -32,9 +32,24 @@
 
 **Comparaison pour la structure** : une visite à 55 € représente environ 2,2 heures d'aide à domicile au tarif de 25 € de l'heure (H). Un service qui visite 1 bénéficiaire sur 5 parmi 100 personnes dépense environ 1 100 € HT par an.
 
-## 4. Frais de déplacement en métropole
-- Carburant : **[taux au km] × kilomètres aller-retour**, sur état des déplacements. Le taux peut suivre le barème kilométrique fiscal en vigueur.
-- Un trajet de 50 km aller-retour coûte environ 10 à 25 € selon le taux retenu (H).
+## 4. Frais de déplacement en métropole (carburant à 2,17 € le litre)
+**Coût réel du carburant** (consommation de 6 à 8 litres aux 100 km, H) :
+| Consommation | Carburant par km | Trajet de 60 km A/R |
+|---|---|---|
+| 6 L / 100 km | 0,13 € | 7,8 € |
+| 7 L / 100 km | 0,15 € | 9,1 € |
+| 8 L / 100 km | 0,17 € | 10,4 € |
+
+**Trois façons de facturer le kilométrage**
+| Option | Taux | Trajet de 60 km A/R | Remarque |
+|---|---|---|---|
+| Carburant seul, frais réels | 0,15 € du km (à 7 L/100) | 9,1 € | Rembourse l'essence, mais pas l'usure, l'assurance ni l'amortissement de la voiture |
+| **Carburant + usure (recommandé)** | **0,25 € du km** | **15 €** | Proposition de ma part (H), simple et abordable |
+| Barème kilométrique fiscal, 5 CV | 0,636 € du km jusqu'à 5 000 km par an | 38 € | Valeur officielle citée par plusieurs sources (barème gelé en 2026), à vérifier au BOFiP ; couvre tous les frais du véhicule, mais coûteuse pour la structure |
+
+**Règle d'ajustement** : si le prix du litre varie de plus de 10 % par rapport à 2,17 €, le taux au km est révisé en proportion.
+
+**Forfait « tout compris » en métropole** : 55 € de honoraires + 15 € de déplacement (60 km aller-retour) = **70 € HT la visite**, dans un rayon de 30 km autour de votre commune. Au-delà, 0,25 € du km supplémentaire.
 
 ## 5. Mission Outre-mer : budget de référence (H)
 Hypothèses : 2 semaines, 14 nuits, 24 visites (4 structures × 6 visites).

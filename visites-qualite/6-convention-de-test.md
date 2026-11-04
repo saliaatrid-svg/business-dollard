@@ -33,7 +33,7 @@ En cas de situation préoccupante (maltraitance, danger, urgence), le Prestatair
 
 ## Article 7. Conditions financières
 - Honoraires : le test est facturé **40 € HT par visite** (6 visites : 240 € HT). Tarif habituel après le test : **55 € HT par visite**, dégressif au-delà de 10 visites par mois.
-- **Frais de déplacement (carburant) : à la charge de la Structure**, remboursés sur la base de **[___ € du km / frais réels sur justificatifs]**, selon le trajet aller-retour réellement parcouru, de la commune de départ du Prestataire au domicile du bénéficiaire. Un état des déplacements (date, trajet, kilomètres) est joint à la facture.
+- **Frais de déplacement (carburant) : à la charge de la Structure**, remboursés sur la base de **0,25 € du km** (carburant à 2,17 € le litre à la date de signature ; taux révisé en proportion si le prix du litre varie de plus de 10 %), selon le trajet aller-retour réellement parcouru, de la commune de départ du Prestataire au domicile du bénéficiaire. Un état des déplacements (date, trajet, kilomètres) est joint à la facture.
 - Frais soumis à **accord préalable écrit** de la Structure au-delà de [___ €] par mission.
 - Paiement : [30] jours après réception de la facture.
 - Toute prestation ultérieure fera l'objet d'un devis ou d'un contrat distinct.

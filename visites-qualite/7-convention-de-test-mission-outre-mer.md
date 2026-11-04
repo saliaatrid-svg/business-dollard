@@ -44,7 +44,7 @@ Les frais suivants sont **pris en charge par la Structure**, en plus des honorai
 |---|---|
 | Billet (aller-retour depuis [ville de départ] vers [territoire]) | **Réservé et payé directement par la Structure** (recommandé), ou frais réels refacturés, classe économique, après accord écrit |
 | Véhicule sur place | Location d'un véhicule de catégorie [économique], pour la durée de la mission, frais réels |
-| Carburant | Frais réels sur justificatifs, ou [___ € du km] sur état des déplacements |
+| Carburant | Frais réels sur justificatifs (prix du litre constaté sur place), ou **0,25 € du km** sur état des déplacements |
 | Repas | Frais réels sur justificatifs, plafonnés à [___ €] par jour, ou forfait de [___ €] par jour de mission |
 | Hébergement | **Réservé et payé directement par la Structure** (recommandé), ou frais réels sur justificatifs, plafonnés à [___ €] par nuit, après accord écrit |
 | Autres frais (parking, péages, assurance voyage) | Sur justificatifs, après accord écrit |
