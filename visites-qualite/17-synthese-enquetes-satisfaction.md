@@ -57,6 +57,25 @@ Le [rapport d'activité 2024](https://grand-est.famillesrurales.org/sites/multis
 4. **Le taux de rotation de 28 % et les arrêts maladie** montrent une pression forte sur les équipes : thèmes à explorer dans vos entretiens (continuité de service, remplacements).
 5. **Vous connaissez bien cette réalité** pour y avoir travaillé : utilisez-la comme expérience, sans utiliser d'informations internes.
 
+## 2 quater. Autres structures en France : ce que montrent leurs rapports d'activité
+Recherche élargie à d'autres services (CCAS, CIAS, associations) hors Familles Rurales Marne. Échantillon petit et surtout public, car ce sont les CCAS qui publient leurs rapports.
+
+| Structure | Ce qu'on lit | Source |
+|---|---|---|
+| **SAD du CCAS de Gannat (Allier), 2024** | Activité en hausse d'environ 12 % ; **169 bénéficiaires, 61 questionnaires retournés** (environ 36 % ; 62 sur 134 l'année précédente, environ 46 %, calcul approximatif sur un graphique) ; **67 % vivent seuls** ; **60,65 % ont rempli le questionnaire eux-mêmes** ; satisfaction du travail de l'aide à domicile **98,3 %**, recommandation **100 %** ; satisfaction de **78,7 %** sur l'amabilité du service administratif et **75,4 %** sur son écoute (en baisse de 14,7 et 21,4 points) ; **100 % satisfaits du rendez-vous avec leur responsable de secteur** ; demandes : limiter les changements d'intervenante, améliorer la transmission des messages | [Rapport d'activité 2024](https://ville-gannat.fr/wp-content/uploads/2025/05/Rapport-dactivite-2024.pdf) |
+| **CCAS de Fontenay-aux-Roses, projet de service du SAD, 2025** | Les **visites à domicile sont « impérativement effectuées au minimum une fois par an »** pour ajuster le projet personnalisé ; enquête annuelle dont les résultats doivent être communiqués individuellement ; **partenariat à l'étude avec les Petits Frères des Pauvres pour des visites bénévoles régulières** | [Projet de service](https://www.fontenay-aux-roses.fr/wp-content/uploads/2025/10/DELCCAS251001_19-projet-de-service-SAD.pdf) |
+| **CCAS de Versailles, 2024** | Des « agents de convivialité » de 18 à 25 ans font des visites à domicile (608 en 2022, 800 en 2023 pour 92 à 115 bénéficiaires) : visites de lien social, pas de suivi qualité | [Rapport d'activité 2024](https://www.versailles.fr/fileadmin/www.versailles.fr/MEDIA/solidarites_sante/Actus/2025/V4_rapport_d_activite_2024_compile_-_version_finale.pdf) |
+| **CCAS de Bergerac, 2024** | Les agents rencontrent les personnes fragiles en visite à domicile, « hors les murs » ; enquêtes régulières sur le portage de repas | [Rapport d'activité 2024](https://www.bergerac.fr/wp-content/uploads/2026/02/RAPPORT-DACTIVITE-2024.pdf) |
+| **CIAS Grand Annecy** | Enquête annuelle de satisfaction avec un baromètre qualité retourné aux bénéficiaires | [Projet de service](https://www.grandannecy.fr/fileadmin/mediatheque/fichiers/Mon_quotidien/Aide_aux_personnes_agees/4_pages_Version_synthetique_du_projet_de_service_.pdf) |
+
+**Constats**
+1. **Les visites à domicile de suivi sont une pratique courante, faite en interne** : au moins une fois par an chez Familles Rurales Marne et au CCAS de Fontenay-aux-Roses, avec un rendez-vous apprécié à 100 % à Gannat. Le marché de l'externalisation de ces visites est donc **étroit** : il vise les services qui n'ont pas le temps, qui manquent d'indépendance ou qui veulent un regard extérieur.
+2. **Le taux de réponse est proche de 36 à 46 % à Gannat**, avec **près de 4 questionnaires sur 10 remplis par une autre personne que le bénéficiaire**, ce qui rend le recueil moins fiable.
+3. **Les points faibles sont stables** : relation avec le service administratif (amabilité, écoute), changements d'intervenante, transmission des messages. Ils recoupent ceux de Cachan, de l'ADMR et de Familles Rurales Marne.
+4. **Les services eux-mêmes citent la loi du 2 janvier 2002 comme obligation** d'enquête annuelle (Gannat, Cachan). C'est la pratique, même si je n'ai pas confirmé le texte pour les SAAD.
+5. **Des services cherchent à compléter leurs visites par des acteurs extérieurs** : Fontenay-aux-Roses étudie un partenariat avec des visiteurs bénévoles. Cela montre un besoin de présence à domicile, mais plutôt de lien social que de suivi qualité.
+6. **Aucun appel d'offres ou prestataire externe de visites de satisfaction pour des services d'aide à domicile n'a été trouvé.** Des marchés publics d'enquêtes de satisfaction existent dans d'autres secteurs (bailleurs sociaux, URSSAF), par téléphone ou en ligne : c'est un indice que l'externalisation d'enquêtes est courante ailleurs.
+
 ## 3. Ce que disent les bénéficiaires
 **Points très bien notés, partout**
 - Les intervenants : 90 à 100 % de satisfaction (qualité du travail, amabilité, discrétion, ponctualité, respect de l'intimité).
