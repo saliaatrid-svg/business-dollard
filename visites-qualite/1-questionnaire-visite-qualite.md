@@ -2,7 +2,7 @@
 
 **Structure :** ______________________  **Secteur :** ______________________
 **Date de la visite :** ____ / ____ / ______  **Durée :** ______ min
-**Visiteur :** [Votre nom], [Nom de l'activité]
+**Visiteur :** Salia Atrid, consultante qualité et satisfaction en services à domicile
 
 > Avant de commencer : présentez-vous, rappelez que la visite est faite pour le compte de la structure, que les réponses restent confidentielles dans le cadre de la démarche qualité, et que la personne peut refuser de répondre à une question. Recueillez son accord. ☐ Accord recueilli
 

@@ -35,7 +35,7 @@
 
 Bonjour [Madame / Monsieur],
 
-Je suis [Prénom Nom], [votre fonction]. Je propose aux services d'aide à domicile des **visites à domicile de qualité et de satisfaction**, réalisées pour leur compte auprès de leurs bénéficiaires, avec compte rendu écrit et synthèse.
+Je suis Salia Atrid, consultante qualité et satisfaction en services à domicile. Je propose aux services d'aide à domicile des **visites à domicile de qualité et de satisfaction**, réalisées pour leur compte auprès de leurs bénéficiaires, avec compte rendu écrit et synthèse.
 
 Je serai sur [territoire] du [date] au [date]. Je vous propose de réaliser **6 visites test** auprès de bénéficiaires de votre choix, [offertes / à tarif réduit], afin que vous jugiez le résultat.
 
@@ -44,7 +44,7 @@ Cette prestation complète votre démarche qualité. Elle ne remplace pas l'éva
 Seriez-vous disponible pour un échange de 15 minutes, par téléphone ou en visioconférence, avant mon arrivée ?
 
 Cordialement,
-[Prénom Nom] · [Téléphone] · [Mail] · SIRET [___]
+Salia Atrid · [Téléphone] · [Mail] · SIRET [___]
 
 ## 4. Calendrier type d'une mission de 2 semaines
 | Période | Actions |

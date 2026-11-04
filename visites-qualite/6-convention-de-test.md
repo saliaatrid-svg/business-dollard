@@ -4,7 +4,7 @@
 La structure : [Nom du service, ex. CIAS / SAD de Sézanne], représentée par [Nom, fonction], adresse [___] (« la Structure »)
 
 **Et**
-[Prénom Nom], micro-entrepreneur, SIRET [___], adresse [___], activité : visites à domicile qualité et satisfaction (« le Prestataire »)
+Salia Atrid, consultante qualité et satisfaction en services à domicile, micro-entrepreneur, SIRET [___], adresse [___], activité : visites à domicile qualité et satisfaction (« le Prestataire »)
 
 ## Article 1. Objet
 Le Prestataire réalise à titre de test, pour le compte de la Structure, des visites à domicile qualité et satisfaction chez des bénéficiaires. Cette prestation complète la démarche qualité de la Structure. Elle ne constitue pas l'évaluation externe obligatoire (HAS/COFRAC).

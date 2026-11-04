@@ -1,6 +1,6 @@
 # Visites à domicile qualité et satisfaction
 
-**[Nom de l'activité]** : prestation externalisée pour les structures d'aide à domicile
+**Salia Atrid, consultante qualité et satisfaction en services à domicile** : prestation externalisée pour les structures d'aide à domicile
 Sud-ouest marnais (Marne)
 
 ---
@@ -38,5 +38,5 @@ Je réalise, pour le compte de votre structure, des **visites à domicile qualit
 - **Visite test** : [___ visites à tarif réduit / offertes] pour juger du résultat.
 
 ## Contact
-[Votre nom] · [Nom de l'activité] · [Téléphone] · [Mail]
+Salia Atrid · Consultante qualité et satisfaction en services à domicile · [Téléphone] · [Mail]
 SIRET : [___]

@@ -8,7 +8,7 @@
 | Secteur | |
 | Date de la visite | |
 | Bénéficiaire (initiales ou n° dossier) | |
-| Visiteur | [Votre nom], [Nom de l'activité] |
+| Visiteur | Salia Atrid, consultante qualité et satisfaction en services à domicile |
 | Remise du compte rendu | |
 
 ## 1. Contexte

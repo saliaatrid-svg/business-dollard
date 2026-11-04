@@ -4,7 +4,7 @@
 La Structure : [Nom du service], représentée par [Nom, fonction], adresse [___] (« la Structure »)
 
 **Et**
-[Prénom Nom], micro-entrepreneur, SIRET [___], adresse [___] (« le Prestataire »)
+Salia Atrid, consultante qualité et satisfaction en services à domicile, micro-entrepreneur, SIRET [___], adresse [___] (« le Prestataire »)
 
 **Lien d'intérêt déclaré.** Le Prestataire dirige par ailleurs la société DMS (De la Mémoire aux Soins), déclarée en services à la personne. Cette société est distincte de la présente prestation, qui n'engage aucun de ses moyens, locaux ou données. Le Prestataire s'engage à ne pas visiter les bénéficiaires de ses propres services.
 

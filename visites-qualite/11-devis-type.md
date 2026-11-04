@@ -1,7 +1,7 @@
 # DEVIS N° [___]
 
 **Prestataire**
-[Prénom Nom], micro-entrepreneur
+Salia Atrid, consultante qualité et satisfaction en services à domicile, micro-entrepreneur
 [Adresse] · [Téléphone] · [Mail]
 SIRET : [___]
 TVA non applicable, article 293 B du CGI *(à confirmer, notamment pour l'outre-mer)*

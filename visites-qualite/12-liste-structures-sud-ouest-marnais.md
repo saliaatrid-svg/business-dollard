@@ -29,7 +29,7 @@
 
 Bonjour [Madame / Monsieur],
 
-Je suis [Prénom, ou signature de votre nom commercial], [diplômée d'État aide-soignante, ancienne responsable de secteur / votre parcours]. Je propose aux services d'aide à domicile des **visites à domicile de qualité et de satisfaction**, réalisées pour leur compte auprès de leurs bénéficiaires, avec compte rendu écrit et synthèse.
+Je suis Salia Atrid, consultante qualité et satisfaction en services à domicile, diplômée d'État aide-soignante et ancienne responsable de secteur. Je propose aux services d'aide à domicile des **visites à domicile de qualité et de satisfaction**, réalisées pour leur compte auprès de leurs bénéficiaires, avec compte rendu écrit et synthèse.
 
 Les questionnaires envoyés par courrier atteignent mal les personnes isolées ou fragiles. Une visite à domicile leur permet de s'exprimer librement, avec une personne extérieure au service. Cette prestation complète votre démarche qualité : elle ne remplace pas l'évaluation externe obligatoire.
 
@@ -38,7 +38,7 @@ Je vous propose un **test de 6 visites** auprès de bénéficiaires de votre cho
 Seriez-vous disponible pour un échange de 15 minutes, par téléphone ou en rendez-vous ?
 
 Cordialement,
-[Signature] · [Téléphone] · [Mail]
+Salia Atrid · Consultante qualité et satisfaction en services à domicile · [Téléphone] · [Mail]
 
 *Mention du lien avec DMS : à indiquer dans la convention, avant toute visite.*
 

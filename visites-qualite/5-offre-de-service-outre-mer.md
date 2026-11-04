@@ -1,6 +1,6 @@
 # Visites à domicile qualité et satisfaction : version Outre-mer
 
-**[Prénom Nom], visites à domicile qualité et satisfaction**
+**Salia Atrid, consultante qualité et satisfaction en services à domicile**
 Guadeloupe · Martinique · Guyane · La Réunion *(garder les territoires visés)*
 
 ---
@@ -38,4 +38,4 @@ Je complète votre enquête de satisfaction. Pour le compte de votre service, je
 - **Visite test** : **[___ visites offertes / à tarif réduit]**.
 
 ## Contact
-[Prénom Nom] · [Téléphone] · [Mail] · SIRET [___]
+Salia Atrid · [Téléphone] · [Mail] · SIRET [___]
