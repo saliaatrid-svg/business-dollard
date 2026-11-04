@@ -77,3 +77,29 @@ Accueil et première rencontre, évaluation des besoins, information sur les tar
 ## 7. Pour la Marne
 - Demander aux structures leurs résultats de satisfaction : c'est l'une des questions du guide d'entretien.
 - Les structures publiques (CCAS, CIAS) peuvent être sollicitées par écrit pour leurs documents administratifs (conditions à vérifier).
+
+## 8. Guadeloupe
+*Recherche menée sur le même principe que pour la Marne. Plusieurs documents officiels étaient inaccessibles depuis cette session (site de l'ARS Guadeloupe en erreur 403, diagnostic ORSAG indisponible, avis du Département introuvable) : je n'ai pu utiliser que des extraits de recherche.*
+
+**Résultats de satisfaction ou rapports d'activité de services de Guadeloupe : aucun trouvé.**
+
+| Donnée | Valeur | Source / fiabilité |
+|---|---|---|
+| Services autonomie à domicile (aide) | **88** ; 15 en aide et soins | [Annuaire officiel](https://www.pour-les-personnes-agees.gouv.fr/annuaire-service-aide-accompagnement-domicile/guadeloupe-971) |
+| Répartition de l'offre | Bien répartie sur la Guadeloupe continentale ; activité faible à Port-Louis, Deshaies, Vieux-Fort et Baillif (double insularité) ; accès limité aux soins infirmiers à domicile | ARS Guadeloupe, janvier 2025 (extrait) |
+| Bénéficiaires de l'APA à domicile | **7 233** au 31 décembre 2009 (dernier chiffre départemental trouvé, ancien) | [Réponse parlementaire](https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE78461.pdf) |
+| Emplois d'aide à domicile | environ **3 700** en 2013 | [INSEE](https://insee.fr/fr/statistiques/fichier/3294503/ga_ind_15_services_particuliers_collectivites.pdf) |
+| Service d'aide à domicile du CCAS de Pointe-à-Pitre | 10 à 19 salariés en 2022 | [Pappers](https://www.pappers.fr/entreprise/269710208), non officiel |
+| Dotation qualité | Cadre national (décret 2022-735), **aucun appel propre à la Guadeloupe trouvé pour 2025-2026** | Recherche web |
+| Réforme en cours | Appels à manifestation d'intérêt du Département et de l'ARS en 2026 pour transformer les services en services autonomie à domicile « aide » et « mixtes » | Extrait de recherche |
+
+**Ce que cela suggère**
+- **La réforme des services autonomie est une opportunité** : des services en transformation doivent structurer leur démarche qualité. À vérifier auprès du Département et de l'ARS.
+- **Un manque de données publiques** : aucune enquête de satisfaction publiée trouvée. Il faudra la demander directement aux structures.
+- **Le marché est en principe plus vaste que dans le sud-ouest marnais** (88 services), mais il est aussi éloigné de votre base, avec des frais de mission élevés (voir la mutualisation).
+- **Les chiffres sur les bénéficiaires sont anciens** : 2009 pour l'APA, 2013 pour l'emploi. Ne les utilisez pas comme chiffres actuels.
+
+**Pour aller plus loin**
+1. Consulter manuellement les fiches de l'annuaire : elles renvoient parfois à des rapports d'évaluation HAS.
+2. Demander au Département de la Guadeloupe et à l'ARS les chiffres actuels et les appels en cours.
+3. Interroger les structures de la liste du plan de lancement outre-mer sur leur recueil de satisfaction.
