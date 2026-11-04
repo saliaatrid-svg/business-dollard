@@ -79,7 +79,20 @@
 - **En Savoie 2026, l'objectif 1, la qualité de vie au travail des intervenants, est obligatoire et doit représenter au moins 50 % de la dotation.** Les actions financées sont du tutorat, du matériel, des primes, des véhicules, des groupes de pratiques.
 - Les « questionnaires de satisfaction » cités dans deux appels concernent le **diagnostic de qualité de vie au travail des salariés**, pas la satisfaction des usagers.
 - L'objectif « lutter contre l'isolement » (repérer les situations d'isolement, « aller vers » les personnes isolées) est le seul qui s'en rapproche. **En Savoie, il est limité à 10 % de l'enveloppe.**
-- À la différence, la dotation de la Marne a financé chez Familles Rurales du temps de responsable de secteur pour des visites de suivi qualité : l'usage dépend du Département et du service. Je n'ai pas pu lire l'appel à candidatures de la Marne lui-même (lien inaccessible).
+**L'appel à candidatures de la Marne lui-même, lu grâce au document que vous m'avez transmis** (publié le 21 mai 2024, réponse avant le 21 juillet 2024, CPOM avant le 1er janvier 2025) :
+- **Qui peut candidater** : tout service autonomie à domicile **autorisé** par le Département, avec un CPOM à signer et une limitation du reste à charge (tarif au plus 15 % au-dessus du tarif de remboursement de l'APA et de la PCH).
+- **Montant** : une moyenne cible de **3,311 € en 2024 par heure d'APA et de PCH**, indexée sur l'inflation.
+- **Objectifs prioritaires du Département** (chaque service doit en retenir au moins un) : l'**accompagnement de personnes à profil spécifique** (GIR 1 et 2, ou plan PCH supérieur à 90 heures par mois), l'**amplitude horaire** (soirs, week-ends, jours fériés) et la **qualité de vie au travail** des intervenants.
+- **Actions éligibles pour les profils spécifiques**, dont deux qui touchent votre sujet : **« renforcer le temps de coordination et la capacité des responsables de secteur à accompagner la qualité des interventions »** et **« repérer les fragilités »**. C'est ce qui explique le temps de responsable de secteur financé chez Familles Rurales Marne.
+- **Isolement** (objectif non prioritaire) : « repérer les situations d'isolement », rencontres collectives, temps de convivialité.
+- **Actions « innovantes »** : un service peut proposer d'autres actions entrant dans les six objectifs de la loi, soumises à la validation du Département. Les coûts ne doivent pas être « manifestement hors de proportion » et les actions doivent être **pluriannuelles et structurantes**, liées au projet de service.
+- **Aucune mention** de visites de satisfaction des usagers, d'enquêtes ou de prestataires extérieurs.
+
+**Ce que cela signifie pour vous**
+- Une visite de satisfaction **générale** n'entre pas clairement dans les actions listées.
+- Elle pourrait entrer, **si le service la propose et que le Département la valide**, comme **renfort de la capacité de suivi qualité** et **repérage des fragilités**, surtout auprès des **personnes très dépendantes (GIR 1 et 2) ou à plan PCH important**, ou comme **repérage de l'isolement**.
+- Cela demande que le service l'inscrive dans son CPOM : **ce n'est pas votre démarche, c'est la sienne**, et ce n'est pas garanti.
+- **Question à poser au Département** (adresse indiquée dans l'appel : saad@marne.fr) : *« Dans le cadre de la dotation complémentaire, un service peut-il inscrire à son CPOM l'achat de visites à domicile de suivi qualité et de repérage des fragilités, réalisées par un prestataire extérieur, au titre du renforcement de la capacité des responsables de secteur ? Faut-il le présenter comme une action innovante ? »*
 
 | Exemple (H) | Dotation annuelle (3,4 € par heure) | 100 visites externes à 55 € | Part de la dotation |
 |---|---|---|---|
