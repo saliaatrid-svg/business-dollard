@@ -8,9 +8,9 @@
 | **CIAS de Sézanne – Sud-Ouest Marnais** | Sézanne | CIAS | Vous a orientée vers votre cliente. Une offre d'emploi le mentionne. | **1** |
 | **SAD de Sézanne** | Sézanne | Service d'aide à domicile | Cible du test. Nom exact et responsable à confirmer. | **1** |
 | **SSIAD du Sud Ouest Marnais** | Sézanne, rue de la Paix | Service de soins infirmiers à domicile | [Fiche de l'annuaire officiel](https://www.pour-les-personnes-agees.gouv.fr/annuaire-soins-infirmiers-domicile/marne-51/sezanne-51120/ssiad-du-sud-ouest-marnais/510011406) (FINESS 510011406). Services de soins : à aborder avec précaution, leur démarche qualité diffère. | 2 |
-| **SIADSOM** (association « Soins infirmiers domicile Sud Ouest Marnais ») | Sézanne | Association | Registre SIRENE : activité principale « aide à domicile ». Une offre d'emploi évoque 14 salariés. À rapprocher du SSIAD ci-dessus : peut-être la même structure. | 2 |
+| **SIADSOM** (association « Soins infirmiers domicile Sud Ouest Marnais », SIREN 343 218 582) | Sézanne | Association | Registre SIRENE : activité principale « aide à domicile ». Une offre d'emploi évoque 14 salariés. Gestionnaire probable du SSIAD ci-dessus, **non confirmé** par les sources. **Aucun lien trouvé avec Familles Rurales.** | 2 |
 | **Instan 51** | Esternay (offre d'emploi) | Réseau privé | Une offre d'aide-ménager(e) la mentionne. Coordonnées à trouver. | 3 |
-| **Familles Rurales Marne, service autonomie** | Épernay | Association | **À éviter au début**, vu votre départ. | – |
+| **Familles Rurales Marne, service autonomie** | Épernay | Association | **À éviter au début**, vu votre départ. Elle gère aussi des SSIAD à Étoges (Centre-Ouest), Vitry-le-François et Saint-Martin-sur-le-Pré, pas à Sézanne d'après l'annuaire. | – |
 
 ## 2. Pour compléter la liste
 - [Annuaire officiel : 17 services autonomie à domicile dans la Marne](https://www.pour-les-personnes-agees.gouv.fr/annuaire-soins-infirmiers-domicile/marne-51). Filtrez par commune : Esternay, Montmirail, Fère-Champenoise, Anglure, Vertus.
