@@ -39,6 +39,21 @@ Ce rapport est le seul document trouvé qui concerne **la Marne**. Il contient :
 
 **Autres rapports d'activité consultés** : Familles Rurales Centre-Val de Loire 2024 et Île-de-France 2024 (rien sur l'aide à domicile), SAD Familles Rurales de la Sarthe 2020 (rien sur la satisfaction), rapports de CIAS (Grand Annecy 2023, un CIAS de la communauté rlv.eu 2023) : ils **annoncent des enquêtes de satisfaction sans en donner les résultats**. Les rapports d'activité détaillent rarement les résultats : le rapport de Familles Rurales Marne est une exception.
 
+## 2 ter. Le rapport d'activité 2024 de Familles Rurales Marne : un point décisif
+Le [rapport d'activité 2024](https://grand-est.famillesrurales.org/sites/multisite.famillesrurales.org._grand-est/files/ckeditor/contenus/departemental/fichiers/RAPPORT%20D%E2%80%99ACTIVIT%C3%89%202024%20_%20final.pdf) (assemblée générale du 19 juin 2025) apporte des chiffres précis sur le service d'aide à domicile, **financés par la dotation qualité du Département** :
+- **697 visites à domicile en 2024**, grâce à **0,60 équivalent temps plein de responsable de secteur** supplémentaire : **249** pour présenter le service et mettre en place les interventions, **423** pour la **qualité de service, le suivi et la réévaluation des plans d'aide**, **25** pour des réclamations.
+- **Une pratique systématique** : visite à domicile pour toute première demande et **une fois par an pour un suivi qualité**.
+- **Personnel** : 257 salariés en CDI (183,69 équivalents temps plein), 302 CDD pour 75 salariés, **28 % de rotation**, **191 salariées en arrêt maladie pour 40 720 heures**, deux départs de responsables de secteur remplacés en cours d'année.
+- **Aides financées** : 8 564 heures de « pied levé » (remplacement en urgence), primes de tutorat, 8 véhicules sans permis et 3 véhicules thermiques (140 000 km), 5 chargés de territoire contre l'isolement.
+- **Mobilité solidaire** : 167 visites à domicile réalisées pour les inscriptions, afin de mieux connaître la situation des bénéficiaires.
+
+**Ce que cela change pour votre projet**
+1. **Le plus grand service de la Marne fait déjà, en interne, ce que vous proposez** : environ 420 visites qualité et suivi par an, avec un financement du Département. Vous ne pouvez pas lui vendre cette prestation, sauf pour un regard extérieur ou une analyse.
+2. **La dotation qualité finance du temps de responsable de secteur** : un argument pour les structures qui n'ont pas cette capacité, mais aussi un risque : les fonds peuvent servir à embaucher plutôt qu'à externaliser.
+3. **Votre positionnement doit viser les structures plus petites** (CCAS, CIAS, petits services privés) sans responsable de secteur dédié, ou proposer un **regard indépendant** là où la structure ne peut pas s'évaluer elle-même.
+4. **Le taux de rotation de 28 % et les arrêts maladie** montrent une pression forte sur les équipes : thèmes à explorer dans vos entretiens (continuité de service, remplacements).
+5. **Vous connaissez bien cette réalité** pour y avoir travaillé : utilisez-la comme expérience, sans utiliser d'informations internes.
+
 ## 3. Ce que disent les bénéficiaires
 **Points très bien notés, partout**
 - Les intervenants : 90 à 100 % de satisfaction (qualité du travail, amabilité, discrétion, ponctualité, respect de l'intimité).
@@ -81,7 +96,11 @@ Accueil et première rencontre, évaluation des besoins, information sur les tar
 ## 8. Guadeloupe
 *Recherche menée sur le même principe que pour la Marne. Plusieurs documents officiels étaient inaccessibles depuis cette session (site de l'ARS Guadeloupe en erreur 403, diagnostic ORSAG indisponible, avis du Département introuvable) : je n'ai pu utiliser que des extraits de recherche.*
 
-**Résultats de satisfaction ou rapports d'activité de services de Guadeloupe : aucun trouvé.**
+**Résultats de satisfaction ou rapports d'activité de services d'aide à domicile de Guadeloupe : aucun trouvé.** J'ai cherché les rapports du Département, du CCAS de Pointe-à-Pitre, de ceux des Abymes, de Baie-Mahault, de Basse-Terre et du Gosier, d'associations locales, de Familles Rurales, de la Croix-Rouge, de la CAF et de la CGSS de Guadeloupe. Aucun n'est publié en ligne à ma connaissance, ou aucun n'a été retrouvé.
+
+**Rapports d'activité lus, sans lien direct avec les services d'aide à domicile**
+- [Rapport d'activité 2024 de la CAF de la Guadeloupe](https://www.caf.fr/sites/default/files/medias/971/Activite-Caf-RA-Portrait-social/Rapportactivite2024.pdf) : 243 682 personnes couvertes par une prestation (59,2 % de la population) ; la satisfaction y concerne les usagers de la CAF, pas l'aide à domicile.
+- [Rapport d'activité 2024 des Petits Frères des Pauvres, Fraternité Antilles-Guyane](https://www.petitsfreresdespauvres.fr/wp-content/uploads/2024/06/RA-ANTILLES-GUYANE_HD.pdf) : décrit sur ce territoire un **vieillissement rapide, un isolement renforcé par l'éloignement géographique, des retraites modestes, un accès inégal aux services et un tissu familial parfois distendu**. L'association fait des visites régulières par des bénévoles. C'est un témoignage utile sur l'isolement, et un acteur local possible pour vos échanges.
 
 | Donnée | Valeur | Source / fiabilité |
 |---|---|---|
