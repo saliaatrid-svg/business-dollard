@@ -73,6 +73,22 @@
 - À l'échelle de la **Marne entière**, 300 visites représentent environ 30 à 40 % du potentiel : très ambitieux.
 - Il faut donc **élargir** (départements voisins) ou **vendre plus de visites par bénéficiaire** (accueil, suivi à un mois, après incident).
 
+## 6 bis. Coût et financement : ce qui tient, et ce qui n'est pas établi
+**Dotation qualité** : la dotation complémentaire est d'environ **3 € par heure** (montant de référence de 2022, indexé sur l'inflation ; **3,383 € en 2025** dans un département) pour les heures d'APA et de PCH, versée par le Département pour des actions choisies parmi six objectifs (profils de prise en charge spécifiques, amplitude horaire, couverture du territoire, soutien aux aidants, qualité de vie au travail, lutte contre l'isolement). Sources : [Savoie](https://www.savoie.fr/web/sw_177612/aac-2026-dotation-complementaire-cd73-cahier-des-charges), [Ille-et-Vilaine](https://www.ille-et-vilaine.fr/sites/iev/files/2025-07/AAPdotationCompl%C3%A9mentaireSAD2025.pdf), [Marne, appel 2024](https://marne.fr/telecharger/253319). Je n'ai pas confirmé que **l'achat d'une prestation extérieure** soit une dépense éligible.
+
+| Exemple (H) | Dotation annuelle (3,4 € par heure) | 100 visites externes à 55 € | Part de la dotation |
+|---|---|---|---|
+| Service de 10 000 heures APA/PCH | environ 34 000 € | 5 500 € | environ 16 % |
+| Service de 30 000 heures APA/PCH | environ 101 000 € | 5 500 € | environ 5 % |
+
+**Comparaison avec le coût d'un poste interne (H)** : le minimum conventionnel d'un responsable de secteur serait d'environ **2 296 € brut par mois** (coefficient 398 × valeur du point 5,77 € : calcul à vérifier sur la grille officielle de la branche). Avec les charges patronales, le coût employeur serait d'environ **3 100 à 3 300 € par mois**, soit 38 000 à 40 000 € par an. Pour environ 1 600 heures productives, cela donne environ **24 € de l'heure**, donc **36 à 48 € par visite** de 1 h 30 à 2 h, si le temps est pleinement utilisé.
+
+**Conclusion**
+- **« Moins cher » n'est pas établi.** À plein volume, une visite faite en interne coûte probablement **moins** que 55 €. L'avantage de l'externalisation n'est pas le prix unitaire.
+- **Ce qui tient** : pas de poste à créer, paiement à la visite, aucune difficulté de recrutement, un regard indépendant, et une dépense qui peut être couverte par la dotation qualité (à confirmer).
+- **Pour qui c'est avantageux** : un service qui n'a besoin que de 20 à 100 visites par an (pas de poste justifié), un service dont le responsable de secteur manque de temps, ou une structure qui veut une évaluation indépendante de son recueil.
+- **Une comparaison favorable** : face à l'évaluation externe HAS (environ 10 000 €, tous les 5 ans, autre activité), vos visites coûtent beaucoup moins cher, mais elles ne la remplacent pas.
+
 ## 7. Analyse forces / faiblesses
 | Forces | Faiblesses |
 |---|---|
