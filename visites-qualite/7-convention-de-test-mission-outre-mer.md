@@ -35,10 +35,44 @@ Le Prestataire recueille des constats factuels. Il ne donne aucune instruction a
 En cas de situation préoccupante (maltraitance, danger, urgence), le Prestataire prévient sans délai [nom et téléphone de l'interlocuteur désigné] et confirme par écrit sous [24 h].
 
 ## Article 7. Conditions financières
-- Le test est **[gratuit / facturé ___ € HT par visite / forfait de mission ___ € HT]**.
-- Frais de déplacement et d'hébergement : **[à la charge du Prestataire / inclus dans le forfait / remboursés sur justificatifs]**.
+### 7.1 Honoraires
+Le test est **[gratuit / facturé ___ € HT par visite / forfait de mission ___ € HT]**.
+
+### 7.2 Frais de mission, à la charge de la Structure
+Les frais suivants sont **pris en charge par la Structure**, en plus des honoraires, sur justificatifs :
+| Poste | Modalité |
+|---|---|
+| Billet (aller-retour depuis [ville de départ] vers [territoire]) | Frais réels, classe économique, billet réservé après accord écrit de la Structure |
+| Véhicule sur place | Location d'un véhicule de catégorie [économique], pour la durée de la mission, frais réels |
+| Carburant | Frais réels sur justificatifs, ou [___ € du km] sur état des déplacements |
+| Repas | Frais réels sur justificatifs, plafonnés à [___ €] par jour, ou forfait de [___ €] par jour de mission |
+| Hébergement | Frais réels sur justificatifs, plafonnés à [___ €] par nuit, réservation après accord écrit de la Structure |
+| Autres frais (parking, péages, assurance voyage) | Sur justificatifs, après accord écrit |
+
+### 7.3 Budget et validation
+- Un **budget prévisionnel de mission** (annexe 1) est transmis avant le départ. La Structure le valide par écrit : les frais engagés dans ce cadre sont dus, même si une visite est annulée pour une cause qui ne dépend pas du Prestataire.
+- Tout dépassement de plus de [10] % du budget validé requiert un nouvel accord écrit.
+- **Avance** : la Structure verse [___ %] du budget prévisionnel avant le départ **[si elle le peut]**. Le solde est facturé à la fin de la mission avec les justificatifs.
+- Si la Structure annule la mission moins de [___] jours avant le départ, les frais non remboursables déjà engagés (billet, hébergement, location) restent dus.
+
+### 7.4 Facturation et TVA
+- Les frais sont facturés avec les honoraires, sur une facture unique distinguant honoraires et frais de mission.
 - TVA : **[non applicable, article 293 B du CGI / à préciser avec l'administration pour ce territoire]**.
-- Délai de paiement : [30] jours.
+- Délai de paiement : [30] jours après réception de la facture.
+
+### Annexe 1. Budget prévisionnel de mission
+| Poste | Montant estimé |
+|---|---|
+| Honoraires (___ visites) | ___ € |
+| Billet aller-retour | ___ € |
+| Véhicule (___ jours) | ___ € |
+| Carburant | ___ € |
+| Repas (___ jours) | ___ € |
+| Hébergement (___ nuits) | ___ € |
+| Autres frais | ___ € |
+| **Total prévisionnel** | **___ €** |
+
+Si la mission est partagée entre plusieurs structures du même territoire, les frais communs (billet, véhicule, hébergement) sont répartis entre elles selon [le nombre de visites / parts égales].
 
 ## Article 8. Assurance
 Le Prestataire déclare être couvert par une assurance responsabilité civile professionnelle **[à confirmer avant la première visite]**.
