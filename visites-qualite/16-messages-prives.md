@@ -56,7 +56,7 @@
 6. Quelles difficultés rencontrez-vous ? (temps, isolement des personnes, personnes qui ne savent pas écrire)
 7. Avez-vous déjà fait appel à quelqu'un d'extérieur pour cela ?
 8. Si un consultant vous proposait des visites à domicile auprès de ceux qui ne répondent pas, qu'est-ce qui vous intéresserait ? Qu'est-ce qui vous freinerait ?
-9. Avez-vous un budget, ou des financements possibles (dotation qualité du Département) pour ce type d'action ?
+9. Avez-vous un budget pour ce type d'action ? Pour quoi utilisez-vous la dotation qualité du Département (qualité de vie au travail, isolement, autre) ?
 10. Qui d'autre devrais-je interroger dans votre réseau ?
 
 **Clôture (2 minutes)**

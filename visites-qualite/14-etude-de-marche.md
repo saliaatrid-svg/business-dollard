@@ -43,7 +43,7 @@
 - Le **Département de la Marne** a publié un [appel à candidatures le 21 mai 2024](https://marne.fr/telecharger/182349) pour financer des actions améliorant la qualité du service. L'appel de 2025 est lié aux centres ressources territoriaux. Je n'ai pas trouvé d'appel 2026.
 - Beaucoup d'autres départements publient chaque année des appels du même type.
 
-**Lecture** : vos visites pourraient être financées par cette dotation. À confirmer auprès du Département et des structures.
+**Lecture** : **non vérifié.** Voir la section 6 bis : les appels à candidatures que j'ai lus ne prévoient pas le financement de visites de satisfaction des usagers par un prestataire extérieur.
 
 ## 5. Concurrence
 | Alternative | Ce qu'elle fait | Écart avec votre offre |
@@ -74,7 +74,12 @@
 - Il faut donc **élargir** (départements voisins) ou **vendre plus de visites par bénéficiaire** (accueil, suivi à un mois, après incident).
 
 ## 6 bis. Coût et financement : ce qui tient, et ce qui n'est pas établi
-**Dotation qualité** : la dotation complémentaire est d'environ **3 € par heure** (montant de référence de 2022, indexé sur l'inflation ; **3,383 € en 2025** dans un département) pour les heures d'APA et de PCH, versée par le Département pour des actions choisies parmi six objectifs (profils de prise en charge spécifiques, amplitude horaire, couverture du territoire, soutien aux aidants, qualité de vie au travail, lutte contre l'isolement). Sources : [Savoie](https://www.savoie.fr/web/sw_177612/aac-2026-dotation-complementaire-cd73-cahier-des-charges), [Ille-et-Vilaine](https://www.ille-et-vilaine.fr/sites/iev/files/2025-07/AAPdotationCompl%C3%A9mentaireSAD2025.pdf), [Marne, appel 2024](https://marne.fr/telecharger/253319). Je n'ai pas confirmé que **l'achat d'une prestation extérieure** soit une dépense éligible.
+**Dotation qualité** : la dotation complémentaire est d'environ **3 € par heure** (montant de référence de 2022, indexé sur l'inflation ; **3,383 € en 2025** dans un département) pour les heures d'APA et de PCH, versée par le Département pour des actions choisies parmi six objectifs (profils de prise en charge spécifiques, amplitude horaire, couverture du territoire, soutien aux aidants, qualité de vie au travail, lutte contre l'isolement). Sources : [Savoie](https://www.savoie.fr/web/sw_177612/aac-2026-dotation-complementaire-cd73-cahier-des-charges), [Ille-et-Vilaine](https://www.ille-et-vilaine.fr/sites/iev/files/2025-07/AAPdotationCompl%C3%A9mentaireSAD2025.pdf), [Marne, appel 2024](https://marne.fr/telecharger/253319). **Je n'ai pas confirmé que l'achat d'une prestation extérieure soit une dépense éligible. Vérification faite sur quatre appels à candidatures (Savoie 2026, Ille-et-Vilaine 2025, Côtes-d'Armor 2025, Orne 2026) : aucun ne cite le financement de visites de satisfaction des usagers ni de prestataires extérieurs.** Ce qu'ils disent :
+- La dotation est « strictement réservée aux dépenses de fonctionnement » du service (Ille-et-Vilaine).
+- **En Savoie 2026, l'objectif 1, la qualité de vie au travail des intervenants, est obligatoire et doit représenter au moins 50 % de la dotation.** Les actions financées sont du tutorat, du matériel, des primes, des véhicules, des groupes de pratiques.
+- Les « questionnaires de satisfaction » cités dans deux appels concernent le **diagnostic de qualité de vie au travail des salariés**, pas la satisfaction des usagers.
+- L'objectif « lutter contre l'isolement » (repérer les situations d'isolement, « aller vers » les personnes isolées) est le seul qui s'en rapproche. **En Savoie, il est limité à 10 % de l'enveloppe.**
+- À la différence, la dotation de la Marne a financé chez Familles Rurales du temps de responsable de secteur pour des visites de suivi qualité : l'usage dépend du Département et du service. Je n'ai pas pu lire l'appel à candidatures de la Marne lui-même (lien inaccessible).
 
 | Exemple (H) | Dotation annuelle (3,4 € par heure) | 100 visites externes à 55 € | Part de la dotation |
 |---|---|---|---|
@@ -85,7 +90,7 @@
 
 **Conclusion**
 - **« Moins cher » n'est pas établi.** À plein volume, une visite faite en interne coûte probablement **moins** que 55 €. L'avantage de l'externalisation n'est pas le prix unitaire.
-- **Ce qui tient** : pas de poste à créer, paiement à la visite, aucune difficulté de recrutement, un regard indépendant, et une dépense qui peut être couverte par la dotation qualité (à confirmer).
+- **Ce qui tient** : pas de poste à créer, paiement à la visite, aucune difficulté de recrutement, un regard indépendant, et une dépense qui pourrait, selon le Département, entrer dans la dotation qualité (**non vérifié, et plutôt improbable pour un prestataire extérieur d'après les appels lus**).
 - **Pour qui c'est avantageux** : un service qui n'a besoin que de 20 à 100 visites par an (pas de poste justifié), un service dont le responsable de secteur manque de temps, ou une structure qui veut une évaluation indépendante de son recueil.
 - **Une comparaison favorable** : face à l'évaluation externe HAS (environ 10 000 €, tous les 5 ans, autre activité), vos visites coûtent beaucoup moins cher, mais elles ne la remplacent pas.
 
@@ -108,7 +113,7 @@
 2. **Ajouter des visites à d'autres moments** : visite d'accueil d'un nouveau bénéficiaire, visite de suivi à un mois, visite après un incident. Cela multiplie les visites par structure.
 3. **Proposer l'analyse** : un rapport annuel comparant les secteurs ou les années, facturé en plus.
 4. **Élargir** : Marne entière, départements voisins, puis missions ponctuelles ailleurs.
-5. **Chercher les financements** : dotation qualité, appels à candidatures, mutualisation entre structures.
+5. **Chercher les financements** avec prudence : la dotation qualité est surtout orientée vers la qualité de vie au travail des intervenants (au moins 50 % dans l'exemple de la Savoie). Interrogez le Département de la Marne sur ses règles. Autres pistes : le budget de fonctionnement des services, la mutualisation entre structures.
 6. **Mesurer le test de Sézanne** : le prix accepté, le volume demandé, l'utilité perçue.
 
 ## 9. Vérifications faites, et ce qui reste à confirmer
