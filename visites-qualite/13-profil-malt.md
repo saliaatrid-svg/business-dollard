@@ -8,7 +8,7 @@
 *Variante :* Visites de satisfaction à domicile pour services d'aide à domicile (CIAS, CCAS, associations)
 
 ## Présentation (à copier)
-Je suis consultante indépendante, diplômée d'État aide-soignante et ancienne responsable de secteur en aide à domicile. J'aide les services d'aide à domicile à recueillir l'avis réel de leurs bénéficiaires, en particulier de ceux qui répondent peu aux questionnaires papier.
+Je suis consultante indépendante, diplômée d'État aide-soignante et ancienne responsable de secteur en aide à domicile, où j'ai réalisé pendant un an, environ deux fois par semaine, des visites à domicile de suivi qualité. J'aide les services d'aide à domicile à recueillir l'avis réel de leurs bénéficiaires, en particulier de ceux qui répondent peu aux questionnaires papier.
 
 **Ma mission :** je me rends au domicile des bénéficiaires, avec leur accord, pour un entretien de 30 à 45 minutes. Vous recevez un compte rendu écrit par visite, une synthèse par secteur et des pistes d'amélioration. Je vous signale immédiatement toute situation préoccupante.
 

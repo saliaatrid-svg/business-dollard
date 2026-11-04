@@ -25,6 +25,9 @@ Je réalise, pour le compte de votre structure, des **visites à domicile qualit
 - Je ne réalise pas l'évaluation externe obligatoire (HAS/COFRAC). Mes visites complètent votre démarche qualité, elles ne la remplacent pas.
 - Je ne donne aucune instruction aux intervenants et je ne porte aucun jugement RH. Je remets des constats factuels.
 
+## Mon expérience
+Diplômée d'État aide-soignante et ancienne responsable de secteur en aide à domicile, j'ai réalisé pendant un an, environ deux fois par semaine, des visites à domicile de suivi qualité auprès de bénéficiaires d'un service d'aide à domicile. Je connais donc le terrain, les attentes des bénéficiaires et ce qu'un compte rendu doit apporter à une structure.
+
 ## Mes engagements
 - **Confidentialité et RGPD** : les informations restent à votre structure, avec accès limité et conservation convenue.
 - **Respect de la personne** : visite uniquement avec son accord, et elle peut refuser de répondre.

@@ -29,7 +29,7 @@
 
 Bonjour [Madame / Monsieur],
 
-Je suis Salia Atrid, consultante qualité et satisfaction en services à domicile, diplômée d'État aide-soignante et ancienne responsable de secteur. Je propose aux services d'aide à domicile des **visites à domicile de qualité et de satisfaction**, réalisées pour leur compte auprès de leurs bénéficiaires, avec compte rendu écrit et synthèse.
+Je suis Salia Atrid, consultante qualité et satisfaction en services à domicile, diplômée d'État aide-soignante et ancienne responsable de secteur : j'ai réalisé pendant un an, environ deux fois par semaine, des visites à domicile de suivi qualité. Je propose aux services d'aide à domicile des **visites à domicile de qualité et de satisfaction**, réalisées pour leur compte auprès de leurs bénéficiaires, avec compte rendu écrit et synthèse.
 
 Les questionnaires envoyés par courrier atteignent mal les personnes isolées ou fragiles. Une visite à domicile leur permet de s'exprimer librement, avec une personne extérieure au service. Cette prestation complète votre démarche qualité : elle ne remplace pas l'évaluation externe obligatoire.
 

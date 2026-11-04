@@ -26,6 +26,9 @@ Je complète votre enquête de satisfaction. Pour le compte de votre service, je
 - Respect des usages locaux : prise de rendez-vous par téléphone ou par un proche, présence possible de l'aidant.
 - Questionnaire adapté au vocabulaire local, avec une version orale quand la personne ne lit pas facilement.
 
+## Mon expérience
+Diplômée d'État aide-soignante et ancienne responsable de secteur en aide à domicile, j'ai réalisé pendant un an, environ deux fois par semaine, des visites à domicile de suivi qualité auprès de bénéficiaires d'un service d'aide à domicile. Je connais donc le terrain, les attentes des bénéficiaires et ce qu'un compte rendu doit apporter à une structure.
+
 ## Mes engagements
 - **Confidentialité et RGPD** : données limitées au nécessaire, partagées avec votre seul service.
 - **Respect de la personne** : visite avec son accord, et elle peut refuser de répondre.
