@@ -4,7 +4,8 @@ import sys, os
 from PIL import Image, ImageDraw, ImageFont
 logo_p, out = sys.argv[1], sys.argv[2]; sap_p = sys.argv[3] if len(sys.argv) > 3 else None
 os.makedirs(out, exist_ok=True)
-PL = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'calendrier-dms-2027', 'planche')
+_B = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'calendrier-dms-2027')
+PL = os.path.join(_B, 'planche_sans_mois') if os.path.isdir(os.path.join(_B, 'planche_sans_mois')) else os.path.join(_B, 'planche')
 V, V2, BG = (91,42,145), (123,63,191), (247,242,251)
 F = lambda n, s: ImageFont.truetype(f'/usr/share/fonts/opentype/inter/Inter-{n}.otf', s)
 logo = Image.open(logo_p).convert('RGBA'); logo = logo.crop(logo.getbbox())
