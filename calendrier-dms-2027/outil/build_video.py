@@ -2,9 +2,9 @@
 """Video DMS 1080x1920 (~50 s). usage: build_video.py logo.png out_dir"""
 import sys, os, subprocess
 from PIL import Image, ImageDraw, ImageFont
-logo_p, out = sys.argv[1], sys.argv[2]
+logo_p, out = sys.argv[1], sys.argv[2]; sap_p = sys.argv[3] if len(sys.argv) > 3 else None
 os.makedirs(out, exist_ok=True)
-HERE = os.path.dirname(os.path.abspath(__file__)); PL = os.path.join(HERE, '..', 'planche')
+HERE = os.path.dirname(os.path.abspath(__file__)); PL = os.path.join(HERE, '..', 'calendrier-dms-2027', 'planche') if os.path.isdir(os.path.join(HERE, '..', 'calendrier-dms-2027', 'planche')) else os.path.join(HERE, '..', 'planche')
 W, H = 1080, 1920
 BG, V, V2, Y = (247,242,251), (91,42,145), (123,63,191), (242,216,28)
 F = lambda n, s: ImageFont.truetype(f'/usr/share/fonts/opentype/inter/Inter-{n}.otf', s)
@@ -72,10 +72,13 @@ legal = ("SASU De la Mémoire aux Soins (DMS) – 232 rue Sternberg, 51120 Séza
          "Organisme de services à la personne déclaré sous le n° SAP981382948. "
          "Crédit d’impôt de 50 % sur les services éligibles, selon la réglementation en vigueur.")
 fl = F('Regular', 28); lines = wrap(d, legal, fl, W-180)
-center(d, lines, fl, 1560, (74,53,102), 1.35)
-# emplacement logotype SAP (fichier officiel NOVA à fournir)
-d.rounded_rectangle([W/2-230, 1740, W/2+230, 1860], 14, outline=(154,127,192), width=3)
-center(d, ['Logotype « Services à la personne »', '(à insérer – fichier NOVA)'], F('Medium', 26), 1762, V, 1.3)
+center(d, lines, fl, 1480, (74,53,102), 1.35)
+# logotype SAP (fichier officiel NOVA / Drive) ou emplacement vide
+if sap_p and os.path.exists(sap_p):
+    s2 = Image.open(sap_p).convert('RGBA'); s2.thumbnail((260, 200)); im.paste(s2, (int(W/2-s2.width/2), 1660), s2)
+else:
+    d.rounded_rectangle([W/2-230, 1740, W/2+230, 1860], 14, outline=(154,127,192), width=3)
+    center(d, ['Logotype « Services à la personne »', '(à insérer – fichier NOVA)'], F('Medium', 26), 1762, V, 1.3)
 im.save(f'{out}/s99.png'); scenes.append(('s99', 9.0, "Contactez-nous pour parler de vos besoins."))
 
 # render

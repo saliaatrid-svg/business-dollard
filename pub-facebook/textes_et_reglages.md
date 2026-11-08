@@ -1,7 +1,7 @@
 # Pub Facebook DMS – textes et réglages
 
 ## Avant de publier (bloquant)
-- Insérer le logotype « Services à la personne » (fichier NOVA) : relancer `python3 build_pub.py logo.png visuels logo_sap.png`.
+- Logotype SAP inséré (fichier Traceur_SAP_buro_rvb_png.png du Drive, copie dans assets/logotype_SAP.png).
 - Les illustrations affichent encore un nom de mois (« Février – », « Octobre – », « Juin – ») : à remplacer par des versions sans mois si possible.
 
 ## Réglages Meta (Gestionnaire de publicités)
